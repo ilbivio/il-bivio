@@ -131,13 +131,14 @@
       background: var(--gold-soft);
       border: 1px solid rgba(245, 185, 66, 0.35);
       color: var(--gold);
-      padding: 7px 12px;
+      padding: 7px 13px;
       border-radius: 999px;
       font-size: 12.5px;
-      font-weight: 700;
+      font-weight: 800;
       display: inline-flex;
       align-items: center;
       gap: 5px;
+      box-shadow: 0 0 15px rgba(245, 185, 66, 0.15);
     }
 
     .progress-wrap {
@@ -200,6 +201,8 @@
       justify-content: space-between;
       align-items: center;
       margin-bottom: 18px;
+      flex-wrap: wrap;
+      gap: 8px;
     }
 
     .card-number {
@@ -396,7 +399,7 @@
       justify-content: space-between;
       align-items: center;
       gap: 14px;
-      margin-bottom: 20px;
+      margin-bottom: 22px;
       flex-wrap: wrap;
     }
 
@@ -433,50 +436,101 @@
       box-shadow: 0 6px 20px rgba(245, 185, 66, 0.45);
     }
 
-    .cta-row {
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
+    /* Social Share Section */
+    .share-section-title {
+      font-size: 11.5px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.09em;
+      color: var(--muted);
+      margin-bottom: 10px;
+      text-align: center;
     }
 
-    .btn-primary {
-      flex: 1;
-      min-width: 190px;
-      background: linear-gradient(135deg, #10B981 0%, #059669 100%);
-      color: #062118;
-      border: none;
-      border-radius: 12px;
-      padding: 14px 18px;
-      font-size: 14.5px;
-      font-weight: 800;
-      cursor: pointer;
-      transition: transform 0.15s, box-shadow 0.15s;
-      box-shadow: 0 6px 20px rgba(16, 185, 129, 0.3);
+    .social-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      margin-bottom: 18px;
     }
 
-    .btn-primary:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 8px 25px rgba(16, 185, 129, 0.45);
+    @media (min-width: 520px) {
+      .social-grid {
+        grid-template-columns: repeat(4, 1fr);
+      }
     }
 
-    .btn-secondary {
-      flex: 1;
-      min-width: 190px;
-      background: var(--surface-2);
-      color: var(--ink);
+    .social-btn {
       border: 1px solid var(--border);
       border-radius: 12px;
-      padding: 14px 18px;
-      font-size: 14.5px;
+      padding: 11px 10px;
+      font-size: 13px;
       font-weight: 700;
       cursor: pointer;
-      transition: all 0.15s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      color: #FFFFFF;
+      transition: transform 0.15s, filter 0.15s, border-color 0.15s;
+      font-family: inherit;
     }
 
-    .btn-secondary:hover {
-      border-color: var(--gold);
-      background: var(--gold-soft);
-      color: #FFFFFF;
+    .social-btn:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.1);
+    }
+
+    .social-wa {
+      background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+      border-color: rgba(37, 211, 102, 0.4);
+    }
+
+    .social-x {
+      background: #0F1419;
+      border-color: #333B48;
+    }
+
+    .social-fb {
+      background: linear-gradient(135deg, #1877F2 0%, #0C5DC7 100%);
+      border-color: rgba(24, 119, 242, 0.4);
+    }
+
+    .social-ig {
+      background: linear-gradient(135deg, #F58529 0%, #DD2A7B 50%, #8134AF 100%);
+      border-color: rgba(221, 42, 123, 0.4);
+    }
+
+    /* Countdown Box Giornaliero */
+    .countdown-box {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px;
+      text-align: center;
+    }
+
+    .countdown-label {
+      font-size: 12px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .countdown-timer {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--gold);
+      letter-spacing: 0.06em;
+    }
+
+    .countdown-sub {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 3px;
     }
 
     .ad-banner {
@@ -597,6 +651,8 @@
       transition: opacity 0.25s;
       z-index: 100;
       box-shadow: 0 10px 25px rgba(0, 0, 0, 0.45);
+      text-align: center;
+      max-width: 90vw;
     }
 
     .toast.show { opacity: 1; }
@@ -609,11 +665,11 @@
         <div class="brand-mark">B</div>
         <div>
           <div class="brand-title">IL BIVIO</div>
-          <div class="brand-sub">365 Dilemmi • Oracolo Quotidiano</div>
+          <div class="brand-sub">1 Dilemma al Giorno • 365 Opere</div>
         </div>
       </div>
       <div class="header-actions">
-        <span class="streak-pill" title="Giorni consecutivi">🔥 <span id="streakCount">1</span>g</span>
+        <span class="streak-pill" title="Serie di giorni consecutivi (salvata in automatico)">🔥 <span id="streakCount">0</span> giorni</span>
         <button class="pill-btn" id="openArchiveBtn">📚 <span id="unlockedCount">0</span>/365</button>
       </div>
     </header>
@@ -630,8 +686,8 @@
 
     <main class="card" id="gameCard">
       <div class="card-top">
-        <span class="card-number" id="cardNumber">BIVIO #1</span>
-        <div class="attempts" title="Tentativi rimasti">
+        <span class="card-number" id="cardNumber">BIVIO DI OGGI</span>
+        <div class="attempts" title="Tentativi rimasti oggi">
           <span>Vite:</span>
           <span class="dot" id="dot1"></span>
           <span class="dot" id="dot2"></span>
@@ -639,7 +695,7 @@
         </div>
       </div>
 
-      <p class="scenario" id="scenarioText">Caricamento dilemma...</p>
+      <p class="scenario" id="scenarioText">Caricamento dilemma del giorno...</p>
       <h1 class="question" id="questionText"></h1>
 
       <div class="options" id="optionsBox"></div>
@@ -660,9 +716,18 @@
           <a class="amazon-btn" id="amazonLink" href="#" target="_blank" rel="noopener noreferrer">Scopri su Amazon →</a>
         </div>
 
-        <div class="cta-row">
-          <button class="btn-primary" id="shareBtn">📤 Condividi il tuo Bivio</button>
-          <button class="btn-secondary" id="nextBtn">🎲 Prossimo Bivio</button>
+        <div class="share-section-title">Condividi il tuo risultato di oggi</div>
+        <div class="social-grid">
+          <button class="social-btn social-wa" id="shareWaBtn">💬 WhatsApp</button>
+          <button class="social-btn social-x" id="shareXBtn">𝕏 Posta su X</button>
+          <button class="social-btn social-fb" id="shareFbBtn">📘 Facebook</button>
+          <button class="social-btn social-ig" id="shareIgBtn">📸 Instagram</button>
+        </div>
+
+        <div class="countdown-box">
+          <div class="countdown-label">Hai completato il tuo Bivio di oggi</div>
+          <div class="countdown-timer" id="countdownTimer">--:--:--</div>
+          <div class="countdown-sub">Torna domani per mantenere viva la tua serie 🔥</div>
         </div>
       </section>
     </main>
@@ -702,17 +767,67 @@
     const AMAZON_TAG = "ilbivio-21";
 
     const ALL_CARDS = window.CARTE_BIVIO || [];
-    const STORAGE_KEY = "il_bivio_unlocked_v2";
-    const STREAK_KEY = "il_bivio_streak_v2";
-    let unlockedIds = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
+    const STORAGE_UNLOCKED = "il_bivio_unlocked_v2";
+    const STORAGE_STREAK = "il_bivio_streak_v3";
+    const STORAGE_DAILY = "il_bivio_daily_state_v3";
+
+    let unlockedIds = JSON.parse(localStorage.getItem(STORAGE_UNLOCKED) || "[]");
     let currentCard = null;
     let attemptsLeft = 3;
     let solved = false;
+    let wrongIndices = [];
     let currentFilter = "all";
 
     const el = (id) => document.getElementById(id);
 
-    // Effetti sonori discreti via Web Audio API (nessun file esterno richiesto)
+    // Data locale in formato YYYY-MM-DD (così scatta esattamente alla mezzanotte dell'utente)
+    function getLocalDateStr(dateObj = new Date()) {
+      const y = dateObj.getFullYear();
+      const m = String(dateObj.getMonth() + 1).padStart(2, "0");
+      const d = String(dateObj.getDate()).padStart(2, "0");
+      return `${y}-${m}-${d}`;
+    }
+
+    function getYesterdayDateStr() {
+      const d = new Date();
+      d.setDate(d.getDate() - 1);
+      return getLocalDateStr(d);
+    }
+
+    // Gestione Streak persistente senza registrazione
+    function loadStreakDisplay() {
+      const saved = JSON.parse(localStorage.getItem(STORAGE_STREAK) || '{"count":0,"lastCompletedDate":""}');
+      const today = getLocalDateStr();
+      const yesterday = getYesterdayDateStr();
+      // Se l'ultima volta che ha completato era prima di ieri, la serie si è interrotta (mostra 0 finché non completa oggi)
+      if (saved.lastCompletedDate && saved.lastCompletedDate !== today && saved.lastCompletedDate !== yesterday) {
+        saved.count = 0;
+        localStorage.setItem(STORAGE_STREAK, JSON.stringify(saved));
+      }
+      el("streakCount").textContent = saved.count || 0;
+    }
+
+    function markStreakCompletedToday() {
+      const today = getLocalDateStr();
+      const yesterday = getYesterdayDateStr();
+      const saved = JSON.parse(localStorage.getItem(STORAGE_STREAK) || '{"count":0,"lastCompletedDate":""}');
+
+      if (saved.lastCompletedDate === today) {
+        el("streakCount").textContent = saved.count;
+        return;
+      }
+
+      if (saved.lastCompletedDate === yesterday) {
+        saved.count = (saved.count || 0) + 1;
+      } else {
+        saved.count = 1;
+      }
+      saved.lastCompletedDate = today;
+      localStorage.setItem(STORAGE_STREAK, JSON.stringify(saved));
+      el("streakCount").textContent = saved.count;
+    }
+
+    // Effetti sonori discreti via Web Audio API
     function playTone(type) {
       try {
         const ctx = new (window.AudioContext || window.webkitAudioContext)();
@@ -741,18 +856,6 @@
       } catch (e) {}
     }
 
-    function updateStreak() {
-      const today = new Date().toISOString().slice(0, 10);
-      const saved = JSON.parse(localStorage.getItem(STREAK_KEY) || '{"count":0,"lastDate":""}');
-      if (saved.lastDate !== today) {
-        const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
-        saved.count = (saved.lastDate === yesterday) ? saved.count + 1 : 1;
-        saved.lastDate = today;
-        localStorage.setItem(STREAK_KEY, JSON.stringify(saved));
-      }
-      el("streakCount").textContent = saved.count || 1;
-    }
-
     function getRank(count) {
       if (count >= 250) return "Oracolo";
       if (count >= 120) return "Maestro del Bivio";
@@ -772,10 +875,22 @@
       el("progressFill").style.width = `${pct}%`;
     }
 
-    function pickRandomCard() {
+    function pickRandomNewCard() {
       const remaining = ALL_CARDS.filter(c => !unlockedIds.includes(c.id));
       const pool = remaining.length > 0 ? remaining : ALL_CARDS;
       return pool[Math.floor(Math.random() * pool.length)];
+    }
+
+    function saveDailyState() {
+      if (!currentCard) return;
+      const state = {
+        date: getLocalDateStr(),
+        cardId: currentCard.id,
+        attemptsLeft: attemptsLeft,
+        solved: solved,
+        wrongIndices: wrongIndices
+      };
+      localStorage.setItem(STORAGE_DAILY, JSON.stringify(state));
     }
 
     function renderDots() {
@@ -784,39 +899,71 @@
       }
     }
 
-    function loadCard(card) {
-      currentCard = card;
+    function loadDailySession() {
+      const today = getLocalDateStr();
+      const savedDaily = JSON.parse(localStorage.getItem(STORAGE_DAILY) || "null");
+
+      if (savedDaily && savedDaily.date === today) {
+        const found = ALL_CARDS.find(c => c.id === savedDaily.cardId);
+        if (found) {
+          currentCard = found;
+          attemptsLeft = savedDaily.attemptsLeft ?? 3;
+          solved = !!savedDaily.solved;
+          wrongIndices = savedDaily.wrongIndices || [];
+          renderCardUI();
+          return;
+        }
+      }
+
+      // Nuovo giorno: assegna 1 sola carta per oggi
+      currentCard = pickRandomNewCard();
       attemptsLeft = 3;
       solved = false;
-      renderDots();
+      wrongIndices = [];
+      saveDailyState();
+      renderCardUI();
+    }
 
-      el("cardNumber").textContent = `BIVIO #${card.id}`;
-      el("scenarioText").textContent = card.scenario;
-      el("questionText").textContent = card.domanda;
+    function renderCardUI() {
+      renderDots();
+      el("cardNumber").textContent = `BIVIO DI OGGI • #${currentCard.id}`;
+      el("scenarioText").textContent = currentCard.scenario;
+      el("questionText").textContent = currentCard.domanda;
       el("trapFeedback").style.display = "none";
       el("revealBox").style.display = "none";
 
       const box = el("optionsBox");
       box.innerHTML = "";
-      card.opzioni.forEach((opt) => {
+      currentCard.opzioni.forEach((opt, idx) => {
         const btn = document.createElement("button");
         btn.className = "option-btn";
         btn.textContent = opt.testo;
-        btn.onclick = () => handleChoice(btn, opt);
+
+        if (wrongIndices.includes(idx)) {
+          btn.classList.add("wrong");
+          btn.disabled = true;
+        }
+
+        btn.onclick = () => handleChoice(btn, opt, idx);
         box.appendChild(btn);
       });
+
+      if (solved) {
+        showRevealUI();
+      }
     }
 
-    function handleChoice(btn, opt) {
+    function handleChoice(btn, opt, idx) {
       if (solved) return;
 
       if (opt.giusta) {
         btn.classList.add("correct");
         playTone("win");
-        completeCard(true);
+        completeDailyCard();
       } else {
         btn.classList.add("wrong");
         btn.disabled = true;
+        if (!wrongIndices.includes(idx)) wrongIndices.push(idx);
         attemptsLeft--;
         renderDots();
         playTone("wrong");
@@ -825,14 +972,27 @@
         fb.textContent = `⚠️ ${opt.trappola}`;
         fb.style.display = "block";
 
+        saveDailyState();
+
         if (attemptsLeft <= 0) {
-          completeCard(false);
+          completeDailyCard();
         }
       }
     }
 
-    function completeCard(won) {
+    function completeDailyCard() {
       solved = true;
+      if (!unlockedIds.includes(currentCard.id)) {
+        unlockedIds.push(currentCard.id);
+        localStorage.setItem(STORAGE_UNLOCKED, JSON.stringify(unlockedIds));
+        updateProgress();
+      }
+      markStreakCompletedToday();
+      saveDailyState();
+      showRevealUI();
+    }
+
+    function showRevealUI() {
       const buttons = el("optionsBox").querySelectorAll("button");
       buttons.forEach((b, idx) => {
         b.disabled = true;
@@ -840,13 +1000,6 @@
           b.classList.add("correct");
         }
       });
-
-      if (!unlockedIds.includes(currentCard.id)) {
-        unlockedIds.push(currentCard.id);
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(unlockedIds));
-        updateProgress();
-      }
-      updateStreak();
 
       el("typeBadge").textContent = currentCard.tipo === "romanzo" ? "📖 Grande Narrativa" : "🧭 Saggezza Pratica";
       el("authorName").textContent = currentCard.autore;
@@ -861,25 +1014,75 @@
       el("revealBox").style.display = "block";
     }
 
+    // Costruzione messaggio di condivisione
+    function getShareMessage() {
+      const streak = el("streakCount").textContent || "1";
+      const tries = 4 - attemptsLeft;
+      const scoreIcon = attemptsLeft === 3 ? "🟢 al 1° colpo" : (attemptsLeft > 0 ? `🟡 in ${tries} tentativi` : "🔴 sbloccato");
+      return `Il mio Bivio di oggi (#${currentCard.id}) mi ha portato a ${currentCard.autore} (${currentCard.opera}) ${scoreIcon} • Serie: 🔥 ${streak}g.
+E tu chi sei oggi? Scoprilo qui: ${window.location.href}`;
+    }
+
     function showToast(msg) {
       const t = el("toast");
       t.textContent = msg;
       t.classList.add("show");
-      setTimeout(() => t.classList.remove("show"), 2400);
+      setTimeout(() => t.classList.remove("show"), 2800);
     }
 
-    el("shareBtn").onclick = () => {
-      const tries = 4 - attemptsLeft;
-      const scoreIcon = attemptsLeft === 3 ? "🟢 al 1° colpo" : (attemptsLeft > 0 ? `🟡 in ${tries} tentativi` : "🔴 sbloccato");
-      const text = `Il mio Bivio #${currentCard.id} mi ha portato a ${currentCard.autore} (${currentCard.opera}) ${scoreIcon}.
-Scopri chi sei tu oggi: ${window.location.href}`;
-      navigator.clipboard.writeText(text).then(() => showToast("Copiato! Incollalo su WhatsApp o X."));
+    // Pulsanti Social Diretti
+    el("shareWaBtn").onclick = () => {
+      const text = encodeURIComponent(getShareMessage());
+      window.open(`https://api.whatsapp.com/send?text=${text}`, "_blank", "noopener,noreferrer");
     };
 
-    el("nextBtn").onclick = () => {
-      loadCard(pickRandomCard());
-      window.scrollTo({ top: 0, behavior: "smooth" });
+    el("shareXBtn").onclick = () => {
+      const text = encodeURIComponent(getShareMessage());
+      window.open(`https://twitter.com/intent/tweet?text=${text}`, "_blank", "noopener,noreferrer");
     };
+
+    el("shareFbBtn").onclick = () => {
+      const msg = getShareMessage();
+      navigator.clipboard.writeText(msg).catch(() => {});
+      const u = encodeURIComponent(window.location.href);
+      const quote = encodeURIComponent(msg);
+      window.open(`https://www.facebook.com/sharer/sharer.php?u=${u}&quote=${quote}`, "_blank", "noopener,noreferrer");
+      showToast("Testo copiato! Incollalo nel post Facebook se richiesto.");
+    };
+
+    el("shareIgBtn").onclick = async () => {
+      const msg = getShareMessage();
+      try {
+        await navigator.clipboard.writeText(msg);
+      } catch (e) {}
+      if (navigator.share) {
+        try {
+          await navigator.share({
+            title: "IL BIVIO — Il mio risultato di oggi",
+            text: msg,
+            url: window.location.href
+          });
+          return;
+        } catch (e) {}
+      }
+      showToast("Risultato copiato! Apri Instagram e incollalo nelle Storie o in Direct.");
+    };
+
+    // Countdown in tempo reale fino a mezzanotte
+    function updateCountdown() {
+      const now = new Date();
+      const midnight = new Date();
+      midnight.setHours(24, 0, 0, 0);
+      const diff = Math.max(0, midnight - now);
+
+      const h = String(Math.floor(diff / 3600000)).padStart(2, "0");
+      const m = String(Math.floor((diff % 3600000) / 60000)).padStart(2, "0");
+      const s = String(Math.floor((diff % 60000) / 1000)).padStart(2, "0");
+      el("countdownTimer").textContent = `${h}:${m}:${s}`;
+    }
+
+    setInterval(updateCountdown, 1000);
+    updateCountdown();
 
     function renderArchive() {
       const q = el("searchInput").value.toLowerCase().trim();
@@ -891,7 +1094,7 @@ Scopri chi sei tu oggi: ${window.location.href}`;
         .filter(c => !q || c.autore.toLowerCase().includes(q) || c.opera.toLowerCase().includes(q));
 
       if (unlockedCards.length === 0) {
-        list.innerHTML = `<p style="color:var(--muted); font-size:14px; padding:12px;">Nessuna carta trovata. Risolvi i Bivi per arricchire la tua collezione!</p>`;
+        list.innerHTML = `<p style="color:var(--muted); font-size:14px; padding:12px;">Nessuna carta trovata. Risolvi il Bivio ogni giorno per arricchire la tua collezione!</p>`;
         return;
       }
 
@@ -920,10 +1123,10 @@ Scopri chi sei tu oggi: ${window.location.href}`;
     });
 
     // Avvio
-    updateStreak();
+    loadStreakDisplay();
     updateProgress();
     if (ALL_CARDS.length > 0) {
-      loadCard(pickRandomCard());
+      loadDailySession();
     }
   </script>
 </body>
