@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IL BIVIO — 365 Dilemmi Esistenziali</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0B0E14;
+      --bg-glow-1: rgba(245, 185, 66, 0.09);
+      --bg-glow-2: rgba(16, 185, 129, 0.08);
+      --surface: #141923;
+      --surface-2: #1B2230;
+      --ink: #F6F2E9;
+      --muted: #9CA3AF;
+      --border: #273042;
+      --gold: #F5B942;
+      --gold-soft: rgba(245, 185, 66, 0.14);
+      --emerald: #10B981;
+      --emerald-soft: rgba(16, 185, 129, 0.15);
+      --coral: #FB7185;
+      --coral-soft: rgba(251, 113, 133, 0.14);
+      --shadow: 0 24px 60px rgba(0, 0, 0, 0.55);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg);
+      background-image:
+        radial-gradient(circle at 15% 10%, var(--bg-glow-1), transparent 42%),
+        radial-gradient(circle at 85% 85%, var(--bg-glow-2), transparent 45%);
+      color: var(--ink);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 20px 18px 54px;
+      flex: 1;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 18px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 20px;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-mark {
+      width: 38px;
+      height: 38px;
+      border-radius: 11px;
+      background: linear-gradient(135deg, #F5B942 0%, #D97706 100%);
+      color: #0B0E14;
+      display: grid;
+      place-items: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 700;
+      font-size: 23px;
+      box-shadow: 0 6px 20px rgba(245, 185, 66, 0.35);
+    }
+
+    .brand-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      line-height: 1;
+      background: linear-gradient(90deg, #FFFBEB 0%, #F5B942 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .brand-sub {
+      font-size: 11px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-top: 3px;
+      font-weight: 600;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .pill-btn {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--ink);
+      padding: 8px 14px;
+      border-radius: 999px;
+      font-size: 12.5px;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.18s ease;
+    }
+
+    .pill-btn:hover {
+      border-color: var(--gold);
+      background: var(--gold-soft);
+      transform: translateY(-1px);
+    }
+
+    .streak-pill {
+      background: var(--gold-soft);
+      border: 1px solid rgba(245, 185, 66, 0.35);
+      color: var(--gold);
+      padding: 7px 12px;
+      border-radius: 999px;
+      font-size: 12.5px;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .progress-wrap {
+      margin-bottom: 22px;
+    }
+
+    .progress-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 7px;
+      font-weight: 600;
+    }
+
+    .rank-tag {
+      color: var(--gold);
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+
+    .progress-bar {
+      height: 8px;
+      background: var(--surface-2);
+      border-radius: 999px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #F5B942 0%, #10B981 100%);
+      width: 0%;
+      transition: width 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+      box-shadow: 0 0 14px rgba(16, 185, 129, 0.45);
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      padding: 28px 24px;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, transparent, var(--gold), var(--emerald), transparent);
+      opacity: 0.8;
+    }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 18px;
+    }
+
+    .card-number {
+      font-size: 11.5px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--gold);
+      background: var(--gold-soft);
+      padding: 4px 10px;
+      border-radius: 6px;
+    }
+
+    .attempts {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 600;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--emerald);
+      box-shadow: 0 0 8px rgba(16, 185, 129, 0.6);
+      transition: all 0.25s ease;
+    }
+
+    .dot.used {
+      background: var(--coral);
+      box-shadow: none;
+      opacity: 0.3;
+      transform: scale(0.85);
+    }
+
+    .scenario {
+      font-size: 16.5px;
+      color: #E5E0D5;
+      margin-bottom: 16px;
+      line-height: 1.68;
+    }
+
+    .question {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 26px;
+      font-weight: 700;
+      color: #FFFFFF;
+      margin-bottom: 22px;
+      line-height: 1.25;
+    }
+
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .option-btn {
+      width: 100%;
+      text-align: left;
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 15px 18px;
+      font-size: 15px;
+      color: var(--ink);
+      cursor: pointer;
+      transition: all 0.18s cubic-bezier(0.22, 1, 0.36, 1);
+      font-family: inherit;
+      line-height: 1.52;
+      position: relative;
+    }
+
+    .option-btn:hover:not(:disabled) {
+      border-color: var(--gold);
+      background: rgba(245, 185, 66, 0.08);
+      transform: translateX(4px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    }
+
+    .option-btn:disabled { cursor: default; }
+
+    .option-btn.wrong {
+      background: var(--coral-soft);
+      border-color: var(--coral);
+      color: #FECDD3;
+      animation: shake 0.32s ease;
+    }
+
+    .option-btn.correct {
+      background: var(--emerald-soft);
+      border-color: var(--emerald);
+      color: #A7F3D0;
+      font-weight: 600;
+      box-shadow: 0 0 24px rgba(16, 185, 129, 0.22);
+    }
+
+    @keyframes shake {
+      0%, 100% { transform: translateX(0); }
+      25% { transform: translateX(-5px); }
+      75% { transform: translateX(5px); }
+    }
+
+    .trap-feedback {
+      margin-top: 15px;
+      padding: 13px 16px;
+      background: var(--coral-soft);
+      border-left: 3px solid var(--coral);
+      border-radius: 10px;
+      font-size: 14px;
+      color: #FECDD3;
+      display: none;
+      animation: fadeIn 0.25s ease;
+    }
+
+    .reveal-box {
+      margin-top: 26px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      display: none;
+      animation: revealPop 0.42s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    @keyframes revealPop {
+      from { opacity: 0; transform: translateY(12px) scale(0.98); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .badge-type {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      padding: 5px 11px;
+      border-radius: 999px;
+      background: var(--emerald-soft);
+      color: var(--emerald);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      margin-bottom: 12px;
+    }
+
+    .author-head {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 30px;
+      font-weight: 700;
+      line-height: 1.15;
+      color: #FFFFFF;
+      margin-bottom: 4px;
+    }
+
+    .work-title {
+      font-size: 14.5px;
+      color: var(--gold);
+      font-style: italic;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+
+    blockquote {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 22px;
+      font-style: italic;
+      line-height: 1.45;
+      color: #FFFBEB;
+      padding: 16px 20px;
+      background: rgba(245, 185, 66, 0.06);
+      border-left: 3px solid var(--gold);
+      border-radius: 0 12px 12px 0;
+      margin-bottom: 16px;
+    }
+
+    .explanation {
+      font-size: 14.5px;
+      color: var(--muted);
+      margin-bottom: 22px;
+      line-height: 1.65;
+    }
+
+    .affiliate-card {
+      background: linear-gradient(135deg, rgba(245, 185, 66, 0.14) 0%, rgba(217, 119, 6, 0.08) 100%);
+      border: 1px solid rgba(245, 185, 66, 0.35);
+      border-radius: 14px;
+      padding: 15px 18px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .affiliate-info small {
+      display: block;
+      font-size: 10.5px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--gold);
+      font-weight: 800;
+      margin-bottom: 2px;
+    }
+
+    .affiliate-info strong {
+      font-size: 14.5px;
+      color: #FFFFFF;
+    }
+
+    .amazon-btn {
+      background: linear-gradient(135deg, #F5B942 0%, #D97706 100%);
+      color: #0B0E14;
+      text-decoration: none;
+      padding: 10px 16px;
+      border-radius: 10px;
+      font-size: 13px;
+      font-weight: 800;
+      white-space: nowrap;
+      transition: transform 0.15s, box-shadow 0.15s;
+      box-shadow: 0 4px 14px rgba(245, 185, 66, 0.3);
+    }
+
+    .amazon-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 6px 20px rgba(245, 185, 66, 0.45);
+    }
+
+    .cta-row {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      flex: 1;
+      min-width: 190px;
+      background: linear-gradient(135deg, #10B981 0%, #059669 100%);
+      color: #062118;
+      border: none;
+      border-radius: 12px;
+      padding: 14px 18px;
+      font-size: 14.5px;
+      font-weight: 800;
+      cursor: pointer;
+      transition: transform 0.15s, box-shadow 0.15s;
+      box-shadow: 0 6px 20px rgba(16, 185, 129, 0.3);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 8px 25px rgba(16, 185, 129, 0.45);
+    }
+
+    .btn-secondary {
+      flex: 1;
+      min-width: 190px;
+      background: var(--surface-2);
+      color: var(--ink);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px 18px;
+      font-size: 14.5px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--gold);
+      background: var(--gold-soft);
+      color: #FFFFFF;
+    }
+
+    .ad-banner {
+      margin-top: 24px;
+      padding: 14px;
+      border: 1px dashed var(--border);
+      border-radius: 14px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--muted);
+      background: rgba(20, 25, 35, 0.6);
+    }
+
+    /* Modale Collezione */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(5, 7, 11, 0.78);
+      backdrop-filter: blur(6px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      z-index: 50;
+    }
+
+    .modal-backdrop.open { display: flex; }
+
+    .modal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      width: 100%;
+      max-width: 660px;
+      max-height: 85vh;
+      border-radius: 20px;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.65);
+    }
+
+    .modal-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 14px;
+    }
+
+    .modal-head h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 26px;
+      color: #FFFFFF;
+    }
+
+    .filter-row {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 14px;
+      flex-wrap: wrap;
+    }
+
+    .search-input {
+      flex: 1;
+      min-width: 180px;
+      padding: 9px 13px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      font-size: 13.5px;
+      background: var(--surface-2);
+      color: var(--ink);
+    }
+
+    .search-input::placeholder { color: var(--muted); }
+
+    .archive-list {
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      padding-right: 4px;
+    }
+
+    .archive-item {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 13px 15px;
+      background: var(--surface-2);
+    }
+
+    .archive-item strong {
+      font-size: 14.5px;
+      display: block;
+      color: var(--gold);
+      margin-bottom: 3px;
+    }
+
+    .archive-item span {
+      font-size: 13px;
+      color: #D1D5DB;
+      font-style: italic;
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--gold);
+      color: #0B0E14;
+      padding: 11px 20px;
+      border-radius: 999px;
+      font-size: 13.5px;
+      font-weight: 800;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.25s;
+      z-index: 100;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.45);
+    }
+
+    .toast.show { opacity: 1; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="brand-mark">B</div>
+        <div>
+          <div class="brand-title">IL BIVIO</div>
+          <div class="brand-sub">365 Dilemmi • Oracolo Quotidiano</div>
+        </div>
+      </div>
+      <div class="header-actions">
+        <span class="streak-pill" title="Giorni consecutivi">🔥 <span id="streakCount">1</span>g</span>
+        <button class="pill-btn" id="openArchiveBtn">📚 <span id="unlockedCount">0</span>/365</button>
+      </div>
+    </header>
+
+    <div class="progress-wrap">
+      <div class="progress-meta">
+        <span class="rank-tag" id="rankLabel">Livello: Viandante</span>
+        <span id="percentText">0% sbloccato</span>
+      </div>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+    </div>
+
+    <main class="card" id="gameCard">
+      <div class="card-top">
+        <span class="card-number" id="cardNumber">BIVIO #1</span>
+        <div class="attempts" title="Tentativi rimasti">
+          <span>Vite:</span>
+          <span class="dot" id="dot1"></span>
+          <span class="dot" id="dot2"></span>
+          <span class="dot" id="dot3"></span>
+        </div>
+      </div>
+
+      <p class="scenario" id="scenarioText">Caricamento dilemma...</p>
+      <h1 class="question" id="questionText"></h1>
+
+      <div class="options" id="optionsBox"></div>
+      <div class="trap-feedback" id="trapFeedback"></div>
+
+      <section class="reveal-box" id="revealBox">
+        <span class="badge-type" id="typeBadge">Grande Narrativa</span>
+        <h2 class="author-head" id="authorName"></h2>
+        <div class="work-title" id="workTitle"></div>
+        <blockquote id="quoteText"></blockquote>
+        <p class="explanation" id="explanationText"></p>
+
+        <div class="affiliate-card">
+          <div class="affiliate-info">
+            <small>Approfondisci l'opera originale</small>
+            <strong id="bookLabel"></strong>
+          </div>
+          <a class="amazon-btn" id="amazonLink" href="#" target="_blank" rel="noopener noreferrer">Scopri su Amazon →</a>
+        </div>
+
+        <div class="cta-row">
+          <button class="btn-primary" id="shareBtn">📤 Condividi il tuo Bivio</button>
+          <button class="btn-secondary" id="nextBtn">🎲 Prossimo Bivio</button>
+        </div>
+      </section>
+    </main>
+
+    <div class="ad-banner">
+      Spazio riservato Google AdSense (inserisci qui il tuo snippet <code>adsbygoogle</code> per monetizzazione passiva automatica)
+    </div>
+  </div>
+
+  <!-- Modale Collezione -->
+  <div class="modal-backdrop" id="archiveModal">
+    <div class="modal">
+      <div class="modal-head">
+        <h2>La tua Collezione (<span id="modalCount">0</span>/365)</h2>
+        <button class="pill-btn" id="closeArchiveBtn">✕ Chiudi</button>
+      </div>
+      <div class="filter-row">
+        <input type="text" class="search-input" id="searchInput" placeholder="Cerca autore o opera sbloccata..." />
+        <button class="pill-btn filter-btn active" data-filter="all">Tutte</button>
+        <button class="pill-btn filter-btn" data-filter="romanzo">Narrativa</button>
+        <button class="pill-btn filter-btn" data-filter="pensiero">Pensiero</button>
+      </div>
+      <div class="archive-list" id="archiveList"></div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast">Risultato copiato negli appunti!</div>
+
+  <!-- Caricamento dei 4 pacchetti modulari (365 carte totali) -->
+  <script src="carte_1.js"></script>
+  <script src="carte_2.js"></script>
+  <script src="carte_3.js"></script>
+  <script src="carte_4.js"></script>
+
+  <script>
+    // CONFIGURAZIONE MONETIZZAZIONE: Sostituisci con il tuo ID Amazon Affiliati
+    const AMAZON_TAG = "ilbivio-21";
+
+    const ALL_CARDS = window.CARTE_BIVIO || [];
+    const STORAGE_KEY = "il_bivio_unlocked_v2";
+    const STREAK_KEY = "il_bivio_streak_v2";
+    let unlockedIds = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
+    let currentCard = null;
+    let attemptsLeft = 3;
+    let solved = false;
+    let currentFilter = "all";
+
+    const el = (id) => document.getElementById(id);
+
+    // Effetti sonori discreti via Web Audio API (nessun file esterno richiesto)
+    function playTone(type) {
+      try {
+        const ctx = new (window.AudioContext || window.webkitAudioContext)();
+        const osc = ctx.createOscillator();
+        const gain = ctx.createGain();
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        if (type === "win") {
+          osc.type = "triangle";
+          osc.frequency.setValueAtTime(523.25, ctx.currentTime);
+          osc.frequency.setValueAtTime(659.25, ctx.currentTime + 0.09);
+          osc.frequency.setValueAtTime(783.99, ctx.currentTime + 0.18);
+          gain.gain.setValueAtTime(0.08, ctx.currentTime);
+          gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.45);
+          osc.start();
+          osc.stop(ctx.currentTime + 0.45);
+        } else if (type === "wrong") {
+          osc.type = "sine";
+          osc.frequency.setValueAtTime(190, ctx.currentTime);
+          osc.frequency.exponentialRampToValueAtTime(130, ctx.currentTime + 0.18);
+          gain.gain.setValueAtTime(0.07, ctx.currentTime);
+          gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.2);
+          osc.start();
+          osc.stop(ctx.currentTime + 0.2);
+        }
+      } catch (e) {}
+    }
+
+    function updateStreak() {
+      const today = new Date().toISOString().slice(0, 10);
+      const saved = JSON.parse(localStorage.getItem(STREAK_KEY) || '{"count":0,"lastDate":""}');
+      if (saved.lastDate !== today) {
+        const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+        saved.count = (saved.lastDate === yesterday) ? saved.count + 1 : 1;
+        saved.lastDate = today;
+        localStorage.setItem(STREAK_KEY, JSON.stringify(saved));
+      }
+      el("streakCount").textContent = saved.count || 1;
+    }
+
+    function getRank(count) {
+      if (count >= 250) return "Oracolo";
+      if (count >= 120) return "Maestro del Bivio";
+      if (count >= 50) return "Esploratore Lucido";
+      if (count >= 15) return "Cercatore";
+      return "Viandante";
+    }
+
+    function updateProgress() {
+      const total = ALL_CARDS.length || 365;
+      const count = unlockedIds.length;
+      el("unlockedCount").textContent = count;
+      el("modalCount").textContent = count;
+      el("rankLabel").textContent = `Livello: ${getRank(count)}`;
+      const pct = Math.round((count / total) * 100);
+      el("percentText").textContent = `${pct}% sbloccato`;
+      el("progressFill").style.width = `${pct}%`;
+    }
+
+    function pickRandomCard() {
+      const remaining = ALL_CARDS.filter(c => !unlockedIds.includes(c.id));
+      const pool = remaining.length > 0 ? remaining : ALL_CARDS;
+      return pool[Math.floor(Math.random() * pool.length)];
+    }
+
+    function renderDots() {
+      for (let i = 1; i <= 3; i++) {
+        el(`dot${i}`).classList.toggle("used", i > attemptsLeft);
+      }
+    }
+
+    function loadCard(card) {
+      currentCard = card;
+      attemptsLeft = 3;
+      solved = false;
+      renderDots();
+
+      el("cardNumber").textContent = `BIVIO #${card.id}`;
+      el("scenarioText").textContent = card.scenario;
+      el("questionText").textContent = card.domanda;
+      el("trapFeedback").style.display = "none";
+      el("revealBox").style.display = "none";
+
+      const box = el("optionsBox");
+      box.innerHTML = "";
+      card.opzioni.forEach((opt) => {
+        const btn = document.createElement("button");
+        btn.className = "option-btn";
+        btn.textContent = opt.testo;
+        btn.onclick = () => handleChoice(btn, opt);
+        box.appendChild(btn);
+      });
+    }
+
+    function handleChoice(btn, opt) {
+      if (solved) return;
+
+      if (opt.giusta) {
+        btn.classList.add("correct");
+        playTone("win");
+        completeCard(true);
+      } else {
+        btn.classList.add("wrong");
+        btn.disabled = true;
+        attemptsLeft--;
+        renderDots();
+        playTone("wrong");
+
+        const fb = el("trapFeedback");
+        fb.textContent = `⚠️ ${opt.trappola}`;
+        fb.style.display = "block";
+
+        if (attemptsLeft <= 0) {
+          completeCard(false);
+        }
+      }
+    }
+
+    function completeCard(won) {
+      solved = true;
+      const buttons = el("optionsBox").querySelectorAll("button");
+      buttons.forEach((b, idx) => {
+        b.disabled = true;
+        if (currentCard.opzioni[idx].giusta) {
+          b.classList.add("correct");
+        }
+      });
+
+      if (!unlockedIds.includes(currentCard.id)) {
+        unlockedIds.push(currentCard.id);
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(unlockedIds));
+        updateProgress();
+      }
+      updateStreak();
+
+      el("typeBadge").textContent = currentCard.tipo === "romanzo" ? "📖 Grande Narrativa" : "🧭 Saggezza Pratica";
+      el("authorName").textContent = currentCard.autore;
+      el("workTitle").textContent = currentCard.opera;
+      el("quoteText").textContent = `«${currentCard.citazione}»`;
+      el("explanationText").textContent = currentCard.spiegazione;
+      el("bookLabel").textContent = `${currentCard.opera} — ${currentCard.autore}`;
+
+      const query = encodeURIComponent(`${currentCard.opera} ${currentCard.autore}`);
+      el("amazonLink").href = `https://www.amazon.it/s?k=${query}&tag=${AMAZON_TAG}`;
+
+      el("revealBox").style.display = "block";
+    }
+
+    function showToast(msg) {
+      const t = el("toast");
+      t.textContent = msg;
+      t.classList.add("show");
+      setTimeout(() => t.classList.remove("show"), 2400);
+    }
+
+    el("shareBtn").onclick = () => {
+      const tries = 4 - attemptsLeft;
+      const scoreIcon = attemptsLeft === 3 ? "🟢 al 1° colpo" : (attemptsLeft > 0 ? `🟡 in ${tries} tentativi` : "🔴 sbloccato");
+      const text = `Il mio Bivio #${currentCard.id} mi ha portato a ${currentCard.autore} (${currentCard.opera}) ${scoreIcon}.
+Scopri chi sei tu oggi: ${window.location.href}`;
+      navigator.clipboard.writeText(text).then(() => showToast("Copiato! Incollalo su WhatsApp o X."));
+    };
+
+    el("nextBtn").onclick = () => {
+      loadCard(pickRandomCard());
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    };
+
+    function renderArchive() {
+      const q = el("searchInput").value.toLowerCase().trim();
+      const list = el("archiveList");
+      list.innerHTML = "";
+
+      const unlockedCards = ALL_CARDS.filter(c => unlockedIds.includes(c.id))
+        .filter(c => currentFilter === "all" || c.tipo === currentFilter)
+        .filter(c => !q || c.autore.toLowerCase().includes(q) || c.opera.toLowerCase().includes(q));
+
+      if (unlockedCards.length === 0) {
+        list.innerHTML = `<p style="color:var(--muted); font-size:14px; padding:12px;">Nessuna carta trovata. Risolvi i Bivi per arricchire la tua collezione!</p>`;
+        return;
+      }
+
+      unlockedCards.forEach(c => {
+        const div = document.createElement("div");
+        div.className = "archive-item";
+        div.innerHTML = `<strong>#${c.id} • ${c.autore} — <em>${c.opera}</em></strong><span>«${c.citazione}»</span>`;
+        list.appendChild(div);
+      });
+    }
+
+    el("openArchiveBtn").onclick = () => {
+      renderArchive();
+      el("archiveModal").classList.add("open");
+    };
+    el("closeArchiveBtn").onclick = () => el("archiveModal").classList.remove("open");
+    el("searchInput").oninput = renderArchive;
+
+    document.querySelectorAll(".filter-btn").forEach(btn => {
+      btn.onclick = () => {
+        document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentFilter = btn.dataset.filter;
+        renderArchive();
+      };
+    });
+
+    // Avvio
+    updateStreak();
+    updateProgress();
+    if (ALL_CARDS.length > 0) {
+      loadCard(pickRandomCard());
+    }
+  </script>
+</body>
+</html>
