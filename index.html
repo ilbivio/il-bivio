@@ -663,6 +663,111 @@
     }
 
     .toast.show { opacity: 1; }
+
+    /* Floating PWA Install Banner */
+    .pwa-float {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: calc(100% - 32px);
+      max-width: 520px;
+      background: rgba(20, 25, 35, 0.96);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(245, 185, 66, 0.45);
+      border-radius: 16px;
+      padding: 12px 14px;
+      display: none;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      box-shadow: 0 18px 45px rgba(0, 0, 0, 0.7), 0 0 20px rgba(245, 185, 66, 0.12);
+      z-index: 90;
+      animation: fadeIn 0.35s ease;
+    }
+
+    .pwa-float.visible {
+      display: flex;
+    }
+
+    .pwa-float-left {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      min-width: 0;
+    }
+
+    .pwa-float-icon {
+      width: 38px;
+      height: 38px;
+      border-radius: 10px;
+      background: linear-gradient(135deg, #F5B942 0%, #D97706 100%);
+      color: #0B0E14;
+      display: grid;
+      place-items: center;
+      flex-shrink: 0;
+      box-shadow: 0 4px 12px rgba(245, 185, 66, 0.3);
+    }
+
+    .pwa-float-text strong {
+      display: block;
+      font-size: 13.5px;
+      color: #FFFFFF;
+      line-height: 1.25;
+    }
+
+    .pwa-float-text span {
+      display: block;
+      font-size: 11.5px;
+      color: var(--muted);
+      line-height: 1.3;
+      margin-top: 2px;
+    }
+
+    .pwa-float-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .pwa-install-btn {
+      background: linear-gradient(135deg, #F5B942 0%, #D97706 100%);
+      color: #0B0E14;
+      border: none;
+      padding: 8px 13px;
+      border-radius: 10px;
+      font-size: 12.5px;
+      font-weight: 800;
+      cursor: pointer;
+      font-family: inherit;
+      white-space: nowrap;
+      transition: transform 0.15s;
+    }
+
+    .pwa-install-btn:hover {
+      transform: translateY(-1px);
+    }
+
+    .pwa-close-btn {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .pwa-close-btn:hover {
+      color: #FFFFFF;
+      border-color: var(--gold);
+    }
+
   </style>
   <!-- Google AdSense -->
   
@@ -786,6 +891,47 @@
         <button class="pill-btn filter-btn" data-filter="pensiero">Pensiero</button>
       </div>
       <div class="archive-list" id="archiveList"></div>
+    </div>
+  </div>
+
+  <!-- Barra Flottante Installazione App (con X definitiva) -->
+  <div class="pwa-float" id="pwaFloatBanner">
+    <div class="pwa-float-left">
+      <div class="pwa-float-icon" aria-hidden="true">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 21v-7" /><path d="M12 14L5 6" /><path d="M12 14l7-8" /><path d="M5 11V6h5" /><path d="M19 11V6h-5" />
+        </svg>
+      </div>
+      <div class="pwa-float-text">
+        <strong>Installa l'App de IL BIVIO</strong>
+        <span>Accesso rapido a schermo intero ogni giorno</span>
+      </div>
+    </div>
+    <div class="pwa-float-actions">
+      <button class="pwa-install-btn" id="pwaActionBtn">📲 Installa</button>
+      <button class="pwa-close-btn" id="pwaDismissBtn" title="Non mostrare più" aria-label="Chiudi">✕</button>
+    </div>
+  </div>
+
+  <!-- Modale Guida Rapida Installazione (iOS / Browser) -->
+  <div class="modal-backdrop" id="pwaGuideModal">
+    <div class="modal" style="max-width: 440px;">
+      <div class="modal-head">
+        <h2>Installa IL BIVIO sul telefono</h2>
+        <button class="pill-btn" id="closePwaGuideBtn">✕ Chiudi</button>
+      </div>
+      <div style="font-size: 14px; color: var(--ink); line-height: 1.65; display: flex; flex-direction: column; gap: 14px;">
+        <div style="background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px; padding: 13px 15px;">
+          <strong style="color: var(--gold); display: block; margin-bottom: 4px;">🍎 Su iPhone / iPad (Safari):</strong>
+          1. Tocca l'icona <strong>Condividi</strong> in basso (il quadrato con la freccia verso l'alto).<br>
+          2. Scorri e seleziona <strong>«Aggiungi alla schermata Home»</strong>.
+        </div>
+        <div style="background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px; padding: 13px 15px;">
+          <strong style="color: var(--gold); display: block; margin-bottom: 4px;">🤖 Su Android (Chrome / Samsung):</strong>
+          1. Tocca i <strong>tre puntini ⋮</strong> in alto a destra nel browser.<br>
+          2. Seleziona <strong>«Installa app»</strong> o <strong>«Aggiungi a schermata Home»</strong>.
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1164,6 +1310,69 @@ E tu chi sei oggi? Scoprilo qui: ${window.location.href}`;
       loadDailySession();
     }
   
+
+    // Gestione Banner Flottante Installazione App (PWA) con chiusura definitiva
+    const STORAGE_PWA_DISMISSED = "il_bivio_pwa_dismissed_v1";
+    let deferredPwaPrompt = null;
+
+    function isRunningStandalone() {
+      return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+    }
+
+    function initPwaFloatingBanner() {
+      // Se è già installata come app o l'utente ha premuto la X in passato, non mostrare nulla
+      if (isRunningStandalone() || localStorage.getItem(STORAGE_PWA_DISMISSED) === "1") {
+        return;
+      }
+
+      const banner = el("pwaFloatBanner");
+      const actionBtn = el("pwaActionBtn");
+      const dismissBtn = el("pwaDismissBtn");
+      const guideModal = el("pwaGuideModal");
+      const closeGuideBtn = el("closePwaGuideBtn");
+
+      // Mostra il banner flottante
+      banner.classList.add("visible");
+
+      // Intercetta il prompt nativo su Android/Chrome/Desktop
+      window.addEventListener("beforeinstallprompt", (e) => {
+        e.preventDefault();
+        deferredPwaPrompt = e;
+      });
+
+      // Se l'utente installa l'app, nascondi per sempre il banner
+      window.addEventListener("appinstalled", () => {
+        localStorage.setItem(STORAGE_PWA_DISMISSED, "1");
+        banner.classList.remove("visible");
+      });
+
+      actionBtn.onclick = async () => {
+        if (deferredPwaPrompt) {
+          deferredPwaPrompt.prompt();
+          const { outcome } = await deferredPwaPrompt.userChoice;
+          if (outcome === "accepted") {
+            localStorage.setItem(STORAGE_PWA_DISMISSED, "1");
+            banner.classList.remove("visible");
+          }
+          deferredPwaPrompt = null;
+        } else {
+          // Su iPhone o browser senza prompt automatico apre la mini-guida passo passo
+          guideModal.classList.add("open");
+        }
+      };
+
+      dismissBtn.onclick = () => {
+        localStorage.setItem(STORAGE_PWA_DISMISSED, "1");
+        banner.classList.remove("visible");
+      };
+
+      closeGuideBtn.onclick = () => {
+        guideModal.classList.remove("open");
+      };
+    }
+
+    initPwaFloatingBanner();
+
     // Registrazione Service Worker per installazione come App (PWA)
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
