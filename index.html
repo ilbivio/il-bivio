@@ -1273,10 +1273,10 @@
       }
       markStreakCompletedToday();
       saveDailyState();
-      showRevealUI();
+      showRevealUI(true);
     }
 
-    function showRevealUI() {
+    function showRevealUI(shouldScroll = false) {
       const buttons = el("optionsBox").querySelectorAll("button");
       buttons.forEach((b, idx) => {
         b.disabled = true;
@@ -1297,10 +1297,12 @@
 
       el("revealBox").style.display = "block";
       
-      // Scroll automatico fluido verso la sezione di rivelazione e link Amazon
-      setTimeout(() => {
-        el("revealBox").scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }, 150);
+      if (shouldScroll) {
+        // Scroll automatico fluido verso la sezione di rivelazione e link Amazon solo alla prima risposta
+        setTimeout(() => {
+          el("revealBox").scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 150);
+      }
     }
 
     // Costruzione messaggio di condivisione
