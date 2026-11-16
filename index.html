@@ -850,15 +850,9 @@
       </div>
     </header>
 
-    <!-- Banner di Benvenuto / Manifesto -->
-    <div style="background: var(--surface); border: 1px solid rgba(245, 185, 66, 0.25); border-radius: 18px; padding: 20px 24px; margin-bottom: 22px; text-align: center; box-shadow: 0 12px 35px rgba(0,0,0,0.4); position: relative; overflow: hidden;">
-      <div style="position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, var(--gold), transparent); opacity: 0.6;"></div>
-      <p style="font-family: 'Cormorant Garamond', serif; font-size: 19px; font-style: italic; color: #FFFBEB; line-height: 1.5; letter-spacing: 0.02em; margin-bottom: 8px;">
-        «Davanti a ogni bivio si cela un grande autore. Fai la tua scelta, svela l'opera del giorno e mantieni viva la tua serie.»
-      </p>
-      <span style="font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.12em; color: var(--gold);">
-        🔥 1 dilemma al giorno • 365 opere da scoprire
-      </span>
+    <!-- Banner di Benvenuto Compatto -->
+    <div style="background: var(--surface); border: 1px solid rgba(245, 185, 66, 0.18); border-radius: 12px; padding: 10px 16px; margin-bottom: 16px; text-align: center; font-family: 'Cormorant Garamond', serif; font-size: 15.5px; font-style: italic; color: #E5E0D5;">
+      «Davanti a ogni bivio si cela un grande autore: fai la tua scelta.»
     </div>
 
     <div class="progress-wrap">
@@ -1292,6 +1286,11 @@
       el("amazonLink").href = `https://www.amazon.it/s?k=${query}&tag=${AMAZON_TAG}`;
 
       el("revealBox").style.display = "block";
+      
+      // Scroll automatico fluido verso la sezione di rivelazione e link Amazon
+      setTimeout(() => {
+        el("revealBox").scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 150);
     }
 
     // Costruzione messaggio di condivisione
