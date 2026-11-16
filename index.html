@@ -1010,6 +1010,44 @@
     const STORAGE_STREAK = "il_bivio_streak_v3";
     const STORAGE_DAILY = "il_bivio_daily_state_v3";
 
+
+    // Sincronizzazione automatica PWA / Safari via URL Hash (Soluzione 1)
+    function checkAndImportSyncHash() {
+      const hash = window.location.hash;
+      if (hash && hash.startsWith('#sync=')) {
+        try {
+          const base64 = hash.replace('#sync=', '');
+          const jsonStr = decodeURIComponent(atob(base64));
+          const stateData = JSON.parse(jsonStr);
+          
+          if (stateData.unlocked) localStorage.setItem(STORAGE_UNLOCKED, stateData.unlocked);
+          if (stateData.streak) localStorage.setItem(STORAGE_STREAK, stateData.streak);
+          if (stateData.daily) localStorage.setItem(STORAGE_DAILY, stateData.daily);
+          
+          history.replaceState(null, '', window.location.pathname + window.location.search);
+        } catch(e) {}
+      }
+    }
+
+    function updateSyncUrlHash() {
+      try {
+        const stateData = {
+          unlocked: localStorage.getItem(STORAGE_UNLOCKED),
+          streak: localStorage.getItem(STORAGE_STREAK),
+          daily: localStorage.getItem(STORAGE_DAILY)
+        };
+        const jsonStr = JSON.stringify(stateData);
+        const base64 = btoa(encodeURIComponent(jsonStr));
+        const newHash = `#sync=${base64}`;
+        if (window.location.hash !== newHash) {
+          history.replaceState(null, '', window.location.pathname + window.location.search + newHash);
+        }
+      } catch(e) {}
+    }
+
+    // Esegue subito il controllo all'avvio
+    checkAndImportSyncHash();
+
     let unlockedIds = JSON.parse(localStorage.getItem(STORAGE_UNLOCKED) || "[]");
     let currentCard = null;
     let attemptsLeft = 3;
@@ -1130,6 +1168,9 @@
         wrongIndices: wrongIndices
       };
       localStorage.setItem(STORAGE_DAILY, JSON.stringify(state));
+      if (solved) {
+        updateSyncUrlHash();
+      }
     }
 
     function renderDots() {
