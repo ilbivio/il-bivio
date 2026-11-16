@@ -6,9 +6,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il rischio silenzioso del «lo farò domani»?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "La metti in fondo alla lista delle urgenze convinto che resti lì ad aspettarti per sempre.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Le occasioni vive e gli affetti non restano congelati in attesa della nostra agenda."
+      },
+      {
+        "testo": "Aspetti di aver prima sistemato ogni altro dettaglio pratico della tua vita.",
+        "giusta": false,
+        "trappola": "Se aspetti che tutto sia in ordine, l'attimo giusto sarà già passato."
       },
       {
         "testo": "Disprezzare ciò che hai davanti per noia o snobismo ti condanna a rimpiangerlo quando ormai appartiene a un altro tempo.",
@@ -16,14 +21,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Ti accontenti di un contatto superficiale rimandando il momento di dedicarti davvero.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Dare le briciole del proprio tempo svuota anche gli incontri migliori."
       }
     ],
     "autore": "Aleksandr Puškin",
@@ -38,19 +38,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il prezzo di vivere sempre sulla difensiva?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Guardi con cinismo chi si appassiona ancora, giudicandolo ingenuo.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Il cinismo è spesso solo la maschera di una paura non ammessa."
       },
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Ti convinci che non desiderare nulla sia il modo più intelligente per non restare mai deluso.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Spegnere il desiderio per evitare il dolore significa rinunciare a vivere."
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Analizzi ogni rischio fino alla paralisi, restando sempre spettatore delle scelte altrui.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "La prudenza assoluta ti protegge dalle cadute ma ti impedisce di camminare."
       },
       {
         "testo": "Pretendere di incasellare ogni sentimento dentro uno schema rigido spegne il respiro vivo dell'esistenza.",
@@ -70,24 +70,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa ti permette di restare un punto fermo nella tempesta?",
     "opzioni": [
       {
+        "testo": "Ti lasci contagiare dall'agitazione collettiva iniziando a cercare subito un responsabile.",
+        "giusta": false,
+        "trappola": "Aggiungere panico al panico toglie lucidità a tutti."
+      },
+      {
+        "testo": "Minimzzi la situazione dicendo che non è successo niente, ignorando la paura dell'altro.",
+        "giusta": false,
+        "trappola": "Negare la gravità di un problema non rassicura, fa sentire soli."
+      },
+      {
+        "testo": "Prendi il controllo in modo brusco e autoritario zittendo chiunque esprima timore.",
+        "giusta": false,
+        "trappola": "La durezza fredda impone silenzio ma non crea vera stabilità."
+      },
+      {
         "testo": "Anche nelle condizioni più dure, conservare un piccolo rituale di cura e dignità impedisce di ridursi a bestie.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
       }
     ],
     "autore": "Aleksandr Solženicyn",
@@ -102,24 +102,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il criterio più onesto per decidere senza restare paralizzato?",
     "opzioni": [
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Scegli d'impulso la via più comoda nell'immediato, ignorando ciò che conta nel lungo periodo.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Evitare il dolore di oggi spesso prepara un rimpianto più grande domani."
       },
       {
         "testo": "Ogni decisione pesa proprio perché non possiamo fare prove generali della vita: viviamo sempre in diretta.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Cerchi una terza via illusoria per tenere il piede in due scarpe senza perdere nulla.",
+        "giusta": false,
+        "trappola": "Voler evitare ogni rinuncia finisce per farti perdere entrambe le strade."
+      },
+      {
+        "testo": "Lasci passare il tempo sperando che siano gli eventi esterni a scegliere al posto tuo.",
+        "giusta": false,
+        "trappola": "Subire una scelta per inerzia porta lo stesso peso senza la dignità della decisione."
       }
     ],
     "autore": "Milan Kundera",
@@ -134,24 +134,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il prezzo di vivere sempre sulla difensiva?",
     "opzioni": [
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Ti convinci che non desiderare nulla sia il modo più intelligente per non restare mai deluso.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Spegnere il desiderio per evitare il dolore significa rinunciare a vivere."
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Analizzi ogni rischio fino alla paralisi, restando sempre spettatore delle scelte altrui.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "La prudenza assoluta ti protegge dalle cadute ma ti impedisce di camminare."
+      },
+      {
+        "testo": "Guardi con cinismo chi si appassiona ancora, giudicandolo ingenuo.",
+        "giusta": false,
+        "trappola": "Il cinismo è spesso solo la maschera di una paura non ammessa."
       },
       {
         "testo": "Rifugiarsi lontano dalle responsabilità del mondo può sembrare raffinato, ma alla lunga addormenta la volontà.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
       }
     ],
     "autore": "Thomas Mann",
@@ -166,9 +166,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come trasformi lo spiazzamento in una nuova rotta?",
     "opzioni": [
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Ti irrigidisci nel rimpianto del programma saltato, rifiutandoti di riorganizzare le priorità.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Aggrapparsi a una mappa vecchia mentre il territorio è cambiato porta fuori strada."
+      },
+      {
+        "testo": "Ti agiti cercando di incastrare a forza tutti gli impegni precedenti senza tagliare nulla.",
+        "giusta": false,
+        "trappola": "Pretendere di fare tutto comunque trasforma la settimana in una corsa cieca."
       },
       {
         "testo": "Quando un successo si trasforma in pura routine meccanica, l'anima cerca altrove il proprio respiro.",
@@ -176,14 +181,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Blocchi ogni iniziativa aspettando che tornino le condizioni esatte di prima.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Aspettare che il fiume torni indietro ti lascia fermo sulla riva."
       }
     ],
     "autore": "Thomas Mann",
@@ -198,14 +198,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
       },
       {
         "testo": "Prendersi troppo sul serio trasforma ogni contraddizione interiore in una condanna mortale.",
@@ -213,9 +208,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
+      },
+      {
+        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "giusta": false,
+        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
       }
     ],
     "autore": "Hermann Hesse",
@@ -230,24 +230,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede se quel ruolo cambia domani?",
     "opzioni": [
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
         "testo": "Non devi imitare il talento di un altro per valere: ognuno fiorisce solo restando fedele alla propria natura.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Eviti spazi e relazioni in cui il tuo titolo o la tua funzione non contano nulla.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Temere di valere zero senza etichetta rivela quanto sia fragile la tua identità."
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Giudichi anche il valore delle altre persone in base alla loro posizione professionale.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Guardare gli altri come funzioni ti impedisce di incontrarli come persone."
+      },
+      {
+        "testo": "Lavori ancora di più per rendere quel ruolo sempre più centrale e indispensabile.",
+        "giusta": false,
+        "trappola": "Rinforzare l'unica colonna su cui ti reggi aumenta il rischio del crollo."
       }
     ],
     "autore": "Hermann Hesse",
@@ -262,14 +262,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa distingue un rapporto maturo da un'infatuazione passeggera?",
     "opzioni": [
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Chiudi bruscamente il rapporto convincendoti che se c'è attrito significa che non era quello giusto.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Scambiare la prima crisi per incompatibilità impedisce a qualsiasi legame di maturare."
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Fingi che vada tutto bene evitando ogni argomento delicato pur di mantenere una calma apparente.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "La pace costruita sul non detto accumula distanza silenziosa."
       },
       {
         "testo": "Spesso l'affetto di chi ci circonda dura finché siamo utili e produttivi; la crisi rivela chi ci ama davvero.",
@@ -277,9 +277,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Elenchi all'altro tutti i suoi difetti aspettando che sia lui a cambiare per primo.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Chiedere all'altro di fare tutta la strada blocca il dialogo sul nascere."
       }
     ],
     "autore": "Franz Kafka",
@@ -294,24 +294,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa stai cercando di evitare attraverso tutta questa complessità?",
     "opzioni": [
       {
+        "testo": "Rimandi l'azione a lunedì prossimo quando avrai la mente più libera e ordinata.",
+        "giusta": false,
+        "trappola": "Il momento idealmente libero non arriva mai prima dell'azione."
+      },
+      {
+        "testo": "Chiedi conferme a tre persone diverse prima di compiere il primo passo.",
+        "giusta": false,
+        "trappola": "Cercare permessi continui diluisce la tua responsabilità."
+      },
+      {
+        "testo": "Aggiungi un ulteriore controllo e una nuova lista per essere sicuro al cento per cento.",
+        "giusta": false,
+        "trappola": "La ricerca della preparazione perfetta è spesso il modo più elegante per non iniziare mai."
+      },
+      {
         "testo": "Cercare ossessivamente l'approvazione di un'autorità invisibile consuma l'intera esistenza.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
       }
     ],
     "autore": "Franz Kafka",
@@ -326,24 +326,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
         "testo": "Non accontentarti di subire ciò che è già dato: chiediti sempre come potrebbe essere altrimenti.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+      },
+      {
+        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "giusta": false,
+        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+      },
+      {
+        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "giusta": false,
+        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
       }
     ],
     "autore": "Robert Musil",
@@ -358,24 +358,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come riprendi fiato prima di bruciarti?",
     "opzioni": [
       {
+        "testo": "Vivi ogni piccolo intoppo come una catastrofe personale irreparabile.",
+        "giusta": false,
+        "trappola": "Quando tutto diventa assoluto, perdi la misura per distinguere ciò che conta davvero."
+      },
+      {
         "testo": "Quando trasformi un gioco o una sfida nella tua unica ragione di vita, finisci per divorare te stesso.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Sacrifichi sonno, relazioni e serenità pur di ottenere la vittoria a qualsiasi costo.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Vincere una gara distruggendo tutto ciò che hai intorno è una sconfitta travestita."
       },
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Vedi negli altri solo ostacoli o rivali da battere lungo il percorso.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "L'ossessione del risultato trasforma ogni incontro in una guerra."
       }
     ],
     "autore": "Stefan Zweig",
@@ -395,19 +395,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Ti butti sul lavoro per non avvertire il calo di adrenalina dopo il traguardo.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Riempire il vuoto con nuova fatica rimanda soltanto la domanda essenziale."
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Alzi immediatamente l'asticella puntando a un traguardo ancora più grande e costoso.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Inseguire obiettivi sempre più grandi senza fermarti mai alimenta lo stesso vuoto."
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Pensi di aver scelto l'oggetto sbagliato e ricominci subito una nuova ricerca.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Cambiare oggetto senza interrogare il desiderio ti fa girare in tondo."
       }
     ],
     "autore": "Arthur Schnitzler",
@@ -422,14 +422,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede se provi davvero a metterti nei suoi panni?",
     "opzioni": [
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Tieni il conto degli errori passati dell'altro per usarli come arma finale.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Riesumare il passato trasforma ogni discussione in un processo senza appello."
       },
       {
         "testo": "La logica dello scontro annulla l'umanità di entrambi i contendenti, rivelando quanto siano simili.",
@@ -437,9 +432,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Lo interrompi appena coglie una piccola imprecisione nel suo ragionamento.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Colpire il dettaglio formale serve a vincere il dibattito, non a capire l'altro."
+      },
+      {
+        "testo": "Ripeti la tua tesi con parole diverse senza raccogliere nulla di ciò che ha detto.",
+        "giusta": false,
+        "trappola": "Due monologhi ad alta voce non fanno mai un dialogo."
       }
     ],
     "autore": "Erich Maria Remarque",
@@ -454,24 +454,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come torni a fidarti del tuo giudizio interiore?",
     "opzioni": [
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
         "testo": "Quando l'ipocrisia diventa la moneta corrente, dire la verità semplice ti fa sembrare un folle.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Cerchi un gruppo di persone che ti dia sempre ragione senza mai contraddirti.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Circondarsi di specchi compiacenti addormenta la crescita."
+      },
+      {
+        "testo": "Modifichi subito ciò che fai per ottenere più consensi e ridurre le critiche.",
+        "giusta": false,
+        "trappola": "Inseguire l'applauso ti trasforma nell'eco delle aspettative altrui."
+      },
+      {
+        "testo": "Ti esalti al primo elogio e crolli al minimo appunto ricevuto.",
+        "giusta": false,
+        "trappola": "Affidare la tua stabilità all'umore del pubblico ti rende perennemente instabile."
       }
     ],
     "autore": "Heinrich Böll",
@@ -491,19 +491,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Taci e fai finta di non vedere per non passare per quello che rovina l'armonia.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Il silenzio complice legittima la scorrettezza come nuova regola."
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Partecipi a metà, cercando di trarre il vantaggio senza esporti troppo.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "La complicità prudente pesa sulla coscienza quanto l'abuso aperto."
       },
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Ti adegui anche tu pensando che restare onesti da soli sia solo ingenuità.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Chiamare furbizia il conformismo morale cancella la tua integrità."
       }
     ],
     "autore": "Günter Grass",
@@ -518,24 +518,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché intervenire all'inizio richiede un decimo della fatica?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Minimzzi dicendo che in fondo è un comportamento innocuo e sotto controllo.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "L'abitudine diventa padrona proprio mentre credi di poterla fermare quando vuoi."
+      },
+      {
+        "testo": "Aspetti che accada un segnale forte dall'esterno per decidere di cambiare.",
+        "giusta": false,
+        "trappola": "Aspettare l'urto esterno significa scegliere di imparare solo dal danno."
+      },
+      {
+        "testo": "Ti prometti che smetterai con calma non appena finirà questo periodo impegnativo.",
+        "giusta": false,
+        "trappola": "Ogni rinvio rafforza il solco dell'abitudine e rende più duro il distacco."
       },
       {
         "testo": "I disastri non esplodono mai all'improvviso: nascono dalle piccole menzogne che accettiamo ogni giorno per comodità.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
       }
     ],
     "autore": "Christa Wolf",
@@ -550,14 +550,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come mantieni la schiena dritta senza arroganza?",
     "opzioni": [
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Sparisci dalla circolazione per vergogna evitando lo sguardo di chi ti conosce.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Nascondersi per orgoglio ferito ingigantisce il peso della sconfitta."
       },
       {
         "testo": "Conservare la memoria, la lingua e la pulizia morale anche nell'abisso è ciò che distingue l'uomo dalla materia.",
@@ -565,9 +560,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Cerchi subito giustificazioni e colpe altrui per salvare la faccia davanti a tutti.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Difendere l'immagine a ogni costo ti impedisce di imparare dalla caduta."
+      },
+      {
+        "testo": "Reagisci con rabbia e sarcasmo contro chi ha assistito al tuo passo falso.",
+        "giusta": false,
+        "trappola": "L'aggressività difensiva rivela quanto dipendi dal giudizio esterno."
       }
     ],
     "autore": "Primo Levi",
@@ -582,24 +582,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il primo appiglio concreto per ricominciare?",
     "opzioni": [
       {
+        "testo": "Ti chiudi nel rimpianto di ciò che avevi prima rifiutando ogni piccolo passo presente.",
+        "giusta": false,
+        "trappola": "Guardare solo indietro impedisce di afferrare gli appigli di oggi."
+      },
+      {
+        "testo": "Ti abbandoni completamente all'inerzia convinto che ormai nulla abbia più senso.",
+        "giusta": false,
+        "trappola": "Confondere la stanchezza del momento con la fine definitiva blocca la ripresa."
+      },
+      {
+        "testo": "Pretendi di ripartire subito allo stesso ritmo di prima come se non fosse accaduto nulla.",
+        "giusta": false,
+        "trappola": "Negare il colpo subito consuma le ultime riserve invece di rigenerarle."
+      },
+      {
         "testo": "Tornare alla normalità dopo una tempesta richiede più pazienza e lucidità che sopravvivere alla tempesta stessa.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
       }
     ],
     "autore": "Primo Levi",
@@ -614,24 +614,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché ignorare da dove vieni rende fragile dove vai?",
     "opzioni": [
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
         "testo": "Scappare non basta a cancellare le proprie origini: prima o poi bisogna fare i conti con ciò che si è lasciato.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Racconti una versione ritoccata del tuo passato per adattarla al nuovo ambiente.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Costruire il presente su una finzione richiede uno sforzo continuo."
+      },
+      {
+        "testo": "Cancelli ricordi, luoghi e legami precedenti fingendo di essere nato oggi.",
+        "giusta": false,
+        "trappola": "Chi nega le proprie radici resta fragile al primo vento contrario."
+      },
+      {
+        "testo": "Giudichi con sufficienza il mondo da cui provieni per sentirti più evoluto.",
+        "giusta": false,
+        "trappola": "Il disprezzo per le proprie origini è spesso solo vergogna non risolta."
       }
     ],
     "autore": "Cesare Pavese",
@@ -646,9 +646,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Quanto vale un'ora della tua attenzione?",
     "opzioni": [
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Usi lo schermo appena hai trenta secondi liberi per non sentire la noia.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Eliminare ogni vuoto spegne la capacità di riflettere e creare."
+      },
+      {
+        "testo": "Continui a scorrere sperando di trovare finalmente qualcosa di davvero interessante.",
+        "giusta": false,
+        "trappola": "Cercare profondità nella dispersione continua è come voler dissetarsi col sale."
       },
       {
         "testo": "La qualità di un'esistenza non si misura dal calendario, ma dall'intensità con cui sei stato presente.",
@@ -656,14 +661,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Ti giustifichi dicendo che serve a restare informato e aggiornato su tutto.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Accumulare frammenti dimenticati non è informazione, è rumore."
       }
     ],
     "autore": "Cesare Pavese",
@@ -678,24 +678,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il criterio più onesto per decidere senza restare paralizzato?",
     "opzioni": [
       {
+        "testo": "Lasci passare il tempo sperando che siano gli eventi esterni a scegliere al posto tuo.",
+        "giusta": false,
+        "trappola": "Subire una scelta per inerzia porta lo stesso peso senza la dignità della decisione."
+      },
+      {
         "testo": "In mezzo al rumore e al caos, saper riconoscere ciò che non è inferno e dargli spazio è l'unica vera arte.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Cerchi una terza via illusoria per tenere il piede in due scarpe senza perdere nulla.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Voler evitare ogni rinuncia finisce per farti perdere entrambe le strade."
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Scegli d'impulso la via più comoda nell'immediato, ignorando ciò che conta nel lungo periodo.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Evitare il dolore di oggi spesso prepara un rimpianto più grande domani."
       }
     ],
     "autore": "Italo Calvino",
@@ -710,9 +710,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la misura è la vera forza?",
     "opzioni": [
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Aumenti caffè e stimoli artificiali pur di tirare avanti ancora qualche ora.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Forzare il limite fisico presenta sempre il conto con gli interessi."
       },
       {
         "testo": "Né la durezza spietata né il buonismo astratto funzionano: l'essere umano ha bisogno di integrare tutte le sue parti.",
@@ -720,14 +720,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Consideri la stanchezza fisica come una debolezza da ignorare con la forza di volontà.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Trattare il proprio corpo come un nemico spezza l'equilibrio della mente."
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Rimandi il riposo a quando avrai completato tutta la lista delle cose da fare.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "La lista delle cose da fare non finisce mai se non sei tu a porre un confine."
       }
     ],
     "autore": "Italo Calvino",
@@ -742,14 +742,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
       },
       {
         "testo": "Puoi rispettare ogni regola e protocollo alla perfezione, ma senza passione viva resti solo una corazza vuota.",
@@ -757,9 +757,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       }
     ],
     "autore": "Italo Calvino",
@@ -774,24 +774,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa stai perdendo mentre sei altrove con la testa?",
     "opzioni": [
       {
+        "testo": "Ti giustifichi dicendo che potresti ricevere una comunicazione urgente di lavoro.",
+        "giusta": false,
+        "trappola": "Chiamare urgenza ogni notifica sacrifica ciò che è davvero importante."
+      },
+      {
+        "testo": "Annuisci meccanicamente mentre scorri messaggi, convinto di riuscire a seguire entrambi.",
+        "giusta": false,
+        "trappola": "L'attenzione divisa a metà non incontra davvero nessuno."
+      },
+      {
         "testo": "Anche nell'ambiente più grigio e frenetico, chi sa osservare trova ancora tracce vive di stupore.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Resti fisicamente nella stanza ma con la testa già proiettata agli impegni di domani.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Essere presenti a metà lascia l'altro più solo che in tua assenza."
       }
     ],
     "autore": "Italo Calvino",
@@ -811,19 +811,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Cammini a testa bassa ripassando mentalmente problemi e preoccupazioni.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Portare l'ufficio dentro ogni passo ti rende cieco al mondo vivo."
       },
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Pensi che in un percorso già visto mille volte non ci sia più nulla da scoprire.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "La noia non sta nelle strade ripetute, ma nello sguardo spento."
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Inserisci cuffie e automatismi per far passare il tragitto il più in fretta possibile.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Anestetizzare i tragitti quotidiani restringe la tua vita solo alle mete."
       }
     ],
     "autore": "Dino Buzzati",
@@ -838,24 +838,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la freddezza del giudizio chiude ogni possibilità di incontro?",
     "opzioni": [
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Passi oltre soddisfatto della tua analisi, convinto che sia giusto che paghi i suoi errori.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "La freddezza morale trasforma la giustizia in aridità."
       },
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Prendi le distanze per paura che la sua fragilità possa rallentare anche te.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Chi fugge ogni vulnerabilità altrui resta solo quando tocca a lui."
       },
       {
         "testo": "La grande storia passa schiacciando i piccoli, ma è nella tenerezza dei semplici che resiste il senso del mondo.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Gli fai subito una lezione su cosa avrebbe dovuto fare per evitare quel guaio.",
+        "giusta": false,
+        "trappola": "Spiegare a chi cade perché è scivolato non gli tende la mano."
       }
     ],
     "autore": "Elsa Morante",
@@ -870,9 +870,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come superi la delusione senza diventare cinico?",
     "opzioni": [
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Cancelli in un attimo tutto il bene ricevuto e la giudichi completamente falsa.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Passare dall'idolatria al disprezzo totale è lo stesso errore di chi non accetta l'umano."
+      },
+      {
+        "testo": "Smetti di fidarti di chiunque, convinto che dietro ogni persona si nasconda un inganno.",
+        "giusta": false,
+        "trappola": "Trasformare una delusione in cinismo spegne la tua capacità di incontrare."
       },
       {
         "testo": "La fine dell'infanzia coincide con il momento in cui smetti di idealizzare chi ami e inizi a perdonarne i limiti.",
@@ -880,14 +885,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Fingi di non aver visto nulla pur di mantenere intatta l'immagine ideale che avevi costruito.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Negare i limiti dell'altro ti impedisce di conoscerlo davvero."
       }
     ],
     "autore": "Elsa Morante",
@@ -902,24 +902,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché ignorare da dove vieni rende fragile dove vai?",
     "opzioni": [
       {
+        "testo": "Giudichi con sufficienza il mondo da cui provieni per sentirti più evoluto.",
+        "giusta": false,
+        "trappola": "Il disprezzo per le proprie origini è spesso solo vergogna non risolta."
+      },
+      {
         "testo": "I legami più profondi vivono nei piccoli gesti e nelle frasi semplici che ci ancorano quando tutto cambia.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Cancelli ricordi, luoghi e legami precedenti fingendo di essere nato oggi.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Chi nega le proprie radici resta fragile al primo vento contrario."
       },
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Racconti una versione ritoccata del tuo passato per adattarla al nuovo ambiente.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Costruire il presente su una finzione richiede uno sforzo continuo."
       }
     ],
     "autore": "Natalia Ginzburg",
@@ -930,34 +930,34 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
   {
     "id": 122,
     "tipo": "romanzo",
-    "scenario": "Vedi qualcuno che fatica a imparare qualcosa che tu sai fare bene.",
-    "domanda": "Qual è il modo più nobile di trasmettere ciò che sai?",
+    "scenario": "Stai educando o guidando qualcuno più giovane e sei tentato di insegnargli soprattutto a essere prudente, risparmiare e non correre rischi.",
+    "domanda": "Qual è il modo più nobile e fecondo di preparare qualcuno alla vita?",
     "opzioni": [
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Proteggerlo da ogni fatica o delusione finché non sarà abbastanza forte.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Chi non incontra mai l'attrito non sviluppa alcuna resistenza."
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Lasciarlo sbagliare completamente da solo senza mai offrirgli alcun orientamento.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Confondi la libertà con l'abbandono educativo."
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Chi educa solo alla prudenza e al calcolo spegne il coraggio necessario per affrontare davvero la vita.",
+        "testo": "Trasmettergli il coraggio, la generosità e l'amore per le cose grandi, senza soffocarlo con il solo calcolo.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Insegnargli a mettere sempre al sicuro sé stesso e i propri risparmi prima di esporsi.",
+        "giusta": false,
+        "trappola": "La prudenza eccessiva insegna a difendersi, non a vivere con pienezza."
       }
     ],
     "autore": "Natalia Ginzburg",
     "opera": "Le piccole virtù",
     "citazione": "Non bisogna insegnare ai figli le piccole virtù, ma le grandi: non il risparmio ma la generosità.",
-    "spiegazione": "Chi educa solo alla prudenza e al calcolo spegne il coraggio necessario per affrontare davvero la vita."
+    "spiegazione": "Nel saggio «Le piccole virtù», Natalia Ginzburg ricorda che educare solo alla prudenza e al calcolo spegne il coraggio e la generosità necessari per affrontare davvero la vita."
   },
   {
     "id": 123,
@@ -966,9 +966,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede quando tutti tacciono per quieto vivere?",
     "opzioni": [
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Taci anche tu pensando che se nessuno parla forse il problema non è così grave.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Il silenzio collettivo trasforma un errore evidente in una decisione unanime."
+      },
+      {
+        "testo": "Aspetti la fine della riunione per commentare nei corridoi quanto fosse sbagliata quella scelta.",
+        "giusta": false,
+        "trappola": "Il coraggio nei corridoi non cambia mai le decisioni prese al tavolo."
       },
       {
         "testo": "Il desiderio ossessivo di omologarsi al gruppo è la radice più silenziosa della perdita di coscienza.",
@@ -976,14 +981,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Fai una battuta vaga sperando che qualcun altro raccolga lo spunto ed esponga il dubbio.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Delegare agli altri la chiarezza lascia il problema irrisolto."
       }
     ],
     "autore": "Alberto Moravia",
@@ -998,24 +998,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come reagisci davanti a un piccolo abuso quotidiano?",
     "opzioni": [
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Giustifichi il comportamento dicendo che i ruoli di responsabilità richiedono polso duro.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Confondere la fermezza con la prepotenza legittima la sopraffazione."
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Consoli in privato chi ha subito il torto raccomandandogli però di non reagire.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Chiedere pazienza alla vittima senza frenare l'abuso perpetua l'ingiustizia."
+      },
+      {
+        "testo": "Abbassi lo sguardo per non attirare su di te l'attenzione di chi comanda.",
+        "giusta": false,
+        "trappola": "La neutralità davanti a un abuso rafforza sempre chi colpisce."
       },
       {
         "testo": "Chi usa gli ideali come paravento per i propri interessi resta prigioniero della propria stessa trappola.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
       }
     ],
     "autore": "Leonardo Sciascia",
@@ -1030,14 +1030,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa sblocca subito il muro contro muro?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Abbandoni il tavolo dichiarando che non c'è peggior sordo di chi non vuol sentire.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Chiudere la porta convinti di avere tutta la ragione spegne il pensiero."
       },
       {
         "testo": "La risata e il dubbio sano sono gli antidoti migliori contro ogni fanatismo che si crede infallibile.",
@@ -1045,9 +1040,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Incalzi l'altro con domande sempre più strette per costringerlo a contraddirsi.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Mettere l'altro all'angolo irrigidisce la difesa invece di aprire la mente."
+      },
+      {
+        "testo": "Rivendichi la tua esperienza come prova che non hai bisogno di rivedere nulla.",
+        "giusta": false,
+        "trappola": "L'esperienza usata come scudo contro il dubbio diventa dogmatismo."
       }
     ],
     "autore": "Umberto Eco",
@@ -1062,14 +1062,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché guardare in faccia i limiti aiuta invece di frenare?",
     "opzioni": [
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Inizi subito tre iniziative enormi contemporaneamente per sentirti all'altezza del sogno.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Disperdere le forze su troppi fronti garantisce che nessuno arrivi in porto."
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Ti ripeti che l'entusiasmo basterà a colmare ogni mancanza pratica lungo il cammino.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "L'entusiasmo senza misura trasforma i progetti in castelli di carte."
       },
       {
         "testo": "Vedere trame segrete ovunque è solo un modo per sentirsi importanti evitando la responsabilità quotidiana.",
@@ -1077,9 +1077,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Quando emergono i primi ostacoli concreti, accusi la realtà di essere meschina.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Incolpare i limiti materiali significa rifiutarsi di abitare il mondo reale."
       }
     ],
     "autore": "Umberto Eco",
@@ -1094,24 +1094,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede se quel ruolo cambia domani?",
     "opzioni": [
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Giudichi anche il valore delle altre persone in base alla loro posizione professionale.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Guardare gli altri come funzioni ti impedisce di incontrarli come persone."
+      },
+      {
+        "testo": "Lavori ancora di più per rendere quel ruolo sempre più centrale e indispensabile.",
+        "giusta": false,
+        "trappola": "Rinforzare l'unica colonna su cui ti reggi aumenta il rischio del crollo."
+      },
+      {
+        "testo": "Eviti spazi e relazioni in cui il tuo titolo o la tua funzione non contano nulla.",
+        "giusta": false,
+        "trappola": "Temere di valere zero senza etichetta rivela quanto sia fragile la tua identità."
       },
       {
         "testo": "Non serve possedere il mondo intero per avere una vita ricca: basta esplorare a fondo lo strumento che hai tra le mani.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
       }
     ],
     "autore": "Alessandro Baricco",
@@ -1126,27 +1126,27 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
+        "giusta": false,
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
+      },
+      {
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "giusta": false,
+        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
+      },
+      {
         "testo": "Non è mai troppo tardi per svegliarsi dal torpore dell'abitudine e prendere posizione per ciò che è giusto.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       }
     ],
-    "autore": "Tabucchi Antonio",
+    "autore": "Antonio Tabucchi",
     "opera": "Sostiene Pereira",
     "citazione": "Forse era giunto il momento di smettere di vivere come se fosse già morto.",
     "spiegazione": "Non è mai troppo tardi per svegliarsi dal torpore dell'abitudine e prendere posizione per ciò che è giusto."
@@ -1158,24 +1158,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Chi resta quando spegni le luci e sei solo?",
     "opzioni": [
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
         "testo": "Cercare di controllare l'immagine che ognuno ha di te è impossibile: sei sempre diverso negli occhi di chi ti guarda.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Ti convinci che sia solo intelligenza sociale e flessibilità relazionale.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "La flessibilità senza un centro interiore diventa trasformismo."
+      },
+      {
+        "testo": "Eviti di esprimere preferenze chiare finché non hai capito cosa pensa la maggioranza.",
+        "giusta": false,
+        "trappola": "Aspettare il vento prima di parlare ti trasforma in una banderuola."
+      },
+      {
+        "testo": "Perfezioni la tua capacità di adattarti a ogni ambiente come un camaleonte impeccabile.",
+        "giusta": false,
+        "trappola": "Piacere a tutti significa non essere riconoscibile per nessuno."
       }
     ],
     "autore": "Luigi Pirandello",
@@ -1190,24 +1190,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede quando smetti di mentirti?",
     "opzioni": [
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
         "testo": "La pretesa di frugare a forza nella vita altrui per imporre un'etichetta distrugge il rispetto dovuto al mistero di ogni persona.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Rendi la giustificazione ancora più raffinata e plausibile per non sentire il disagio.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Le scuse intelligenti sono le più pericolose perché convincono chi le inventa."
+      },
+      {
+        "testo": "Ti confronti con chi fa ancora meno di te per sentirti comunque a posto.",
+        "giusta": false,
+        "trappola": "Misurarsi al ribasso anestetizza la coscienza."
+      },
+      {
+        "testo": "Rimandi l'inizio a domani con la promessa solenne che recupererai tutto con gli interessi.",
+        "giusta": false,
+        "trappola": "La promessa del recupero futuro serve solo ad assolvere l'inerzia di oggi."
       }
     ],
     "autore": "Luigi Pirandello",
@@ -1227,19 +1227,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
       }
     ],
     "autore": "Italo Svevo",
@@ -1254,9 +1254,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+      },
+      {
+        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
+        "giusta": false,
+        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
       },
       {
         "testo": "Quando la tempesta colpisce, solo la lealtà reciproca e il lavoro onesto tengono a galla la barca.",
@@ -1264,14 +1269,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
       }
     ],
     "autore": "Giovanni Verga",
@@ -1286,24 +1286,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
-      },
-      {
         "testo": "Quando la passione politica e amorosa non trova sbocco nella realtà, rischia di chiudersi in un vicolo cieco.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
       },
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+      },
+      {
+        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "giusta": false,
+        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
       }
     ],
     "autore": "Ugo Foscolo",
@@ -1318,24 +1318,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
-        "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
         "testo": "Riconoscere la fragilità dell'esistenza non porta al cinismo, ma alla solidarietà fraterna tra gli uomini.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
+      },
+      {
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "giusta": false,
+        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
+      },
+      {
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
+        "giusta": false,
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       }
     ],
     "autore": "Giacomo Leopardi",
@@ -1350,24 +1350,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come capisci se stai seguendo la tua strada o quella disegnata da altri?",
     "opzioni": [
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
         "testo": "Accontentarsi della pura sopravvivenza comoda significa tradire la parte più alta della propria umanità.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Ti accontenti dello stipendio e della tranquillità rinunciando a qualsiasi ricerca personale.",
+        "giusta": false,
+        "trappola": "Scambiare tutta la propria vitalità per la sola sicurezza spegne l'anima."
+      },
+      {
+        "testo": "Cerchi compensazioni costose nel tempo libero per sopportare la noia della settimana.",
+        "giusta": false,
+        "trappola": "Comprare svaghi non cura la mancanza di senso di ciò che fai."
+      },
+      {
+        "testo": "Ti lamenti ogni giorno della routine senza però muovere un passo per cambiare.",
+        "giusta": false,
+        "trappola": "La lamentela cronica rende sopportabile una gabbia senza aprirla."
       }
     ],
     "autore": "Dante Alighieri",
@@ -1382,24 +1382,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come rafforzi la tua tenuta interiore?",
     "opzioni": [
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Ti punisci con sensi di colpa inutili ma il giorno dopo ripeti lo stesso schema.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Il rimorso senza disciplina è solo un altro giro a vuoto."
+      },
+      {
+        "testo": "Ti giustifichi dicendo che bisogna sempre ascoltare le proprie emozioni del momento.",
+        "giusta": false,
+        "trappola": "Seguire ogni onda emotiva ti impedisce di costruire qualsiasi rotta."
+      },
+      {
+        "testo": "Abbandoni l'impegno dicendoti che evidentemente non faceva per te.",
+        "giusta": false,
+        "trappola": "Confondere la fatica iniziale con la mancanza di vocazione blocca ogni crescita."
       },
       {
         "testo": "Conoscere perfettamente ciò che ci fa bene non basta se non trasformiamo la conoscenza in decisione ferma.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
       }
     ],
     "autore": "Francesco Petrarca",
@@ -1414,14 +1414,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Quando un desiderio ti fa crescere e quando ti rende schiavo?",
     "opzioni": [
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Fai una lista di tutto ciò che ti manca per convincerti che solo ottenendolo sarai sereno.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Finché guardi solo ciò che manca, anche ciò che possiedi diventa invisibile."
       },
       {
         "testo": "Confondere ogni impulso momentaneo con una legge assoluta fa smarrire la rotta.",
@@ -1429,9 +1424,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Svaluti i tuoi traguardi recenti perché c'è sempre qualcuno che ha ottenuto di più.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Il confronto infinito trasforma ogni conquista in un punto di partenza insoddisfacente."
+      },
+      {
+        "testo": "Rimandi la gratitudine al giorno in cui avrai finalmente raggiunto lo standard ideale.",
+        "giusta": false,
+        "trappola": "Chi non sa essere grato oggi non lo sarà nemmeno con il doppio."
       }
     ],
     "autore": "Torquato Tasso",
@@ -1446,9 +1446,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il gesto che cambia subito il clima intorno a te?",
     "opzioni": [
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Accetti la versione comoda che è stata solo sfortuna così nessuno resta offeso.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Assolvere tutti per quieto vivere garantisce che l'errore si ripeta."
+      },
+      {
+        "testo": "Ricostruisci la sequenza dei fatti solo per dimostrare che la tua parte era impeccabile.",
+        "giusta": false,
+        "trappola": "Salvare la propria fedina mentre la barca affonda non aiuta nessuno."
       },
       {
         "testo": "Diventare davvero umani significa smettere di fuggire dalle conseguenze delle proprie scelte.",
@@ -1456,14 +1461,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Ti ritiri in disparte lasciando che siano gli altri a sbrogliare il pasticcio.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Sfilarsi nel momento difficile spezza la fiducia del gruppo."
       }
     ],
     "autore": "Carlo Collodi",
@@ -1478,9 +1478,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la mitezza lucida è spesso più forte dell'aggressività?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Ti chiudi in un atteggiamento freddo e distante per non offrire appigli.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "La freddezza difensiva isola senza proteggere."
+      },
+      {
+        "testo": "Rispondi alle spallate con altre spallate per guadagnarti rispetto sul campo.",
+        "giusta": false,
+        "trappola": "Chi vince con la prepotenza resta prigioniero della stessa logica."
       },
       {
         "testo": "I piccoli gesti di rispetto e lealtà verso chi fatica valgono più di qualsiasi medaglia.",
@@ -1488,14 +1493,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Indurisci i modi e alzi i toni per non farti percepire come ingenuo o arrendevole.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Imitare l'arroganza altrui ti fa perdere la tua forza migliore."
       }
     ],
     "autore": "Edmondo De Amicis",
@@ -1510,14 +1510,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       },
       {
         "testo": "La lealtà verso i compagni e la parola data restano sacre anche quando il nemico è schiacciante.",
@@ -1525,9 +1525,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       }
     ],
     "autore": "Emilio Salgari",
@@ -1542,24 +1542,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il gesto che cambia subito il clima intorno a te?",
     "opzioni": [
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
-        "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
         "testo": "Disinteressarsi della comunità non ti rende neutrale: lascia semplicemente il timone ai peggiori.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Accetti la versione comoda che è stata solo sfortuna così nessuno resta offeso.",
+        "giusta": false,
+        "trappola": "Assolvere tutti per quieto vivere garantisce che l'errore si ripeta."
+      },
+      {
+        "testo": "Ti ritiri in disparte lasciando che siano gli altri a sbrogliare il pasticcio.",
+        "giusta": false,
+        "trappola": "Sfilarsi nel momento difficile spezza la fiducia del gruppo."
+      },
+      {
+        "testo": "Ricostruisci la sequenza dei fatti solo per dimostrare che la tua parte era impeccabile.",
+        "giusta": false,
+        "trappola": "Salvare la propria fedina mentre la barca affonda non aiuta nessuno."
       }
     ],
     "autore": "Platone",
@@ -1574,24 +1574,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa uccide la vitalità di un incontro autentico?",
     "opzioni": [
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Tieni il muso finché non adotta le tue abitudini e i tuoi ritmi.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Il ricatto emotivo piega la superficie ma raffredda il cuore."
+      },
+      {
+        "testo": "Ti irriti ogni volta che reagisce in modo diverso da come avresti fatto tu.",
+        "giusta": false,
+        "trappola": "Pretendere che l'altro sia la tua copia uccide la ricchezza dell'incontro."
+      },
+      {
+        "testo": "Insisti con consigli e correzioni continui convinto di farlo esclusivamente per il suo bene.",
+        "giusta": false,
+        "trappola": "Voler rimodellare l'altro a propria immagine è una forma sottile di possesso."
       },
       {
         "testo": "Nessuno basta a sé stesso: la fioritura personale avviene sempre dentro una rete di legami giusti.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
       }
     ],
     "autore": "Aristotele",
@@ -1606,24 +1606,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come resti leale senza diventare complice?",
     "opzioni": [
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Fai finta di non aver capito la situazione per evitare di prendere posizione.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "La finta ingenuità è solo una resa silenziosa."
+      },
+      {
+        "testo": "Accetti per dimostrare che per te l'amicizia viene prima di qualsiasi regola.",
+        "giusta": false,
+        "trappola": "Diventare complice di un torto non è amicizia, è omertà."
+      },
+      {
+        "testo": "Copri l'amico adesso ma poi gli rinfacci il favore ogni volta che ti fa comodo.",
+        "giusta": false,
+        "trappola": "Un silenzio comprato avvelena la libertà di entrambi."
       },
       {
         "testo": "Rispondere al male con altro male ti rende uguale a chi ti ha ferito.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
       }
     ],
     "autore": "Socrate (in Platone)",
@@ -1638,24 +1638,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il modo più sano per non perdere te stesso?",
     "opzioni": [
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Gareggi anche tu a chi sfoggia la battuta più brillante o l'opinione più esclusiva.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
-        "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Entrare nella gara delle apparenze ti rende prigioniero del pubblico."
       },
       {
         "testo": "Spogliarsi del superfluo e delle convenzioni vuote mostra quanto poco serva per essere liberi.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Rimani in silenzio disprezzando tutti interiormente senza mai dire ciò che pensi.",
+        "giusta": false,
+        "trappola": "Il disprezzo muto non è autenticità, ma orgoglio nascosto."
+      },
+      {
+        "testo": "Ti adegui al gergo e alle pose del gruppo per non sembrare fuori posto.",
+        "giusta": false,
+        "trappola": "Indossare la maschera della stanza ti fa dimenticare la tua voce."
       }
     ],
     "autore": "Diogene di Sinope",
@@ -1670,24 +1670,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come cambia una relazione quando ascolti per capire e non per rispondere?",
     "opzioni": [
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
-        "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
-      },
-      {
         "testo": "Chi parla continuamente perde l'occasione di imparare da ciò che accade intorno.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Annuisci in fretta per chiudere il suo turno e poter finalmente dire la tua.",
+        "giusta": false,
+        "trappola": "La fretta di parlare trasforma il dialogo in una gara di velocità."
+      },
+      {
+        "testo": "Prepari già la tua risposta mentre l'altro è ancora a metà della prima frase.",
+        "giusta": false,
+        "trappola": "Chi prepara la replica smette di ascoltare prima ancora di capire."
+      },
+      {
+        "testo": "Riporti subito il discorso su un episodio simile capitato a te.",
+        "giusta": false,
+        "trappola": "Spostare il riflettore su di sé chiude lo spazio all'altro."
       }
     ],
     "autore": "Zenone di Cizio",
@@ -1702,24 +1702,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il gesto che ti lascia davvero libero?",
     "opzioni": [
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
         "testo": "La competizione onesta tira fuori il meglio; l'inganno svuota il valore della vittoria.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Lo consideri una piccola compensazione per tutte le volte in cui hai ricevuto meno.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Usare i torti passati per giustificare una scorrettezza oggi ti mette dalla parte del torto."
+      },
+      {
+        "testo": "Aspetti qualche giorno: se nessuno reclama, allora significa che puoi tenerlo.",
+        "giusta": false,
+        "trappola": "Mettere una scadenza all'onestà è solo un alibi per trattenere ciò che non è tuo."
+      },
+      {
+        "testo": "Lo tieni in silenzio pensando che se non se ne sono accorti è un loro problema.",
+        "giusta": false,
+        "trappola": "Approfittare di una svista altrui intacca la tua integrità anche se nessuno lo sa."
       }
     ],
     "autore": "Crisippo",
@@ -1734,9 +1734,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il primo nemico dell'intelligenza viva?",
     "opzioni": [
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Ti irriti se qualcuno pone una domanda semplice che mette in discussione le tue certezze.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "La sicurezza che teme le domande è solo dogmatismo."
       },
       {
         "testo": "Accumulare nozioni senza spirito critico non produce saggezza.",
@@ -1744,14 +1744,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Ascolti solo le fonti che confermano esattamente ciò che pensi già.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Cercare solo conferme trasforma le tue idee in una prigione."
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Ripeti le stesse formule collaudate liquidando ogni novità come inutile.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Quando smetti di interrogare la realtà, la conoscenza diventa abitudine morta."
       }
     ],
     "autore": "Plutarco",
@@ -1766,9 +1766,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come proteggi la tua lucidità quando la salita non finisce?",
     "opzioni": [
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Cedi allo scoraggiamento convinto che se non si è ancora risolta non si risolverà mai.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Confondere la durata della prova con la sua impossibilità spegne la tenacia."
+      },
+      {
+        "testo": "Cerchi una via d'uscita frettolosa pur di interrompere subito la fatica.",
+        "giusta": false,
+        "trappola": "La fretta di uscire dalla salita spesso fa perdere tutto il cammino fatto."
       },
       {
         "testo": "La vera ricchezza è ciò che non puoi perdere nemmeno in un naufragio.",
@@ -1776,14 +1781,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Spingi al massimo consumando tutte le energie subito pur di farla finita.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Bruciare tutte le riserve all'inizio ti lascia senza forze nel tratto decisivo."
       }
     ],
     "autore": "Boèzio",
@@ -1798,14 +1798,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come si allena il buon senso pratico?",
     "opzioni": [
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Dai la colpa a chi ti ha provocato per aver scatenato la tua reazione.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Finché dai agli altri il telecomando delle tue reazioni, non sei libero."
       },
       {
         "testo": "Agire bene richiede di unire buone intenzioni e analisi lucida delle circostanze concrete.",
@@ -1813,9 +1808,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Ti giustifichi dicendo che sei una persona spontanea e che non sai trattenerti.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Chiamare spontaneità l'incapacità di governare l'impulso evita di crescere."
+      },
+      {
+        "testo": "Cerchi di rimediare con un secondo gesto altrettanto frettoloso.",
+        "giusta": false,
+        "trappola": "Aggiungere fretta alla fretta complica ulteriormente il nodo."
       }
     ],
     "autore": "Tommaso d'Aquino",
@@ -1830,24 +1830,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede se riesci a riderci sopra per primo?",
     "opzioni": [
       {
+        "testo": "Scarichi il nervosismo su chi ti capita a tiro nei minuti successivi.",
+        "giusta": false,
+        "trappola": "Contagiare gli altri con il proprio malumore moltiplica un fastidio minuscolo."
+      },
+      {
         "testo": "Un pizzico di autoironia salva dal fanatismo e dalla rigidità morale.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Continui a ripensare all'incidente cercando di capire come avresti potuto evitarlo.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Ruminare su un piccolo intoppo gli regala il potere di divorare ore preziose."
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Interpreti il contrattempo come il segnale che tutta la giornata andrà storta.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Trasformare un dettaglio in una profezia negativa ti rende cieco al resto del giorno."
       }
     ],
     "autore": "Erasmo da Rotterdam",
@@ -1862,24 +1862,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è l'ordine giusto delle priorità?",
     "opzioni": [
       {
+        "testo": "Misuri i tuoi progressi solo dal saldo e dai beni acquisiti nell'ultimo anno.",
+        "giusta": false,
+        "trappola": "Contare solo ciò che si accumula fa dimenticare ciò che si consuma."
+      },
+      {
+        "testo": "Pensi che basterà rallentare tra qualche anno quando avrai raggiunto una certa cifra.",
+        "giusta": false,
+        "trappola": "La cifra che basta non arriva mai se il bisogno di accumulare nasce dall'ansia."
+      },
+      {
+        "testo": "Ti convinci che lo stai facendo esclusivamente per garantire sicurezza futura a chi ami.",
+        "giusta": false,
+        "trappola": "Offrire beni materiali togliendo la tua presenza viva è uno scambio in perdita."
+      },
+      {
         "testo": "Ridurre ogni valore umano al prezzo di mercato impoverisce la convivenza.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
       }
     ],
     "autore": "Tommaso Moro",
@@ -1894,14 +1894,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il primo passo verso la chiarezza?",
     "opzioni": [
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Ti fidi del primo sentito dire perché conferma esattamente ciò che sospettavi.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Le voci che confermano i nostri pregiudizi sembrano sempre verosimili."
       },
       {
         "testo": "Per governare gli eventi bisogna prima liberare la mente dai pregiudizi e osservare i fatti.",
@@ -1909,9 +1904,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Agisci subito per non restare indietro rispetto a chi ha già preso posizione.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Muoversi in fretta su basi false porta solo più lontano dalla soluzione."
+      },
+      {
+        "testo": "Chiedi parere a chi la pensa come te invece di controllare i fatti concreti.",
+        "giusta": false,
+        "trappola": "Condividere un'impressione in gruppo non la trasforma in realtà."
       }
     ],
     "autore": "Francesco Bacone",
@@ -1926,24 +1926,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la ricerca della sicurezza totale paralizza?",
     "opzioni": [
       {
+        "testo": "Aspetti di aver eliminato ogni margine di rischio prima di impegnarti.",
+        "giusta": false,
+        "trappola": "Nella vita reale la garanzia totale esiste solo nell'immobilità."
+      },
+      {
+        "testo": "Resti fermo al punto di partenza analizzando all'infinito gli scenari peggiori.",
+        "giusta": false,
+        "trappola": "Chi guarda solo i precipizi non muove mai un passo sul sentiero."
+      },
+      {
         "testo": "Quando manca la fiducia reciproca, la paura spinge tutti a difendersi preventivamente.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Chiedi rassicurazioni continue agli altri per scaricare il peso della scelta.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Cercare garanti esterni non elimina l'incertezza, rimanda solo la responsabilità."
       }
     ],
     "autore": "Thomas Hobbes",
@@ -1958,24 +1958,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come accogli un'osservazione utile senza ferire l'ego?",
     "opzioni": [
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Minimizzi l'osservazione ricordandogli quanta esperienza hai accumulato tu.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Usare l'anzianità come scudo ti impedisce di vedere ciò che hai davanti."
       },
       {
         "testo": "Riconoscere i limiti di ciò che sappiamo ci protegge dall'arroganza dogmatica.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Ti irrigidisci sulla difensiva cercando un errore nel suo ragionamento.",
+        "giusta": false,
+        "trappola": "Difendere l'ego a scapito della chiarezza ti lascia con il punto cieco."
+      },
+      {
+        "testo": "Accetti il suggerimento a denti stretti ma poi prendi le distanze da chi te l'ha dato.",
+        "giusta": false,
+        "trappola": "Non perdonare a qualcuno di averci visto giusto impoverisce il carattere."
       }
     ],
     "autore": "John Locke",
@@ -1990,24 +1990,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come integri lucidità e sensibilità?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
         "testo": "Ignorare le emozioni credendosi puri calcolatori impedisce di capire cosa muove davvero le nostre scelte.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Reprimi ogni emozione cercando di affrontare relazioni e scelte come un calcolo freddo.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Tagliare via il sentire ti rende cieco a ciò che dà valore alle scelte."
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Giudichi deboli le persone che mostrano commozione o vulnerabilità.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Scambiare la freddezza per forza chiude la porta all'umanità."
+      },
+      {
+        "testo": "Analizzi i sentimenti dall'esterno senza mai permetterti di viverli davvero.",
+        "giusta": false,
+        "trappola": "Spiegare l'acqua non disseta chi ha sete."
       }
     ],
     "autore": "David Hume",
@@ -2022,24 +2022,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a chiederti quale peso sta portando in silenzio?",
     "opzioni": [
       {
+        "testo": "Rispondi con altrettanta durezza per metterla subito al suo posto.",
+        "giusta": false,
+        "trappola": "Raddoppiare l'asprezza chiude ogni varco alla comprensione."
+      },
+      {
+        "testo": "Ti offendi personalmente trasformando il suo sfogo in un attacco contro di te.",
+        "giusta": false,
+        "trappola": "Prendere tutto sul personale ti rende prigioniero degli umori altrui."
+      },
+      {
         "testo": "La capacità di mettersi nei panni dell'altro è il vero collante di ogni società civile.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "La etichetti definitivamente come una persona difficile e prendi le distanze.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Un'etichetta rapida evita la fatica di capire ma impoverisce il legame."
       }
     ],
     "autore": "Adam Smith",
@@ -2054,24 +2054,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come reagisci davanti a un piccolo abuso quotidiano?",
     "opzioni": [
       {
+        "testo": "Abbassi lo sguardo per non attirare su di te l'attenzione di chi comanda.",
+        "giusta": false,
+        "trappola": "La neutralità davanti a un abuso rafforza sempre chi colpisce."
+      },
+      {
+        "testo": "Consoli in privato chi ha subito il torto raccomandandogli però di non reagire.",
+        "giusta": false,
+        "trappola": "Chiedere pazienza alla vittima senza frenare l'abuso perpetua l'ingiustizia."
+      },
+      {
         "testo": "Nessun essere umano è abbastanza virtuoso da poter esercitare un potere senza controlli.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Giustifichi il comportamento dicendo che i ruoli di responsabilità richiedono polso duro.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
-        "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Confondere la fermezza con la prepotenza legittima la sopraffazione."
       }
     ],
     "autore": "Montesquieu",
@@ -2086,24 +2086,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       },
       {
         "testo": "Il confronto tra l'ideale e il cinismo realista costringe a guardare la realtà senza ipocrisie.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "giusta": false,
+        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
       }
     ],
     "autore": "Denis Diderot",
@@ -2118,24 +2118,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa distingue una persona affidabile da chi segue solo l'umore?",
     "opzioni": [
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Lo fai di malavoglia lamentandoti continuamente della fatica che ti costa.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
-        "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Lamentarsi mentre si mantiene una parola ne svuota la dignità."
       },
       {
         "testo": "La vera libertà non è fare ciò che capita, ma darsi una legge giusta e rispettarla.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Cerchi una scusa credibile per rimandare all'ultimo momento senza fare brutta figura.",
+        "giusta": false,
+        "trappola": "Trovare scuse comode erode silenziosamente la fiducia in te stesso."
+      },
+      {
+        "testo": "Ti convinci che cambiare idea all'ultimo sia segno di libertà e flessibilità.",
+        "giusta": false,
+        "trappola": "Confondere l'incostanza con la libertà rende inaffidabili."
       }
     ],
     "autore": "Immanuel Kant",
@@ -2150,14 +2150,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché l'esempio concreto vale più di mille discorsi?",
     "opzioni": [
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Ripeti che inizierai a impegnarti seriamente solo quando l'ambiente sarà più giusto.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Aspettare che il mondo cambi per primo è il modo più comodo per restare fermi."
       },
       {
         "testo": "Il pensiero che non si traduce in impegno concreto nel mondo resta sterile.",
@@ -2165,9 +2160,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Ti senti giustificato a restare passivo finché chi ha più potere non dà il buon esempio.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Delegare l'iniziativa morale significa rinunciare alla propria responsabilità."
+      },
+      {
+        "testo": "Accumuli critiche su ciò che non funziona intorno a te senza proporre nulla.",
+        "giusta": false,
+        "trappola": "Indicare i difetti altrui non costruisce un millimetro di alternativa."
       }
     ],
     "autore": "Johann Gottlieb Fichte",
@@ -2182,24 +2182,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come tracci un confine sano tra i diversi ambiti della vita?",
     "opzioni": [
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
         "testo": "Sacrificare il proprio equilibrio fisico e mentale per vanità o carriera è un pessimo affare.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Continui a controllare email e messaggi anche durante la cena per non perdere il filo.",
+        "giusta": false,
+        "trappola": "Restare reperibili sempre rende assenti dove conta davvero."
+      },
+      {
+        "testo": "Porti a tavola tensione e irritabilità rispondendo male a chi non c'entra nulla.",
+        "giusta": false,
+        "trappola": "Far pagare agli affetti i conti dell'ufficio danneggia ciò che hai di più caro."
+      },
+      {
+        "testo": "Parli esclusivamente di quel problema per tutta la serata usando gli altri come sfogo.",
+        "giusta": false,
+        "trappola": "Trasformare chi ti ama in un cestino delle ansie consuma il rapporto."
       }
     ],
     "autore": "Arthur Schopenhauer",
@@ -2214,24 +2214,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Quando vale la pena rischiare con lucidità?",
     "opzioni": [
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Chiedi a tutti cosa farebbero al posto tuo per non assumerti la responsabilità del salto.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Nessuno può compiere al posto tuo il passo che ti riguarda."
       },
       {
         "testo": "Le scelte decisive della vita richiedono un salto di fiducia che nessun calcolo può garantire.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Aspetti finché non avrai la prova matematica che tutto andrà liscio.",
+        "giusta": false,
+        "trappola": "Le svolte vere non offrono mai garanzie anticipate."
+      },
+      {
+        "testo": "Resti nella situazione attuale pur sapendo che ti sta spegnendo.",
+        "giusta": false,
+        "trappola": "Preferire un disagio conosciuto a un rischio vivo è una resa lenta."
       }
     ],
     "autore": "Søren Kierkegaard",
@@ -2251,19 +2251,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Ti ritiri appena ti accorgi che i primi risultati non sono all'altezza delle aspettative.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Pretendere la maestria al primo giorno condanna all'abbandono."
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Aspetti di aver studiato tutta la teoria prima di fare il primo tentativo pratico.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Rimandare la pratica per paura dell'imperfezione blocca l'apprendimento."
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Fingi disinteresse per l'attività così nessuno potrà dire che hai provato e sbagliato.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Proteggere l'orgoglio fingendo distacco ti priva di ogni conquista."
       }
     ],
     "autore": "Friedrich Nietzsche",
@@ -2278,24 +2278,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché non bisogna mai assuefarsi all'ingiustizia?",
     "opzioni": [
       {
+        "testo": "Ti adatti alle nuove regole scomode cercando di ritagliarti un piccolo spazio tranquillo.",
+        "giusta": false,
+        "trappola": "Cercare comodità dentro una stortura ti rende partecipe del sistema."
+      },
+      {
+        "testo": "Ti dici che in fondo non vale la pena guastarsi il sangue per cose piccole.",
+        "giusta": false,
+        "trappola": "L'assuefazione nasce proprio dal considerare trascurabili i primi cedimenti."
+      },
+      {
+        "testo": "Aspetti che la situazione diventi insopportabile prima di far sentire la tua voce.",
+        "giusta": false,
+        "trappola": "Quando il sopruso è ormai consolidato, opporsi costa dieci volte di più."
+      },
+      {
         "testo": "Combattere un abuso con gli stessi metodi dell'abuso ti trasforma in ciò che combatti.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
       }
     ],
     "autore": "Friedrich Nietzsche",
@@ -2310,14 +2310,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Dove sta finendo davvero il tuo tempo?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Pianifichi una lista ancora più fitta per domani sperando di recuperare tempo.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Aumentare la velocità senza cambiare direzione moltiplica solo la stanchezza."
       },
       {
         "testo": "Un'ora intensa vale più di dieci anni vissuti col pilota automatico.",
@@ -2325,9 +2320,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Dai la colpa alle troppe richieste altrui che non ti lasciano mai respirare.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Finché non scegli tu le priorità, la tua agenda apparterrà sempre agli altri."
+      },
+      {
+        "testo": "Ti butti sul divano scorrendo contenuti passivi fino a notte fonda.",
+        "giusta": false,
+        "trappola": "Il recupero passivo non restituisce il senso a una giornata dispersa."
       }
     ],
     "autore": "Henri Bergson",
@@ -2342,24 +2342,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come risvegli lo sguardo sulle cose semplici?",
     "opzioni": [
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Cammini a testa bassa ripassando mentalmente problemi e preoccupazioni.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Portare l'ufficio dentro ogni passo ti rende cieco al mondo vivo."
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Pensi che in un percorso già visto mille volte non ci sia più nulla da scoprire.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
-      },
-      {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "La noia non sta nelle strade ripetute, ma nello sguardo spento."
       },
       {
         "testo": "Smetti di guardare la realtà attraverso etichette preconfezionate e osservala direttamente.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Inserisci cuffie e automatismi per far passare il tragitto il più in fretta possibile.",
+        "giusta": false,
+        "trappola": "Anestetizzare i tragitti quotidiani restringe la tua vita solo alle mete."
       }
     ],
     "autore": "Edmund Husserl",
@@ -2374,14 +2374,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come torni a fidarti del tuo giudizio interiore?",
     "opzioni": [
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Cerchi un gruppo di persone che ti dia sempre ragione senza mai contraddirti.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Circondarsi di specchi compiacenti addormenta la crescita."
       },
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Ti esalti al primo elogio e crolli al minimo appunto ricevuto.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Affidare la tua stabilità all'umore del pubblico ti rende perennemente instabile."
       },
       {
         "testo": "Puoi vivere ripetendo ciò che «si dice» e «si fa», oppure assumerti la responsabilità della tua unicità.",
@@ -2389,9 +2389,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Modifichi subito ciò che fai per ottenere più consensi e ridurre le critiche.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Inseguire l'applauso ti trasforma nell'eco delle aspettative altrui."
       }
     ],
     "autore": "Martin Heidegger",
@@ -2406,9 +2406,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede quando scrivi o dici con precisione qual è il vero nodo?",
     "opzioni": [
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Continui a rimuginare in cerchio sperando che la soluzione appaia da sola.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Il pensiero confuso che gira su sé stesso alimenta solo l'ansia."
       },
       {
         "testo": "Imparare a nominare con precisione ciò che provi e pensi allarga la tua libertà.",
@@ -2416,14 +2416,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Cerchi subito una distrazione esterna per non sentire il peso della confusione.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "Spostare lo sguardo non ordina ciò che resta aggrovigliato dentro."
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Prendi una decisione affrettata pur di liberarti immediatamente dell'incertezza.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Agire alla cieca per impazienza crea problemi più grandi del dubbio."
       }
     ],
     "autore": "Ludwig Wittgenstein",
@@ -2438,24 +2438,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la chiarezza gentile è una forma di rispetto?",
     "opzioni": [
       {
+        "testo": "Lasci cadere l'argomento convinto che se non lo capisce da solo non vale la pena.",
+        "giusta": false,
+        "trappola": "Rinunciare alla chiarezza per orgoglio chiude il dialogo."
+      },
+      {
         "testo": "Molti conflitti nascono perché usiamo le stesse parole intendendo pratiche completamente diverse.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Quando l'altro fraintende, ti irriti pensando che sia poco attento o sensibile.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Pretendere che gli altri leggano nel pensiero genera solo ingiustizie."
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Usi giri di parole sempre più complessi per non esporti con una richiesta diretta.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "L'ambiguità protettiva impedisce un'intesa limpida."
       }
     ],
     "autore": "Ludwig Wittgenstein",
@@ -2470,24 +2470,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché lasciare spazio allo stupore rinnova i legami?",
     "opzioni": [
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
         "testo": "Una mente matura cerca ciò che può smentire le proprie ipotesi, non solo ciò che le conferma.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "La incaselli in poche caratteristiche fisse smettendo di ascoltarla con curiosità.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Chiudere qualcuno in un'etichetta uccide la parte viva dell'incontro."
+      },
+      {
+        "testo": "Anticipi sempre le sue reazioni convinto che non possa più sorprenderti.",
+        "giusta": false,
+        "trappola": "Quando smetti di aspettarti novità dall'altro, il rapporto si spegne."
+      },
+      {
+        "testo": "Interpreti ogni suo gesto nuovo alla luce dei suoi errori passati.",
+        "giusta": false,
+        "trappola": "Guardare il presente solo attraverso lo specchio retrovisore blocca ogni crescita."
       }
     ],
     "autore": "Karl Popper",
@@ -2502,24 +2502,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa ti guida quando nessuno ti controlla?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
         "testo": "Eseguire ordini o abitudini senza chiedersi cosa stai facendo davvero è la radice delle peggiori ingiustizie.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
+        "testo": "Partecipi a metà, cercando di trarre il vantaggio senza esporti troppo.",
         "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "La complicità prudente pesa sulla coscienza quanto l'abuso aperto."
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Ti adegui anche tu pensando che restare onesti da soli sia solo ingenuità.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Chiamare furbizia il conformismo morale cancella la tua integrità."
+      },
+      {
+        "testo": "Taci e fai finta di non vedere per non passare per quello che rovina l'armonia.",
+        "giusta": false,
+        "trappola": "Il silenzio complice legittima la scorrettezza come nuova regola."
       }
     ],
     "autore": "Hannah Arendt",
@@ -2534,9 +2534,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+      },
+      {
+        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "giusta": false,
+        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
       },
       {
         "testo": "Senza la capacità di perdonare resteremmo incatenati per sempre alle conseguenze irreversibili del passato.",
@@ -2544,14 +2549,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
       }
     ],
     "autore": "Hannah Arendt",
@@ -2566,24 +2566,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
         "testo": "Nessun destino biologico o ruolo sociale può sostituire la libertà di costruire chi vuoi essere.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
+      },
+      {
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "giusta": false,
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
+      },
+      {
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "giusta": false,
+        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
       }
     ],
     "autore": "Simone de Beauvoir",
@@ -2598,24 +2598,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il gesto che cambia subito il clima intorno a te?",
     "opzioni": [
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Ti ritiri in disparte lasciando che siano gli altri a sbrogliare il pasticcio.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
-        "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Sfilarsi nel momento difficile spezza la fiducia del gruppo."
       },
       {
         "testo": "Anche quando dai la colpa alle circostanze, sei sempre tu a scegliere come rispondere.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Ricostruisci la sequenza dei fatti solo per dimostrare che la tua parte era impeccabile.",
+        "giusta": false,
+        "trappola": "Salvare la propria fedina mentre la barca affonda non aiuta nessuno."
+      },
+      {
+        "testo": "Accetti la versione comoda che è stata solo sfortuna così nessuno resta offeso.",
+        "giusta": false,
+        "trappola": "Assolvere tutti per quieto vivere garantisce che l'errore si ripeta."
       }
     ],
     "autore": "Jean-Paul Sartre",
@@ -2630,24 +2630,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come proteggi la tua lucidità quando la salita non finisce?",
     "opzioni": [
       {
+        "testo": "Spingi al massimo consumando tutte le energie subito pur di farla finita.",
+        "giusta": false,
+        "trappola": "Bruciare tutte le riserve all'inizio ti lascia senza forze nel tratto decisivo."
+      },
+      {
+        "testo": "Cerchi una via d'uscita frettolosa pur di interrompere subito la fatica.",
+        "giusta": false,
+        "trappola": "La fretta di uscire dalla salita spesso fa perdere tutto il cammino fatto."
+      },
+      {
         "testo": "Riconoscere che la vita non ha un senso preconfezionato ti rende libero di darle il tuo.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Cedi allo scoraggiamento convinto che se non si è ancora risolta non si risolverà mai.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
-        "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Confondere la durata della prova con la sua impossibilità spegne la tenacia."
       }
     ],
     "autore": "Albert Camus",
@@ -2662,9 +2662,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la freddezza del giudizio chiude ogni possibilità di incontro?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Passi oltre soddisfatto della tua analisi, convinto che sia giusto che paghi i suoi errori.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "La freddezza morale trasforma la giustizia in aridità."
       },
       {
         "testo": "Guardare davvero un altro essere umano impedisce di trattarlo come un numero o un ostacolo.",
@@ -2672,14 +2672,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Gli fai subito una lezione su cosa avrebbe dovuto fare per evitare quel guaio.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Spiegare a chi cade perché è scivolato non gli tende la mano."
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Prendi le distanze per paura che la sua fragilità possa rallentare anche te.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Chi fugge ogni vulnerabilità altrui resta solo quando tocca a lui."
       }
     ],
     "autore": "Emmanuel Lévinas",
@@ -2694,24 +2694,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
+      },
+      {
+        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
+        "giusta": false,
+        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+      },
+      {
+        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "giusta": false,
+        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
       },
       {
         "testo": "La nostra responsabilità oggi si estende anche a chi verrà dopo di noi.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
-        "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
       }
     ],
     "autore": "Hans Jonas",
@@ -2726,24 +2726,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa perdi quando smetti di esercitare una capacità?",
     "opzioni": [
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
-        "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
-      },
-      {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
-        "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
-      },
-      {
         "testo": "Non tutto ciò che è tecnicamente possibile è umanamente desiderabile.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Aspetti che sia qualcun altro a fare il primo passo per non esporti.",
+        "testo": "Pensi di poter sempre tornare a fare da solo quando vorrai.",
         "giusta": false,
-        "trappola": "Delegare l'iniziativa ti lascia passivo di fronte agli eventi."
+        "trappola": "Quando perdi l'allenamento, tornare autonomi diventa molto più duro."
+      },
+      {
+        "testo": "La adotti senza pensarci convinto che risparmiare sforzo sia sempre un guadagno.",
+        "giusta": false,
+        "trappola": "Ogni capacità che smetti di esercitare si atrofizza in silenzio."
+      },
+      {
+        "testo": "Ti affidi completamente allo strumento automatico anche nelle scelte più delicate.",
+        "giusta": false,
+        "trappola": "Delegare il giudizio agli automatismi riduce la tua libertà."
       }
     ],
     "autore": "Günther Anders",
@@ -2758,9 +2758,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa distingue un rapporto maturo da un'infatuazione passeggera?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Fingi che vada tutto bene evitando ogni argomento delicato pur di mantenere una calma apparente.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
+        "trappola": "La pace costruita sul non detto accumula distanza silenziosa."
       },
       {
         "testo": "Trattare gli affetti come beni usa e getta lascia tutti più soli e insicuri.",
@@ -2768,14 +2768,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
+        "testo": "Chiudi bruscamente il rapporto convincendoti che se c'è attrito significa che non era quello giusto.",
         "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
+        "trappola": "Scambiare la prima crisi per incompatibilità impedisce a qualsiasi legame di maturare."
       },
       {
-        "testo": "Ti chiudi in te stesso tagliando i ponti per non rischiare di soffrire.",
+        "testo": "Elenchi all'altro tutti i suoi difetti aspettando che sia lui a cambiare per primo.",
         "giusta": false,
-        "trappola": "Chiudere tutte le porte tiene fuori il dolore ma anche la vita."
+        "trappola": "Chiedere all'altro di fare tutta la strada blocca il dialogo sul nascere."
       }
     ],
     "autore": "Zygmunt Bauman",
@@ -2795,19 +2795,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Usi l'ironia cinica per svalutare ciò che non riesci a ottenere.",
+        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
         "giusta": false,
-        "trappola": "Disprezzare ciò che desideri non ti rende libero, ti rende amaro."
+        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
       },
       {
-        "testo": "Ti adegui a quello che fanno tutti intorno a te per evitare ogni attrito.",
+        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
         "giusta": false,
-        "trappola": "La comodità del branco ha come prezzo la rinuncia alla tua testa."
+        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
       },
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
+        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
         "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
+        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
       }
     ],
     "autore": "Byung-Chul Han",
@@ -2822,24 +2822,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
-        "testo": "Cerchi conferme e applausi esterni per convincerti di valere.",
-        "giusta": false,
-        "trappola": "Dipendere dallo sguardo altrui ti rende fragile ad ogni cambio d'umore."
-      },
-      {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
-        "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
-      },
-      {
         "testo": "Anche quando ti tolgono tutto, resta intatta l'ultima libertà umana: scegliere il proprio atteggiamento.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "giusta": false,
+        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+      },
+      {
+        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "giusta": false,
+        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+      },
+      {
+        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "giusta": false,
+        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
       }
     ],
     "autore": "Viktor Frankl",
@@ -2854,24 +2854,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come ricuci questa distanza?",
     "opzioni": [
       {
-        "testo": "Cerchi subito qualcuno a cui dare la colpa per alleggerirti la coscienza.",
+        "testo": "Sfoghi ciò che pensi davvero solo in anonimato o con estranei.",
         "giusta": false,
-        "trappola": "Trovare un colpevole esterno non ti restituisce il controllo della tua vita."
+        "trappola": "Esprimersi solo nell'ombra non ricuce la frattura nella tua vita reale."
       },
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
+        "testo": "Ti convinci che sia normale tenere separati il mondo interiore e la vita sociale.",
         "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
-        "testo": "Raddoppi gli sforzi nella stessa direzione senza fermarti a verificare se è quella giusta.",
-        "giusta": false,
-        "trappola": "Correre più veloce sulla strada sbagliata ti allontana solo di più dalla meta."
+        "trappola": "Una divisione cronica tra dentro e fuori logora l'energia vitale."
       },
       {
         "testo": "Fondare la propria sicurezza sul possesso rende schiavi della paura di perdere.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Perfezioni la recita esterna per evitare qualsiasi conflitto con l'ambiente.",
+        "giusta": false,
+        "trappola": "Più la maschera funziona, più ti senti estraneo a te stesso."
       }
     ],
     "autore": "Erich Fromm",
@@ -2886,24 +2886,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è l'errore che logora silenziosamente il legame?",
     "opzioni": [
       {
-        "testo": "Reagisci d'impulso per toglierti subito il fastidio di dosso.",
-        "giusta": false,
-        "trappola": "La fretta emotiva risolve il disagio di un minuto creando problemi per mesi."
-      },
-      {
-        "testo": "Rimandi la decisione a quando avrai condizioni perfette e zero rischi.",
-        "giusta": false,
-        "trappola": "La perfezione preliminare è solo una maschera elegante per l'immobilismo."
-      },
-      {
         "testo": "Amare non è un sentimento passivo in cui si cade, ma un'arte che richiede cura, rispetto e conoscenza.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingi che il problema non esista sperando che si sistemi da solo col tempo.",
+        "testo": "Accumuli delusione in silenzio finché un piccolo dettaglio non fa esplodere tutto.",
         "giusta": false,
-        "trappola": "Ignorare un nodo non lo scioglie, lo stringe più forte."
+        "trappola": "Tacere per mesi e poi presentare il conto tutto insieme distrugge la fiducia."
+      },
+      {
+        "testo": "Lanci frecciatine indirette sperando che colga il segnale senza dover chiedere.",
+        "giusta": false,
+        "trappola": "I messaggi obliqui generano solo difese e malintesi."
+      },
+      {
+        "testo": "Ti chiudi in un silenzio offeso aspettando che l'altro capisca da solo dove ha sbagliato.",
+        "giusta": false,
+        "trappola": "Il mutismo punitivo trasforma un bisogno legittimo in un indovinello crudele."
       }
     ],
     "autore": "Erich Fromm",
