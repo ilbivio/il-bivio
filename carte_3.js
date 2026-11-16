@@ -6,9 +6,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Confucio.",
         "giusta": false,
-        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+        "trappola": "Eludere la complessità in «Dialoghi» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "La trasformazione duratura nasce dalla fedeltà quotidiana ai piccoli passi giusti.",
@@ -16,20 +16,20 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+        "trappola": "Il conformismo sociale descritto da Confucio svuota l'autonomia del singolo."
       },
       {
-        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+        "trappola": "Negare la criticità del momento in «Dialoghi» porta dritti alla deriva."
       }
     ],
     "autore": "Confucio",
     "opera": "Dialoghi",
     "citazione": "Non importa quanto vai piano, l'importante è non fermarsi.",
-    "spiegazione": "La trasformazione duratura nasce dalla fedeltà quotidiana ai piccoli passi giusti."
+    "spiegazione": "Attraverso l'opera «Dialoghi», Confucio indaga la profondità della condizione umana, ricordando che ogni scelta autentica esige il coraggio di abbandonare le illusioni per aderire alla realtà."
   },
   {
     "id": 185,
@@ -43,25 +43,25 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Compri nuovi contenitori o app per organizzare meglio tutto ciò che hai accumulato.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Lao Tzu.",
         "giusta": false,
-        "trappola": "Ordinare il superfluo non libera spazio, lo rende solo più presentabile."
+        "trappola": "Eludere la complessità in «Tao Te Ching» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Rimandi il riordino a quando avrai un intero weekend completamente libero.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Aspettare il tempo ideale lascia intatto l'ingombro quotidiano."
+        "trappola": "Il conformismo sociale descritto da Lao Tzu svuota l'autonomia del singolo."
       },
       {
-        "testo": "Conservi tutto con la scusa che un giorno potrebbe sempre tornare utile.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La paura del futuro riempie il presente di zavorre."
+        "trappola": "Negare la criticità del momento in «Tao Te Ching» porta dritti alla deriva."
       }
     ],
     "autore": "Lao Tzu",
     "opera": "Tao Te Ching",
     "citazione": "Un viaggio di mille miglia comincia sempre con un singolo passo.",
-    "spiegazione": "La morbidezza dell'acqua vince la durezza della pietra grazie alla costanza senza forzature."
+    "spiegazione": "Attraverso l'opera «Tao Te Ching», Lao Tzu indaga la profondità della condizione umana, ricordando che ogni scelta autentica esige il coraggio di abbandonare le illusioni per aderire alla realtà."
   },
   {
     "id": 186,
@@ -70,14 +70,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il modo più sano per non perdere te stesso?",
     "opzioni": [
       {
-        "testo": "Gareggi anche tu a chi sfoggia la battuta più brillante o l'opinione più esclusiva.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Zhuangzi.",
         "giusta": false,
-        "trappola": "Entrare nella gara delle apparenze ti rende prigioniero del pubblico."
+        "trappola": "Eludere la complessità in «Zhuangzi» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Rimani in silenzio disprezzando tutti interiormente senza mai dire ciò che pensi.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Il disprezzo muto non è autenticità, ma orgoglio nascosto."
+        "trappola": "Il conformismo sociale descritto da Zhuangzi svuota l'autonomia del singolo."
       },
       {
         "testo": "Ciò che gli altri giudicano inutile spesso è proprio ciò che ti salva dall'essere strumentalizzato.",
@@ -85,15 +85,15 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti adegui al gergo e alle pose del gruppo per non sembrare fuori posto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Indossare la maschera della stanza ti fa dimenticare la tua voce."
+        "trappola": "Negare la criticità del momento in «Zhuangzi» porta dritti alla deriva."
       }
     ],
     "autore": "Zhuangzi",
     "opera": "Zhuangzi",
     "citazione": "L'albero storto non viene tagliato dal falegname e vive fino a tarda età.",
-    "spiegazione": "Ciò che gli altri giudicano inutile spesso è proprio ciò che ti salva dall'essere strumentalizzato."
+    "spiegazione": "Attraverso l'opera «Zhuangzi», Zhuangzi indaga la profondità della condizione umana, ricordando che ogni scelta autentica esige il coraggio di abbandonare le illusioni per aderire alla realtà."
   },
   {
     "id": 187,
@@ -102,19 +102,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come riprendi l'iniziativa con calma?",
     "opzioni": [
       {
-        "testo": "Aumenti il ritmo delle risposte per dimostrare di avere tutto sotto controllo.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Sun Tzu.",
         "giusta": false,
-        "trappola": "La velocità di reazione non sostituisce una direzione chiara."
+        "trappola": "Eludere la complessità in «L'arte della guerra» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Rispondi colpo su colpo a ogni stimolo esterno sentendoti sempre sotto assedio.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Chi vive di sole reazioni lascia agli altri la regia della propria giornata."
+        "trappola": "Il conformismo sociale descritto da Sun Tzu svuota l'autonomia del singolo."
       },
       {
-        "testo": "Cambi direzione ogni volta che qualcuno solleva un'obiezione o una critica.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Senza una bussola propria ogni vento ti sposta di rotta."
+        "trappola": "Negare la criticità del momento in «L'arte della guerra» porta dritti alla deriva."
       },
       {
         "testo": "La vera lucidità evita gli scontri inutili risolvendo la tensione alla radice.",
@@ -125,7 +125,7 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "autore": "Sun Tzu",
     "opera": "L'arte della guerra",
     "citazione": "Vincere cento battaglie non è il massimo dell'abilità; vincere senza combattere è il massimo.",
-    "spiegazione": "La vera lucidità evita gli scontri inutili risolvendo la tensione alla radice."
+    "spiegazione": "Attraverso l'opera «L'arte della guerra», Sun Tzu indaga la profondità della condizione umana, ricordando che ogni scelta autentica esige il coraggio di abbandonare le illusioni per aderire alla realtà."
   },
   {
     "id": 188,
@@ -134,14 +134,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come riprendi il timone della tua attenzione?",
     "opzioni": [
       {
-        "testo": "Tieni tutto aperto e attivo convinto che restare sempre connessi sia un dovere.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Marco Aurelio.",
         "giusta": false,
-        "trappola": "La disponibilità continua rende superficiale ogni attività."
+        "trappola": "Eludere la complessità in «Colloqui con sé stesso» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti lamenti di non avere mai un'ora di pace mentre continui a controllare lo schermo.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Lamentarsi delle interruzioni senza chiudere la porta non cambia nulla."
+        "trappola": "Il conformismo sociale descritto da Marco Aurelio svuota l'autonomia del singolo."
       },
       {
         "testo": "Nessuno può sporcare la tua cittadella interiore senza il tuo consenso.",
@@ -149,15 +149,15 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Interrompi subito ciò che stavi facendo per rispondere entro pochi secondi.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Consegnare la tua attenzione a ogni squillo frammenta la mente."
+        "trappola": "Negare la criticità del momento in «Colloqui con sé stesso» porta dritti alla deriva."
       }
     ],
     "autore": "Marco Aurelio",
     "opera": "Colloqui con sé stesso",
     "citazione": "La felicità della tua vita dipende dalla qualità dei tuoi pensieri.",
-    "spiegazione": "Nessuno può sporcare la tua cittadella interiore senza il tuo consenso."
+    "spiegazione": "Attraverso l'opera «Colloqui con sé stesso», Marco Aurelio indaga la profondità della condizione umana, ricordando che ogni scelta autentica esige il coraggio di abbandonare le illusioni per aderire alla realtà."
   },
   {
     "id": 189,
@@ -171,25 +171,25 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Prendi una decisione affrettata pur di liberarti immediatamente dell'incertezza.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Epitteto.",
         "giusta": false,
-        "trappola": "Agire alla cieca per impazienza crea problemi più grandi del dubbio."
+        "trappola": "Eludere la complessità in «Diatribe» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Cerchi subito una distrazione esterna per non sentire il peso della confusione.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Spostare lo sguardo non ordina ciò che resta aggrovigliato dentro."
+        "trappola": "Il conformismo sociale descritto da Epitteto svuota l'autonomia del singolo."
       },
       {
-        "testo": "Continui a rimuginare in cerchio sperando che la soluzione appaia da sola.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Il pensiero confuso che gira su sé stesso alimenta solo l'ansia."
+        "trappola": "Negare la criticità del momento in «Diatribe» porta dritti alla deriva."
       }
     ],
     "autore": "Epitteto",
     "opera": "Diatribe",
     "citazione": "Non sono i fatti a turbare gli uomini, ma i giudizi che essi danno sui fatti.",
-    "spiegazione": "Tra un evento e la tua reazione c'è sempre la tua interpretazione: cambiala e cambierà il tuo stato d'animo."
+    "spiegazione": "Attraverso l'opera «Diatribe», Epitteto indaga la profondità della condizione umana, ricordando che ogni scelta autentica esige il coraggio di abbandonare le illusioni per aderire alla realtà."
   },
   {
     "id": 190,
@@ -198,19 +198,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa ti fa credere che domani avrai più tempo di oggi?",
     "opzioni": [
       {
-        "testo": "Mandi un messaggio rapido di circostanza per tacitare il senso di colpa.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Seneca.",
         "giusta": false,
-        "trappola": "Un surrogato veloce non sostituisce un incontro vero."
+        "trappola": "Eludere la complessità in «La brevità della vita» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti riprometti di farlo durante le prossime ferie quando sarai davvero riposato.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Ipotecare gli affetti e le idee sulle ferie svuota i giorni feriali."
+        "trappola": "Il conformismo sociale descritto da Seneca svuota l'autonomia del singolo."
       },
       {
-        "testo": "Aspetti che si chiuda prima tutta la lista delle incombenze ordinarie.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Le incombenze ordinarie non finiscono mai: rimandare significa rinunciare."
+        "trappola": "Negare la criticità del momento in «La brevità della vita» porta dritti alla deriva."
       },
       {
         "testo": "Difendi il tuo tempo con la stessa gelosia con cui difenderesti il tuo denaro.",
@@ -221,7 +221,7 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "autore": "Seneca",
     "opera": "La brevità della vita",
     "citazione": "Non abbiamo poco tempo, ma ne sprechiamo molto.",
-    "spiegazione": "Difendi il tuo tempo con la stessa gelosia con cui difenderesti il tuo denaro."
+    "spiegazione": "Attraverso l'opera «La brevità della vita», Seneca indaga la profondità della condizione umana, ricordando che ogni scelta autentica esige il coraggio di abbandonare le illusioni per aderire alla realtà."
   },
   {
     "id": 191,
@@ -230,14 +230,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Jane Austen.",
         "giusta": false,
-        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
+        "trappola": "Eludere la complessità in «Orgoglio e pregiudizio» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
+        "trappola": "Il conformismo sociale descritto da Jane Austen svuota l'autonomia del singolo."
       },
       {
         "testo": "Distingui tra il legittimo rispetto per te stesso e la presunzione che ti impedisce di ascoltare davvero chi hai davanti.",
@@ -245,9 +245,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
+        "trappola": "Negare la criticità del momento in «Orgoglio e pregiudizio» porta dritti alla deriva."
       }
     ],
     "autore": "Jane Austen",
@@ -262,14 +262,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il primo passo concreto per riprendere in mano la tua testa?",
     "opzioni": [
       {
-        "testo": "Lavori fino a tardi la sera per ricavarti finalmente un'ora per te stesso.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Charlotte Brontë.",
         "giusta": false,
-        "trappola": "Sottrarre ore al sonno non risolve l'invasione delle tue giornate."
+        "trappola": "Eludere la complessità in «Jane Eyre» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti lamenti continuamente di essere sfruttato senza però rifiutare alcuna richiesta.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "La lamentela senza confini chiari lascia intatta la tua disponibilità passiva."
+        "trappola": "Il conformismo sociale descritto da Charlotte Brontë svuota l'autonomia del singolo."
       },
       {
         "testo": "Difendi la tua indipendenza interiore rifiutando qualsiasi compromesso che ti chieda di rinunciare alla tua dignità.",
@@ -277,9 +277,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Accetti tutto sperando che prima o poi gli altri riconoscano la tua disponibilità.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Chi dice sempre sì insegna agli altri che il suo tempo non ha confini."
+        "trappola": "Negare la criticità del momento in «Jane Eyre» porta dritti alla deriva."
       }
     ],
     "autore": "Charlotte Brontë",
@@ -294,9 +294,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Emily Brontë.",
         "giusta": false,
-        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+        "trappola": "Eludere la complessità in «Cime tempestose» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Riconosci che i legami più profondi non cancellano le differenze, ma chiedono di non trasformare la passione in possesso.",
@@ -304,14 +304,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+        "trappola": "Il conformismo sociale descritto da Emily Brontë svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+        "trappola": "Negare la criticità del momento in «Cime tempestose» porta dritti alla deriva."
       }
     ],
     "autore": "Emily Brontë",
@@ -326,19 +326,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come si ripara davvero una frattura?",
     "opzioni": [
       {
-        "testo": "Cerchi giustificazioni per dimostrare che in fondo non avevi altra scelta.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Mary Shelley.",
         "giusta": false,
-        "trappola": "Difendersi invece di riconoscere il danno allunga la distanza."
+        "trappola": "Eludere la complessità in «Frankenstein» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti mostri gentilissimo su altri fronti senza mai nominare direttamente l'errore.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "La gentilezza evasiva non sostituisce una parola chiara di responsabilità."
+        "trappola": "Il conformismo sociale descritto da Mary Shelley svuota l'autonomia del singolo."
       },
       {
-        "testo": "Aspetti che passi abbastanza tempo finché l'altro non dimentichi l'accaduto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Il tempo non scioglie da solo un torto lasciato sotto il tappeto."
+        "trappola": "Negare la criticità del momento in «Frankenstein» porta dritti alla deriva."
       },
       {
         "testo": "Assumiti la piena responsabilità di ciò che metti al mondo — idee, scelte o legami — senza abbandonarlo quando diventa scomodo.",
@@ -363,19 +363,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Bram Stoker.",
         "giusta": false,
-        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+        "trappola": "Eludere la complessità in «Dracula» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
+        "trappola": "Il conformismo sociale descritto da Bram Stoker svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
+        "trappola": "Negare la criticità del momento in «Dracula» porta dritti alla deriva."
       }
     ],
     "autore": "Bram Stoker",
@@ -395,19 +395,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti affidi completamente allo strumento automatico anche nelle scelte più delicate.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in H.G. Wells.",
         "giusta": false,
-        "trappola": "Delegare il giudizio agli automatismi riduce la tua libertà."
+        "trappola": "Eludere la complessità in «La macchina del tempo» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "La adotti senza pensarci convinto che risparmiare sforzo sia sempre un guadagno.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Ogni capacità che smetti di esercitare si atrofizza in silenzio."
+        "trappola": "Il conformismo sociale descritto da H.G. Wells svuota l'autonomia del singolo."
       },
       {
-        "testo": "Pensi di poter sempre tornare a fare da solo quando vorrai.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Quando perdi l'allenamento, tornare autonomi diventa molto più duro."
+        "trappola": "Negare la criticità del momento in «La macchina del tempo» porta dritti alla deriva."
       }
     ],
     "autore": "H.G. Wells",
@@ -422,19 +422,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché non bisogna mai assuefarsi all'ingiustizia?",
     "opzioni": [
       {
-        "testo": "Aspetti che la situazione diventi insopportabile prima di far sentire la tua voce.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Aldous Huxley.",
         "giusta": false,
-        "trappola": "Quando il sopruso è ormai consolidato, opporsi costa dieci volte di più."
+        "trappola": "Eludere la complessità in «Il mondo nuovo» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti dici che in fondo non vale la pena guastarsi il sangue per cose piccole.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "L'assuefazione nasce proprio dal considerare trascurabili i primi cedimenti."
+        "trappola": "Il conformismo sociale descritto da Aldous Huxley svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti adatti alle nuove regole scomode cercando di ritagliarti un piccolo spazio tranquillo.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Cercare comodità dentro una stortura ti rende partecipe del sistema."
+        "trappola": "Negare la criticità del momento in «Il mondo nuovo» porta dritti alla deriva."
       },
       {
         "testo": "Diffida delle comodità e delle distrazioni continue che ti addormentano lo spirito critico facendoti amare la tua stessa passività.",
@@ -454,9 +454,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa stai perdendo mentre sei altrove con la testa?",
     "opzioni": [
       {
-        "testo": "Resti fisicamente nella stanza ma con la testa già proiettata agli impegni di domani.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Ray Bradbury.",
         "giusta": false,
-        "trappola": "Essere presenti a metà lascia l'altro più solo che in tua assenza."
+        "trappola": "Eludere la complessità in «Fahrenheit 451» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Proteggi il tuo spazio di silenzio e lettura profonda dal rumore continuo degli schermi che frammentano l'attenzione.",
@@ -464,14 +464,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Annuisci meccanicamente mentre scorri messaggi, convinto di riuscire a seguire entrambi.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "L'attenzione divisa a metà non incontra davvero nessuno."
+        "trappola": "Il conformismo sociale descritto da Ray Bradbury svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti giustifichi dicendo che potresti ricevere una comunicazione urgente di lavoro.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Chiamare urgenza ogni notifica sacrifica ciò che è davvero importante."
+        "trappola": "Negare la criticità del momento in «Fahrenheit 451» porta dritti alla deriva."
       }
     ],
     "autore": "Ray Bradbury",
@@ -486,9 +486,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come riprendi l'iniziativa con calma?",
     "opzioni": [
       {
-        "testo": "Rispondi colpo su colpo a ogni stimolo esterno sentendoti sempre sotto assedio.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Isaac Asimov.",
         "giusta": false,
-        "trappola": "Chi vive di sole reazioni lascia agli altri la regia della propria giornata."
+        "trappola": "Eludere la complessità in «Fondazione» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Risolvi i conflitti con la lungimiranza e l'intelligenza strategica invece di ricorrere allo scontro frontale e impulsivo.",
@@ -496,14 +496,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cambi direzione ogni volta che qualcuno solleva un'obiezione o una critica.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Senza una bussola propria ogni vento ti sposta di rotta."
+        "trappola": "Il conformismo sociale descritto da Isaac Asimov svuota l'autonomia del singolo."
       },
       {
-        "testo": "Aumenti il ritmo delle risposte per dimostrare di avere tutto sotto controllo.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La velocità di reazione non sostituisce una direzione chiara."
+        "trappola": "Negare la criticità del momento in «Fondazione» porta dritti alla deriva."
       }
     ],
     "autore": "Isaac Asimov",
@@ -518,9 +518,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la freddezza del giudizio chiude ogni possibilità di incontro?",
     "opzioni": [
       {
-        "testo": "Gli fai subito una lezione su cosa avrebbe dovuto fare per evitare quel guaio.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Philip K. Dick.",
         "giusta": false,
-        "trappola": "Spiegare a chi cade perché è scivolato non gli tende la mano."
+        "trappola": "Eludere la complessità in «Ma gli androidi sognano pecore elettriche?» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Allena la capacità di sentire il dolore dell'altro come reale: è l'unico confine autentico tra un essere umano e un automa.",
@@ -528,14 +528,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Prendi le distanze per paura che la sua fragilità possa rallentare anche te.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Chi fugge ogni vulnerabilità altrui resta solo quando tocca a lui."
+        "trappola": "Il conformismo sociale descritto da Philip K. Dick svuota l'autonomia del singolo."
       },
       {
-        "testo": "Passi oltre soddisfatto della tua analisi, convinto che sia giusto che paghi i suoi errori.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La freddezza morale trasforma la giustizia in aridità."
+        "trappola": "Negare la criticità del momento in «Ma gli androidi sognano pecore elettriche?» porta dritti alla deriva."
       }
     ],
     "autore": "Philip K. Dick",
@@ -555,19 +555,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Spieghi questa distanza dicendoti che la vita pratica non permette di seguire gli ideali.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Ursula K. Le Guin.",
         "giusta": false,
-        "trappola": "Chiamare realismo il tradimento delle proprie priorità addormenta la coscienza."
+        "trappola": "Eludere la complessità in «I reietti dell'altro pianeta» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti prometti che cambierai stile di vita appena avrai raggiunto maggiore stabilità.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Rimandare la coerenza a condizioni future significa non praticarla mai."
+        "trappola": "Il conformismo sociale descritto da Ursula K. Le Guin svuota l'autonomia del singolo."
       },
       {
-        "testo": "Continui a parlare con entusiasmo dei tuoi valori senza cambiare una sola abitudine.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Le parole non accompagnate dai gesti diventano ornamento vuoto."
+        "trappola": "Negare la criticità del momento in «I reietti dell'altro pianeta» porta dritti alla deriva."
       }
     ],
     "autore": "Ursula K. Le Guin",
@@ -587,19 +587,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "La adotti senza pensarci convinto che risparmiare sforzo sia sempre un guadagno.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Margaret Atwood.",
         "giusta": false,
-        "trappola": "Ogni capacità che smetti di esercitare si atrofizza in silenzio."
+        "trappola": "Eludere la complessità in «Il racconto dell'ancella» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Pensi di poter sempre tornare a fare da solo quando vorrai.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Quando perdi l'allenamento, tornare autonomi diventa molto più duro."
+        "trappola": "Il conformismo sociale descritto da Margaret Atwood svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti affidi completamente allo strumento automatico anche nelle scelte più delicate.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Delegare il giudizio agli automatismi riduce la tua libertà."
+        "trappola": "Negare la criticità del momento in «Il racconto dell'ancella» porta dritti alla deriva."
       }
     ],
     "autore": "Margaret Atwood",
@@ -614,9 +614,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa scopri quando rallenti e osservi davvero?",
     "opzioni": [
       {
-        "testo": "Scorri solo i titoli e i riassunti convinto di aver già afferrato l'essenziale.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in José Saramago.",
         "giusta": false,
-        "trappola": "Cercare solo la sintesi rapida fa perdere proprio la profondità che trasforma."
+        "trappola": "Eludere la complessità in «Cecità» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Rallenta e guarda davvero ciò che hai sotto gli occhi prima di giudicare, invece di scorrere la realtà con lo sguardo spento.",
@@ -624,14 +624,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Interrompi l'ascolto appena intuisci dove vuole arrivare l'interlocutore.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Anticipare sempre la fine impedisce di cogliere le sfumature vive."
+        "trappola": "Il conformismo sociale descritto da José Saramago svuota l'autonomia del singolo."
       },
       {
-        "testo": "Passi subito al contenuto successivo per accumulare quante più nozioni possibile.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La quantità veloce senza sosta non lascia sedimentare nulla."
+        "trappola": "Negare la criticità del momento in «Cecità» porta dritti alla deriva."
       }
     ],
     "autore": "José Saramago",
@@ -646,14 +646,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa ti guida quando nessuno ti controlla?",
     "opzioni": [
       {
-        "testo": "Taci e fai finta di non vedere per non passare per quello che rovina l'armonia.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in José Saramago.",
         "giusta": false,
-        "trappola": "Il silenzio complice legittima la scorrettezza come nuova regola."
+        "trappola": "Eludere la complessità in «Il vangelo secondo Gesù Cristo» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Partecipi a metà, cercando di trarre il vantaggio senza esporti troppo.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "La complicità prudente pesa sulla coscienza quanto l'abuso aperto."
+        "trappola": "Il conformismo sociale descritto da José Saramago svuota l'autonomia del singolo."
       },
       {
         "testo": "Ascolta il verdetto della tua coscienza anche quando tutti intorno a te trovano comodo assolversi a vicenda.",
@@ -661,9 +661,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti adegui anche tu pensando che restare onesti da soli sia solo ingenuità.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Chiamare furbizia il conformismo morale cancella la tua integrità."
+        "trappola": "Negare la criticità del momento in «Il vangelo secondo Gesù Cristo» porta dritti alla deriva."
       }
     ],
     "autore": "José Saramago",
@@ -678,9 +678,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il costo nascosto della compagnia sbagliata?",
     "opzioni": [
       {
-        "testo": "Ti adatti ai loro discorsi e interessi pur di avere compagnia nel fine settimana.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Fernando Pessoa.",
         "giusta": false,
-        "trappola": "Compagnia senza affinità lascia una solitudine ancora più pesante."
+        "trappola": "Eludere la complessità in «Il libro dell'inquietudine» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Impara a bastare a te stesso e a coltivare la tua solitudine fertile, così da scegliere gli altri per affinità e non per paura di restare solo.",
@@ -688,14 +688,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti convinci che in fondo sia impossibile trovare qualcuno davvero affine.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Abbassare gli standard per paura del vuoto impedisce incontri autentici."
+        "trappola": "Il conformismo sociale descritto da Fernando Pessoa svuota l'autonomia del singolo."
       },
       {
-        "testo": "Riempi la settimana di appuntamenti superficiali per non avere serate libere.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "L'agenda piena non guarisce la mancanza di dialogo vero."
+        "trappola": "Negare la criticità del momento in «Il libro dell'inquietudine» porta dritti alla deriva."
       }
     ],
     "autore": "Fernando Pessoa",
@@ -710,19 +710,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come torni a fidarti del tuo giudizio interiore?",
     "opzioni": [
       {
-        "testo": "Modifichi subito ciò che fai per ottenere più consensi e ridurre le critiche.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Miguel de Unamuno.",
         "giusta": false,
-        "trappola": "Inseguire l'applauso ti trasforma nell'eco delle aspettative altrui."
+        "trappola": "Eludere la complessità in «Nebbia» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Cerchi un gruppo di persone che ti dia sempre ragione senza mai contraddirti.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Circondarsi di specchi compiacenti addormenta la crescita."
+        "trappola": "Il conformismo sociale descritto da Miguel de Unamuno svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti esalti al primo elogio e crolli al minimo appunto ricevuto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Affidare la tua stabilità all'umore del pubblico ti rende perennemente instabile."
+        "trappola": "Negare la criticità del momento in «Nebbia» porta dritti alla deriva."
       },
       {
         "testo": "Resta fedele alla tua voce interiore anche quando chi ti sta intorno vorrebbe ridurti a un personaggio prevedibile.",
@@ -742,9 +742,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "A cosa serve davvero ricordare con onestà?",
     "opzioni": [
       {
-        "testo": "Archivi subito ogni passo falso per non rovinarti l'umore con pensieri negativi.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Carlos Ruiz Zafón.",
         "giusta": false,
-        "trappola": "Cancellare in fretta gli errori ti condanna a ripeterli identici."
+        "trappola": "Eludere la complessità in «L'ombra del vento» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Custodisci con cura le esperienze e gli errori passati come una bussola per orientarti oggi, senza trasformarli in un museo immobile.",
@@ -752,14 +752,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Attribuisci ogni ricaduta a circostanze esterne diverse ogni volta.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Cambiare scusa ogni volta nasconde lo stesso schema interiore."
+        "trappola": "Il conformismo sociale descritto da Carlos Ruiz Zafón svuota l'autonomia del singolo."
       },
       {
-        "testo": "Fai grandi propositi generici senza analizzare il punto preciso in cui hai ceduto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "I propositi vaghi non reggono davanti alle stesse tentazioni."
+        "trappola": "Negare la criticità del momento in «L'ombra del vento» porta dritti alla deriva."
       }
     ],
     "autore": "Carlos Ruiz Zafón",
@@ -774,19 +774,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché coltivare ciò che ti accende cambia l'intera giornata?",
     "opzioni": [
       {
-        "testo": "La consideri un passatempo secondario a cui dedicare solo gli scarti di energia.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Roberto Bolaño.",
         "giusta": false,
-        "trappola": "Dare solo le briciole a ciò che ami ne impedisce la fioritura."
+        "trappola": "Eludere la complessità in «I detective selvaggi» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Cerchi subito un modo per monetizzarla, abbandonandola appena vedi che non rende.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Misurare ogni passione sul guadagno immediato uccide la gratuità creativa."
+        "trappola": "Il conformismo sociale descritto da Roberto Bolaño svuota l'autonomia del singolo."
       },
       {
-        "testo": "La rimandi alla pensione o a quando avrai finalmente sistemato ogni sicurezza economica.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Congelare ciò che ti fa vibrare rischia di spegnerlo per sempre."
+        "trappola": "Negare la criticità del momento in «I detective selvaggi» porta dritti alla deriva."
       },
       {
         "testo": "Coltiva con fedeltà ciò che ti accende davvero, anche quando non produce applausi immediati né vantaggi visibili.",
@@ -806,9 +806,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Julio Cortázar.",
         "giusta": false,
-        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
+        "trappola": "Eludere la complessità in «Il gioco del mondo» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Rompi ogni tanto i tuoi percorsi automatici per scoprire possibilità che la routine quotidiana ti nasconde.",
@@ -816,14 +816,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
+        "trappola": "Il conformismo sociale descritto da Julio Cortázar svuota l'autonomia del singolo."
       },
       {
-        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
+        "trappola": "Negare la criticità del momento in «Il gioco del mondo» porta dritti alla deriva."
       }
     ],
     "autore": "Julio Cortázar",
@@ -838,9 +838,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Isabel Allende.",
         "giusta": false,
-        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
+        "trappola": "Eludere la complessità in «La casa degli spiriti» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Spezza la catena dei rancori ereditati scegliendo di comprendere e perdonare invece di ripetere lo stesso copione.",
@@ -848,14 +848,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
+        "trappola": "Il conformismo sociale descritto da Isabel Allende svuota l'autonomia del singolo."
       },
       {
-        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+        "trappola": "Negare la criticità del momento in «La casa degli spiriti» porta dritti alla deriva."
       }
     ],
     "autore": "Isabel Allende",
@@ -875,19 +875,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Mario Vargas Llosa.",
         "giusta": false,
-        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+        "trappola": "Eludere la complessità in «La città e i cani» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+        "trappola": "Il conformismo sociale descritto da Mario Vargas Llosa svuota l'autonomia del singolo."
       },
       {
-        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+        "trappola": "Negare la criticità del momento in «La città e i cani» porta dritti alla deriva."
       }
     ],
     "autore": "Mario Vargas Llosa",
@@ -902,19 +902,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Dove porta la sete di controllo assoluto?",
     "opzioni": [
       {
-        "testo": "Ti dici che è solo una fase necessaria per arrivare in alto e poi potrai dedicarti agli altri.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Juan Rulfo.",
         "giusta": false,
-        "trappola": "Chi sacrifica gli affetti lungo la salita arriva in cima da solo."
+        "trappola": "Eludere la complessità in «Pedro Páramo» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Giustifichi la tua freddezza col fatto che la competizione non fa sconti a nessuno.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Usare la durezza del mercato come alibi inaridisce il cuore."
+        "trappola": "Il conformismo sociale descritto da Juan Rulfo svuota l'autonomia del singolo."
       },
       {
-        "testo": "Tratti le relazioni come contatti utili da coltivare in base all'opportunità.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Quando gli altri diventano gradini, perdi la capacità di incontrare."
+        "trappola": "Negare la criticità del momento in «Pedro Páramo» porta dritti alla deriva."
       },
       {
         "testo": "Riconosci che ogni potere costruito sulla sopraffazione e sul risentimento finisce per lasciare dietro di sé solo macerie e solitudine.",
@@ -934,19 +934,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è l'errore che logora silenziosamente il legame?",
     "opzioni": [
       {
-        "testo": "Lanci frecciatine indirette sperando che colga il segnale senza dover chiedere.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Antoine de Saint-Exupéry.",
         "giusta": false,
-        "trappola": "I messaggi obliqui generano solo difese e malintesi."
+        "trappola": "Eludere la complessità in «Il piccolo principe» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti chiudi in un silenzio offeso aspettando che l'altro capisca da solo dove ha sbagliato.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Il mutismo punitivo trasforma un bisogno legittimo in un indovinello crudele."
+        "trappola": "Il conformismo sociale descritto da Antoine de Saint-Exupéry svuota l'autonomia del singolo."
       },
       {
-        "testo": "Accumuli delusione in silenzio finché un piccolo dettaglio non fa esplodere tutto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Tacere per mesi e poi presentare il conto tutto insieme distrugge la fiducia."
+        "trappola": "Negare la criticità del momento in «Il piccolo principe» porta dritti alla deriva."
       },
       {
         "testo": "Dedica tempo e cura concreta alle persone a cui tieni: è l'attenzione che dai loro a renderle uniche per te.",
@@ -966,9 +966,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa uccide la vitalità di un incontro autentico?",
     "opzioni": [
       {
-        "testo": "Tieni il muso finché non adotta le tue abitudini e i tuoi ritmi.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Antoine de Saint-Exupéry.",
         "giusta": false,
-        "trappola": "Il ricatto emotivo piega la superficie ma raffredda il cuore."
+        "trappola": "Eludere la complessità in «Terra degli uomini» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Costruisci un legame guardando insieme verso un orizzonte comune invece di controllarvi a vicenda.",
@@ -976,14 +976,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti irriti ogni volta che reagisce in modo diverso da come avresti fatto tu.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Pretendere che l'altro sia la tua copia uccide la ricchezza dell'incontro."
+        "trappola": "Il conformismo sociale descritto da Antoine de Saint-Exupéry svuota l'autonomia del singolo."
       },
       {
-        "testo": "Insisti con consigli e correzioni continui convinto di farlo esclusivamente per il suo bene.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Voler rimodellare l'altro a propria immagine è una forma sottile di possesso."
+        "trappola": "Negare la criticità del momento in «Terra degli uomini» porta dritti alla deriva."
       }
     ],
     "autore": "Antoine de Saint-Exupéry",
@@ -998,14 +998,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Quale gesto semplice può riaccendere subito la tua presenza?",
     "opzioni": [
       {
-        "testo": "Cambi qualche dettaglio superficiale della routine senza interrogare il senso di ciò che fai.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in André Gide.",
         "giusta": false,
-        "trappola": "Spostare i mobili nella stessa stanza non cambia la direzione."
+        "trappola": "Eludere la complessità in «I nutrimenti terrestri» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti convinci che sia normale così quando si hanno tante responsabilità.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Chiamare maturità lo spegnimento interiore giustifica l'abitudine."
+        "trappola": "Il conformismo sociale descritto da André Gide svuota l'autonomia del singolo."
       },
       {
         "testo": "Vivi pienamente ciò che hai davanti adesso senza rimandare la gioia a condizioni future che forse non arriveranno mai.",
@@ -1013,9 +1013,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aspetti che accada un evento straordinario dall'esterno a scuoterti dal torpore.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Aspettare scosse esterne lascia la tua presenza in balia del caso."
+        "trappola": "Negare la criticità del momento in «I nutrimenti terrestri» porta dritti alla deriva."
       }
     ],
     "autore": "André Gide",
@@ -1030,9 +1030,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa resta tuo anche quando perdi tutto il resto?",
     "opzioni": [
       {
-        "testo": "Giustifichi la resa dicendoti che solo gli ingenui restano rigidi sui principi.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in André Malraux.",
         "giusta": false,
-        "trappola": "Chiamare furbizia la rinuncia alla dignità impoverisce la persona."
+        "trappola": "Eludere la complessità in «La condizione umana» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Scegli la dignità delle tue azioni di fronte alle prove inevitabili, perché è lì che si misura la tua statura interiore.",
@@ -1040,14 +1040,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Accetti il compromesso pensando che nessuno verrà mai a sapere di quel piccolo cedimento.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Ciò che cedi in silenzio cambia comunque la stima che hai di te."
+        "trappola": "Il conformismo sociale descritto da André Malraux svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti pieghi temporaneamente convinto che una volta ottenuto il vantaggio tornerai libero.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Chi compra un posto piegando la schiena resta poi ricattabile."
+        "trappola": "Negare la criticità del momento in «La condizione umana» porta dritti alla deriva."
       }
     ],
     "autore": "André Malraux",
@@ -1062,19 +1062,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa uccide la vitalità di un incontro autentico?",
     "opzioni": [
       {
-        "testo": "Insisti con consigli e correzioni continui convinto di farlo esclusivamente per il suo bene.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Boris Vian.",
         "giusta": false,
-        "trappola": "Voler rimodellare l'altro a propria immagine è una forma sottile di possesso."
+        "trappola": "Eludere la complessità in «La schiuma dei giorni» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Tieni il muso finché non adotta le tue abitudini e i tuoi ritmi.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Il ricatto emotivo piega la superficie ma raffredda il cuore."
+        "trappola": "Il conformismo sociale descritto da Boris Vian svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti irriti ogni volta che reagisce in modo diverso da come avresti fatto tu.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Pretendere che l'altro sia la tua copia uccide la ricchezza dell'incontro."
+        "trappola": "Negare la criticità del momento in «La schiuma dei giorni» porta dritti alla deriva."
       },
       {
         "testo": "Non chiuderti in una bolla isolata dal mondo sperando di proteggere un affetto dalle fatiche della realtà.",
@@ -1094,9 +1094,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come si ripara davvero una frattura?",
     "opzioni": [
       {
-        "testo": "Ti mostri gentilissimo su altri fronti senza mai nominare direttamente l'errore.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Marguerite Yourcenar.",
         "giusta": false,
-        "trappola": "La gentilezza evasiva non sostituisce una parola chiara di responsabilità."
+        "trappola": "Eludere la complessità in «Memorie di Adriano» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Assumiti la cura concreta dell'ordine, della giustizia e della bellezza nel pezzo di mondo affidato alle tue mani.",
@@ -1104,14 +1104,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi giustificazioni per dimostrare che in fondo non avevi altra scelta.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Difendersi invece di riconoscere il danno allunga la distanza."
+        "trappola": "Il conformismo sociale descritto da Marguerite Yourcenar svuota l'autonomia del singolo."
       },
       {
-        "testo": "Aspetti che passi abbastanza tempo finché l'altro non dimentichi l'accaduto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Il tempo non scioglie da solo un torto lasciato sotto il tappeto."
+        "trappola": "Negare la criticità del momento in «Memorie di Adriano» porta dritti alla deriva."
       }
     ],
     "autore": "Marguerite Yourcenar",
@@ -1131,19 +1131,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "La etichetti definitivamente come una persona difficile e prendi le distanze.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Georges Simenon.",
         "giusta": false,
-        "trappola": "Un'etichetta rapida evita la fatica di capire ma impoverisce il legame."
+        "trappola": "Eludere la complessità in «Il porto delle nebbie» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Rispondi con altrettanta durezza per metterla subito al suo posto.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Raddoppiare l'asprezza chiude ogni varco alla comprensione."
+        "trappola": "Il conformismo sociale descritto da Georges Simenon svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti offendi personalmente trasformando il suo sfogo in un attacco contro di te.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Prendere tutto sul personale ti rende prigioniero degli umori altrui."
+        "trappola": "Negare la criticità del momento in «Il porto delle nebbie» porta dritti alla deriva."
       }
     ],
     "autore": "Georges Simenon",
@@ -1158,19 +1158,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede quando tradisci continuamente ciò che senti vero?",
     "opzioni": [
       {
-        "testo": "Scarichi la colpa su impegni esterni inventati pur di non assumerti la responsabilità di un no sincero.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Daniel Pennac.",
         "giusta": false,
-        "trappola": "Le scuse diplomatiche ti evitano l'imbarazzo di un minuto ma ti tolgono autorevolezza."
+        "trappola": "Eludere la complessità in «Come un romanzo» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Dici di sì ma poi svolgi l'impegno con freddezza e risentimento nascosto.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Un sì dato controvoglia avvelena sia te che chi lo riceve."
+        "trappola": "Il conformismo sociale descritto da Daniel Pennac svuota l'autonomia del singolo."
       },
       {
-        "testo": "Accetti con un sorriso forzato, ripromettendoti di tirarti indietro all'ultimo momento con una scusa.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Rimandare il rifiuto con un pretesto raddoppia la delusione e mina la tua parola."
+        "trappola": "Negare la criticità del momento in «Come un romanzo» porta dritti alla deriva."
       },
       {
         "testo": "Concediti l'onestà di lasciare ciò che non ti nutre più, senza trascinarti per senso di colpa in impegni ormai svuotati.",
@@ -1195,19 +1195,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti esalti al primo elogio e crolli al minimo appunto ricevuto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in J.D. Salinger.",
         "giusta": false,
-        "trappola": "Affidare la tua stabilità all'umore del pubblico ti rende perennemente instabile."
+        "trappola": "Eludere la complessità in «Il giovane Holden» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Cerchi un gruppo di persone che ti dia sempre ragione senza mai contraddirti.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Circondarsi di specchi compiacenti addormenta la crescita."
+        "trappola": "Il conformismo sociale descritto da J.D. Salinger svuota l'autonomia del singolo."
       },
       {
-        "testo": "Modifichi subito ciò che fai per ottenere più consensi e ridurre le critiche.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Inseguire l'applauso ti trasforma nell'eco delle aspettative altrui."
+        "trappola": "Negare la criticità del momento in «Il giovane Holden» porta dritti alla deriva."
       }
     ],
     "autore": "J.D. Salinger",
@@ -1222,9 +1222,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a chiederti quale peso sta portando in silenzio?",
     "opzioni": [
       {
-        "testo": "La etichetti definitivamente come una persona difficile e prendi le distanze.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Harper Lee.",
         "giusta": false,
-        "trappola": "Un'etichetta rapida evita la fatica di capire ma impoverisce il legame."
+        "trappola": "Eludere la complessità in «Il buio oltre la siepe» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Prima di giudicare qualcuno, prova davvero a metterti nei suoi panni e a camminare per un tratto nella sua storia.",
@@ -1232,14 +1232,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti offendi personalmente trasformando il suo sfogo in un attacco contro di te.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Prendere tutto sul personale ti rende prigioniero degli umori altrui."
+        "trappola": "Il conformismo sociale descritto da Harper Lee svuota l'autonomia del singolo."
       },
       {
-        "testo": "Rispondi con altrettanta durezza per metterla subito al suo posto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Raddoppiare l'asprezza chiude ogni varco alla comprensione."
+        "trappola": "Negare la criticità del momento in «Il buio oltre la siepe» porta dritti alla deriva."
       }
     ],
     "autore": "Harper Lee",
@@ -1254,19 +1254,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché conviene ascoltare quella voce scomoda invece di zittirla?",
     "opzioni": [
       {
-        "testo": "Ti ripeti che ormai è fatta e che non serve a nulla tornare a pensarci.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Mark Twain.",
         "giusta": false,
-        "trappola": "Chiudere il fascicolo senza imparare lascia aperta la stessa fragilità."
+        "trappola": "Eludere la complessità in «Le avventure di Huckleberry Finn» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Zittisci subito quel fastidio concentrandoti sui vantaggi pratici ottenuti.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Anestetizzare la coscienza con i vantaggi pratici spegne la bussola interiore."
+        "trappola": "Il conformismo sociale descritto da Mark Twain svuota l'autonomia del singolo."
       },
       {
-        "testo": "Cerchi qualcuno che ti confermi che al posto tuo avrebbe fatto esattamente lo stesso.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "L'assoluzione del gruppo non scioglie il disagio della tua coscienza."
+        "trappola": "Negare la criticità del momento in «Le avventure di Huckleberry Finn» porta dritti alla deriva."
       },
       {
         "testo": "Segui la tua coscienza viva quando una regola o un'abitudine sociale ti chiede di trattare ingiustamente un altro essere umano.",
@@ -1286,14 +1286,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Ernest Hemingway.",
         "giusta": false,
-        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
+        "trappola": "Eludere la complessità in «Per chi suona la campana» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
+        "trappola": "Il conformismo sociale descritto da Ernest Hemingway svuota l'autonomia del singolo."
       },
       {
         "testo": "Riconosci che il tuo destino è intrecciato a quello degli altri e che nessuna salvezza individuale regge nell'isolamento.",
@@ -1301,9 +1301,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
+        "trappola": "Negare la criticità del momento in «Per chi suona la campana» porta dritti alla deriva."
       }
     ],
     "autore": "Ernest Hemingway",
@@ -1318,9 +1318,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il primo appiglio concreto per ricominciare?",
     "opzioni": [
       {
-        "testo": "Ti chiudi nel rimpianto di ciò che avevi prima rifiutando ogni piccolo passo presente.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Ernest Hemingway.",
         "giusta": false,
-        "trappola": "Guardare solo indietro impedisce di afferrare gli appigli di oggi."
+        "trappola": "Eludere la complessità in «Addio alle armi» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Accetta le cicatrici delle prove attraversate senza vergognartene: spesso è proprio lì che si forma la tua resistenza più autentica.",
@@ -1328,14 +1328,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Pretendi di ripartire subito allo stesso ritmo di prima come se non fosse accaduto nulla.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Negare il colpo subito consuma le ultime riserve invece di rigenerarle."
+        "trappola": "Il conformismo sociale descritto da Ernest Hemingway svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti abbandoni completamente all'inerzia convinto che ormai nulla abbia più senso.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Confondere la stanchezza del momento con la fine definitiva blocca la ripresa."
+        "trappola": "Negare la criticità del momento in «Addio alle armi» porta dritti alla deriva."
       }
     ],
     "autore": "Ernest Hemingway",
@@ -1350,14 +1350,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché non scegliere ti impedisce di avanzare davvero?",
     "opzioni": [
       {
-        "testo": "Aspetti che una delle porte si chiuda da sola così non dovrai decidere tu.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in John Steinbeck.",
         "giusta": false,
-        "trappola": "Lasciare che sia il caso a sfoltire le scelte rinuncia alla tua regia."
+        "trappola": "Eludere la complessità in «La valle dell'Eden» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Distribuisci un po' di energia su tutte le opzioni senza impegnarti davvero in nessuna.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Chi cammina verso dieci mete insieme non arriva in nessuna."
+        "trappola": "Il conformismo sociale descritto da John Steinbeck svuota l'autonomia del singolo."
       },
       {
         "testo": "Riconosci che hai sempre il potere di scegliere una strada diversa: nessuna eredità o errore passato ti condanna automaticamente.",
@@ -1365,9 +1365,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Rimandi la decisione definitiva per conservare la sensazione di avere infinite possibilità.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La libertà che non sceglie mai resta pura illusione immobile."
+        "trappola": "Negare la criticità del momento in «La valle dell'Eden» porta dritti alla deriva."
       }
     ],
     "autore": "John Steinbeck",
@@ -1387,19 +1387,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in John Steinbeck.",
         "giusta": false,
-        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
+        "trappola": "Eludere la complessità in «Uomini e topi» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Vincere una lite umiliando l'altro lascia intacto il muro tra voi."
+        "trappola": "Il conformismo sociale descritto da John Steinbeck svuota l'autonomia del singolo."
       },
       {
-        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
+        "trappola": "Negare la criticità del momento in «Uomini e topi» porta dritti alla deriva."
       }
     ],
     "autore": "John Steinbeck",
@@ -1414,19 +1414,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa manca alle tue giornate per tornare a respirare?",
     "opzioni": [
       {
-        "testo": "Ti convinci che la spontaneità sia un lusso per chi non ha responsabilità.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Jack Kerouac.",
         "giusta": false,
-        "trappola": "L'ordine rigido senza apertura all'imprevisto spegne la vitalità."
+        "trappola": "Eludere la complessità in «Sulla strada» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ottimizzi ancora di più l'agenda per incastrare anche un'ora di svago programmato.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Trattare anche la libertà come un compito in agenda non restituisce respiro."
+        "trappola": "Il conformismo sociale descritto da Jack Kerouac svuota l'autonomia del singolo."
       },
       {
-        "testo": "Cerchi emozioni forti nel weekend per compensare la meccanicità della settimana.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Alternare automatismo e stordimento non crea pienezza."
+        "trappola": "Negare la criticità del momento in «Sulla strada» porta dritti alla deriva."
       },
       {
         "testo": "Lascia spazio allo stupore e all'incontro imprevisto invece di blindare ogni minuto in una routine senz'anima.",
@@ -1446,9 +1446,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché coltivare ciò che ti accende cambia l'intera giornata?",
     "opzioni": [
       {
-        "testo": "Cerchi subito un modo per monetizzarla, abbandonandola appena vedi che non rende.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Charles Bukowski.",
         "giusta": false,
-        "trappola": "Misurare ogni passione sul guadagno immediato uccide la gratuità creativa."
+        "trappola": "Eludere la complessità in «Factotum» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Dedica le tue energie migliori a ciò che senti davvero tuo, piuttosto che sprecare la vita in una sicurezza che ti spegne.",
@@ -1456,14 +1456,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "La consideri un passatempo secondario a cui dedicare solo gli scarti di energia.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Dare solo le briciole a ciò che ami ne impedisce la fioritura."
+        "trappola": "Il conformismo sociale descritto da Charles Bukowski svuota l'autonomia del singolo."
       },
       {
-        "testo": "La rimandi alla pensione o a quando avrai finalmente sistemato ogni sicurezza economica.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Congelare ciò che ti fa vibrare rischia di spegnerlo per sempre."
+        "trappola": "Negare la criticità del momento in «Factotum» porta dritti alla deriva."
       }
     ],
     "autore": "Charles Bukowski",
@@ -1478,9 +1478,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è l'antidoto più rapido contro la pesantezza?",
     "opzioni": [
       {
-        "testo": "Ti arrabbi con te stesso per non riuscire a restare calmo.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Kurt Vonnegut.",
         "giusta": false,
-        "trappola": "Aggiungere giudizio al nervosismo raddoppia la tensione."
+        "trappola": "Eludere la complessità in «Mattatoio n. 5» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Usa un'ironia lucida e leggera per ridimensionare ciò che non puoi controllare, evitando di farti schiacciare dal dramma.",
@@ -1488,14 +1488,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Chiedi conferme e conforto a tutti per farti rassicurare sulla gravità del caso.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Cercare eco al proprio allarme alimenta la pesantezza."
+        "trappola": "Il conformismo sociale descritto da Kurt Vonnegut svuota l'autonomia del singolo."
       },
       {
-        "testo": "Continui ad analizzare ogni possibile conseguenza catastrofica di quel dettaglio.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Ingrandire al microscopio un sassolino lo trasforma in una montagna."
+        "trappola": "Negare la criticità del momento in «Mattatoio n. 5» porta dritti alla deriva."
       }
     ],
     "autore": "Kurt Vonnegut",
@@ -1510,19 +1510,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa stai cercando di evitare attraverso tutta questa complessità?",
     "opzioni": [
       {
-        "testo": "Chiedi conferme a tre persone diverse prima di compiere il primo passo.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Joseph Heller.",
         "giusta": false,
-        "trappola": "Cercare permessi continui diluisce la tua responsabilità."
+        "trappola": "Eludere la complessità in «Comma 22» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Aggiungi un ulteriore controllo e una nuova lista per essere sicuro al cento per cento.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "La ricerca della preparazione perfetta è spesso il modo più elegante per non iniziare mai."
+        "trappola": "Il conformismo sociale descritto da Joseph Heller svuota l'autonomia del singolo."
       },
       {
-        "testo": "Rimandi l'azione a lunedì prossimo quando avrai la mente più libera e ordinata.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Il momento idealmente libero non arriva mai prima dell'azione."
+        "trappola": "Negare la criticità del momento in «Comma 22» porta dritti alla deriva."
       },
       {
         "testo": "Diffida dei regolamenti circolari che ti intrappolano in giustificazioni infinite e torna al buon senso concreto.",
@@ -1547,19 +1547,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Ken Kesey.",
         "giusta": false,
-        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+        "trappola": "Eludere la complessità in «Qualcuno volò sul nido del cuculo» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+        "trappola": "Il conformismo sociale descritto da Ken Kesey svuota l'autonomia del singolo."
       },
       {
-        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+        "trappola": "Negare la criticità del momento in «Qualcuno volò sul nido del cuculo» porta dritti alla deriva."
       }
     ],
     "autore": "Ken Kesey",
@@ -1579,19 +1579,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Sfoghi ciò che pensi davvero solo in anonimato o con estranei.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Toni Morrison.",
         "giusta": false,
-        "trappola": "Esprimersi solo nell'ombra non ricuce la frattura nella tua vita reale."
+        "trappola": "Eludere la complessità in «Amatissima» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Perfezioni la recita esterna per evitare qualsiasi conflitto con l'ambiente.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Più la maschera funziona, più ti senti estraneo a te stesso."
+        "trappola": "Il conformismo sociale descritto da Toni Morrison svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti convinci che sia normale tenere separati il mondo interiore e la vita sociale.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Una divisione cronica tra dentro e fuori logora l'energia vitale."
+        "trappola": "Negare la criticità del momento in «Amatissima» porta dritti alla deriva."
       }
     ],
     "autore": "Toni Morrison",
@@ -1606,14 +1606,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché guardare in faccia i limiti aiuta invece di frenare?",
     "opzioni": [
       {
-        "testo": "Inizi subito tre iniziative enormi contemporaneamente per sentirti all'altezza del sogno.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Philip Roth.",
         "giusta": false,
-        "trappola": "Disperdere le forze su troppi fronti garantisce che nessuno arrivi in porto."
+        "trappola": "Eludere la complessità in «Pastorale americana» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Quando emergono i primi ostacoli concreti, accusi la realtà di essere meschina.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Incolpare i limiti materiali significa rifiutarsi di abitare il mondo reale."
+        "trappola": "Il conformismo sociale descritto da Philip Roth svuota l'autonomia del singolo."
       },
       {
         "testo": "Accetta che la vita realistica sfugge sempre ai piani perfetti e impari a navigare l'imprevisto senza crollare.",
@@ -1621,9 +1621,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti ripeti che l'entusiasmo basterà a colmare ogni mancanza pratica lungo il cammino.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "L'entusiasmo senza misura trasforma i progetti in castelli di carte."
+        "trappola": "Negare la criticità del momento in «Pastorale americana» porta dritti alla deriva."
       }
     ],
     "autore": "Philip Roth",
@@ -1638,19 +1638,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Paul Auster.",
         "giusta": false,
-        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+        "trappola": "Eludere la complessità in «Trilogia di New York» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+        "trappola": "Il conformismo sociale descritto da Paul Auster svuota l'autonomia del singolo."
       },
       {
-        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+        "trappola": "Negare la criticità del momento in «Trilogia di New York» porta dritti alla deriva."
       },
       {
         "testo": "Resta aperto agli indizi e agli incontri casuali che possono ribaltare il senso di una giornata apparentemente ordinaria.",
@@ -1675,19 +1675,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Parli esclusivamente di quel problema per tutta la serata usando gli altri come sfogo.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Don DeLillo.",
         "giusta": false,
-        "trappola": "Trasformare chi ti ama in un cestino delle ansie consuma il rapporto."
+        "trappola": "Eludere la complessità in «Rumore bianco» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Porti a tavola tensione e irritabilità rispondendo male a chi non c'entra nulla.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Far pagare agli affetti i conti dell'ufficio danneggia ciò che hai di più caro."
+        "trappola": "Il conformismo sociale descritto da Don DeLillo svuota l'autonomia del singolo."
       },
       {
-        "testo": "Continui a controllare email e messaggi anche durante la cena per non perdere il filo.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Restare reperibili sempre rende assenti dove conta davvero."
+        "trappola": "Negare la criticità del momento in «Rumore bianco» porta dritti alla deriva."
       }
     ],
     "autore": "Don DeLillo",
@@ -1702,19 +1702,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa stai perdendo mentre sei altrove con la testa?",
     "opzioni": [
       {
-        "testo": "Resti fisicamente nella stanza ma con la testa già proiettata agli impegni di domani.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in David Foster Wallace.",
         "giusta": false,
-        "trappola": "Essere presenti a metà lascia l'altro più solo che in tua assenza."
+        "trappola": "Eludere la complessità in «Questa è l'acqua» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Annuisci meccanicamente mentre scorri messaggi, convinto di riuscire a seguire entrambi.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "L'attenzione divisa a metà non incontra davvero nessuno."
+        "trappola": "Il conformismo sociale descritto da David Foster Wallace svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti giustifichi dicendo che potresti ricevere una comunicazione urgente di lavoro.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Chiamare urgenza ogni notifica sacrifica ciò che è davvero importante."
+        "trappola": "Negare la criticità del momento in «Questa è l'acqua» porta dritti alla deriva."
       },
       {
         "testo": "Scegli consapevolmente a cosa dedicare la tua attenzione ogni giorno, invece di lasciarla catturare dal primo fastidio o dal rumore di fondo.",
@@ -1734,19 +1734,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa significa diventare davvero adulti?",
     "opzioni": [
       {
-        "testo": "Vivi ogni ingiustizia o imprevisto doloroso come un tradimento personale del destino.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Haruki Murakami.",
         "giusta": false,
-        "trappola": "Pretendere un mondo su misura condanna a un risentimento continuo."
+        "trappola": "Eludere la complessità in «Norwegian Wood» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti chiudi nel rimpianto di quando tutto sembrava semplice e protetto.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Rifiutare l'attrito della realtà impedisce di diventare davvero adulti."
+        "trappola": "Il conformismo sociale descritto da Haruki Murakami svuota l'autonomia del singolo."
       },
       {
-        "testo": "Cerchi continuamente qualcuno da incolpare ogni volta che qualcosa fa male.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La caccia al colpevole evita di attraversare la fragilità umana."
+        "trappola": "Negare la criticità del momento in «Norwegian Wood» porta dritti alla deriva."
       },
       {
         "testo": "Accetta la fragilità e la fine delle cose come parte naturale della vita, invece di negarle o fuggirle.",
@@ -1766,9 +1766,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come riprendi fiato prima di bruciarti?",
     "opzioni": [
       {
-        "testo": "Vivi ogni piccolo intoppo come una catastrofe personale irreparabile.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Yukio Mishima.",
         "giusta": false,
-        "trappola": "Quando tutto diventa assoluto, perdi la misura per distinguere ciò che conta davvero."
+        "trappola": "Eludere la complessità in «Il padiglione d'oro» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Non trasformare un ideale di perfezione in un'ossessione che ti impedisce di amare le persone e le cose reali così come sono.",
@@ -1776,14 +1776,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Vedi negli altri solo ostacoli o rivali da battere lungo il percorso.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "L'ossessione del risultato trasforma ogni incontro in una guerra."
+        "trappola": "Il conformismo sociale descritto da Yukio Mishima svuota l'autonomia del singolo."
       },
       {
-        "testo": "Sacrifichi sonno, relazioni e serenità pur di ottenere la vittoria a qualsiasi costo.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Vincere una gara distruggendo tutto ciò che hai intorno è una sconfitta travestita."
+        "trappola": "Negare la criticità del momento in «Il padiglione d'oro» porta dritti alla deriva."
       }
     ],
     "autore": "Yukio Mishima",
@@ -1798,14 +1798,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Osamu Dazai.",
         "giusta": false,
-        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+        "trappola": "Eludere la complessità in «Lo squalificato» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
+        "trappola": "Il conformismo sociale descritto da Osamu Dazai svuota l'autonomia del singolo."
       },
       {
         "testo": "Smetti di indossare una maschera perennemente allegra per paura di non essere accettato: la finzione continua svuota l'anima.",
@@ -1813,9 +1813,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
+        "trappola": "Negare la criticità del momento in «Lo squalificato» porta dritti alla deriva."
       }
     ],
     "autore": "Osamu Dazai",
@@ -1830,19 +1830,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come sgonfi la presunzione senza cattiveria?",
     "opzioni": [
       {
-        "testo": "Ti irriti profondamente lasciando che la sua arroganza ti rovini la giornata.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Natsume Sōseki.",
         "giusta": false,
-        "trappola": "Prendere sul serio chi si gonfia gli regala esattamente il potere che cerca."
+        "trappola": "Eludere la complessità in «Io sono un gatto» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Lo sfidi apertamente sul suo stesso terreno solenne per dimostrargli che hai ragione tu.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Rispondere alla solennità con altra solennità alimenta il teatro."
+        "trappola": "Il conformismo sociale descritto da Natsume Sōseki svuota l'autonomia del singolo."
       },
       {
-        "testo": "Lo assecondi con lodi esagerate per evitare le sue reazioni permalose.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "L'adulazione gonfia ancora di più la presunzione."
+        "trappola": "Negare la criticità del momento in «Io sono un gatto» porta dritti alla deriva."
       },
       {
         "testo": "Osserva le tue manie e le tue vanità con lo sguardo divertito di chi le guarda da fuori, sgonfiando subito la presunzione.",
@@ -1867,19 +1867,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi giustificazioni per dimostrare che in fondo non avevi altra scelta.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Kenzaburō Ōe.",
         "giusta": false,
-        "trappola": "Difendersi invece di riconoscere il danno allunga la distanza."
+        "trappola": "Eludere la complessità in «Un'esperienza personale» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti mostri gentilissimo su altri fronti senza mai nominare direttamente l'errore.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "La gentilezza evasiva non sostituisce una parola chiara di responsabilità."
+        "trappola": "Il conformismo sociale descritto da Kenzaburō Ōe svuota l'autonomia del singolo."
       },
       {
-        "testo": "Aspetti che passi abbastanza tempo finché l'altro non dimentichi l'accaduto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Il tempo non scioglie da solo un torto lasciato sotto il tappeto."
+        "trappola": "Negare la criticità del momento in «Un'esperienza personale» porta dritti alla deriva."
       }
     ],
     "autore": "Kenzaburō Ōe",
@@ -1899,19 +1899,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Lo concedi solo con il contagocce a chi può ricambiare immediatamente.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Rabindranath Tagore.",
         "giusta": false,
-        "trappola": "Trattenere per paura di perdere impoverisce proprio ciò che custodisci."
+        "trappola": "Eludere la complessità in «Gitanjali» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Aspetti di averne in abbondanza prima di iniziare a condividerlo con gli altri.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "La generosità rimandata a quando avremo di più non inizia mai."
+        "trappola": "Il conformismo sociale descritto da Rabindranath Tagore svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti chiudi nel tuo spazio convinto che gli altri finirebbero solo per approfittarne.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La diffidenza preventiva ti protegge dai furbi ma ti isola dal mondo."
+        "trappola": "Negare la criticità del momento in «Gitanjali» porta dritti alla deriva."
       }
     ],
     "autore": "Rabindranath Tagore",
@@ -1926,9 +1926,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché fai fatica a lasciar andare ciò che ha fatto il suo tempo?",
     "opzioni": [
       {
-        "testo": "Difendi quel metodo per fedeltà al passato anche davanti all'evidenza che non funziona.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Chinua Achebe.",
         "giusta": false,
-        "trappola": "Confondere la fedeltà con l'immobilismo impedisce ogni rinnovamento."
+        "trappola": "Eludere la complessità in «Le cose crollano» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Impara a piegarti con intelligenza quando il vento cambia: una forza rigida che rifiuta ogni adattamento finisce per spezzarsi.",
@@ -1936,14 +1936,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Lo applichi con ancora più rigore convinto che il problema sia la scarsa disciplina.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Insistere su una forma svuotata produce solo rigidità."
+        "trappola": "Il conformismo sociale descritto da Chinua Achebe svuota l'autonomia del singolo."
       },
       {
-        "testo": "Incolpi i tempi cambiati che non apprezzano più i vecchi sistemi.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Lamentarsi del cambio di stagione non fa fiorire un albero secco."
+        "trappola": "Negare la criticità del momento in «Le cose crollano» porta dritti alla deriva."
       }
     ],
     "autore": "Chinua Achebe",
@@ -1958,14 +1958,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come torni con i piedi per terra?",
     "opzioni": [
       {
-        "testo": "Rimandi l'impegno quotidiano aspettando l'occasione straordinaria che cambi tutto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Naguib Mahfouz.",
         "giusta": false,
-        "trappola": "Scommettere sul miracolo evita la fatica costante della costruzione."
+        "trappola": "Eludere la complessità in «Il vicolo del mortaio» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Cambi continuamente tentativo inseguendo ogni promessa di risultato rapido.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Chi cerca sempre la scorciatoia ricomincia ogni volta da zero."
+        "trappola": "Il conformismo sociale descritto da Naguib Mahfouz svuota l'autonomia del singolo."
       },
       {
         "testo": "Non cercare scorciatoie miracolose per cambiare vita se prima non sei disposto a trasformare le tue abitudini quotidiane.",
@@ -1973,9 +1973,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti scoraggi appena vedi che i progressi reali sono lenti e graduali.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Disprezzare i passi piccoli impedisce di percorrere qualsiasi strada."
+        "trappola": "Negare la criticità del momento in «Il vicolo del mortaio» porta dritti alla deriva."
       }
     ],
     "autore": "Naguib Mahfouz",
@@ -1995,19 +1995,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Pianifichi una lista ancora più fitta per domani sperando di recuperare tempo.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Orhan Pamuk.",
         "giusta": false,
-        "trappola": "Aumentare la velocità senza cambiare direzione moltiplica solo la stanchezza."
+        "trappola": "Eludere la complessità in «Il museo dell'innocenza» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Dai la colpa alle troppe richieste altrui che non ti lasciano mai respirare.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Finché non scegli tu le priorità, la tua agenda apparterrà sempre agli altri."
+        "trappola": "Il conformismo sociale descritto da Orhan Pamuk svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti butti sul divano scorrendo contenuti passivi fino a notte fonda.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Il recupero passivo non restituisce il senso a una giornata dispersa."
+        "trappola": "Negare la criticità del momento in «Il museo dell'innocenza» porta dritti alla deriva."
       }
     ],
     "autore": "Orhan Pamuk",
@@ -2022,9 +2022,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Khaled Hosseini.",
         "giusta": false,
-        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+        "trappola": "Eludere la complessità in «Il cacciatore di aquiloni» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Affronta con onestà un errore passato invece di seppellirlo sotto il silenzio: c'è sempre un modo concreto per tornare ad essere giusti.",
@@ -2032,14 +2032,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+        "trappola": "Il conformismo sociale descritto da Khaled Hosseini svuota l'autonomia del singolo."
       },
       {
-        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+        "trappola": "Negare la criticità del momento in «Il cacciatore di aquiloni» porta dritti alla deriva."
       }
     ],
     "autore": "Khaled Hosseini",
@@ -2054,14 +2054,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come ricuci questa distanza?",
     "opzioni": [
       {
-        "testo": "Ti convinci che sia normale tenere separati il mondo interiore e la vita sociale.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Salman Rushdie.",
         "giusta": false,
-        "trappola": "Una divisione cronica tra dentro e fuori logora l'energia vitale."
+        "trappola": "Eludere la complessità in «I figli della mezzanotte» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Perfezioni la recita esterna per evitare qualsiasi conflitto con l'ambiente.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Più la maschera funziona, più ti senti estraneo a te stesso."
+        "trappola": "Il conformismo sociale descritto da Salman Rushdie svuota l'autonomia del singolo."
       },
       {
         "testo": "Riconosci il legame tra la tua storia personale e il tempo in cui vivi, assumendoti la tua parte di voce e memoria.",
@@ -2069,9 +2069,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Sfoghi ciò che pensi davvero solo in anonimato o con estranei.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Esprimersi solo nell'ombra non ricuce la frattura nella tua vita reale."
+        "trappola": "Negare la criticità del momento in «I figli della mezzanotte» porta dritti alla deriva."
       }
     ],
     "autore": "Salman Rushdie",
@@ -2086,19 +2086,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è l'atteggiamento che ti permette di non mollare senza perdere lucidità?",
     "opzioni": [
       {
-        "testo": "Ti incaponisci con rabbia per dimostrare a tutti che avevano torto, perdendo di vista il senso del lavoro.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in J.R.R. Tolkien.",
         "giusta": false,
-        "trappola": "Lavorare per ripicca avvelena anche l'opera più bella."
+        "trappola": "Eludere la complessità in «Il Signore degli Anelli» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Cambi continuamente strategia ogni due giorni sperando di trovare una scorciatoia miracolosa.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Senza costanza e radici nessun seme ha il tempo di germogliare."
+        "trappola": "Il conformismo sociale descritto da J.R.R. Tolkien svuota l'autonomia del singolo."
       },
       {
-        "testo": "Abbandoni tutto subito per non sprecare altre energie su qualcosa che gli altri giudicano morto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Rinunciare appena manca il consenso trasforma i dubbi altrui nella tua condanna."
+        "trappola": "Negare la criticità del momento in «Il Signore degli Anelli» porta dritti alla deriva."
       },
       {
         "testo": "Non sottovalutare il peso di un piccolo gesto fedele: anche chi si sente insignificante può cambiare il corso degli eventi.",
@@ -2118,19 +2118,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa perdi quando vendi un pezzo della tua rettitudine?",
     "opzioni": [
       {
-        "testo": "Ti dici che in fondo non danneggia direttamente nessuno e che tutti fanno così.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in C.S. Lewis.",
         "giusta": false,
-        "trappola": "Le giustificazioni comode anestetizzano il confine tra giusto e utile."
+        "trappola": "Eludere la complessità in «Le cronache di Narnia» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Lo accetti pensando che una volta entrato potrai fare molto bene.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Entrare attraverso una porta storta compromette la libertà dei passi successivi."
+        "trappola": "Il conformismo sociale descritto da C.S. Lewis svuota l'autonomia del singolo."
       },
       {
-        "testo": "Riduci la questione a un dettaglio formale pur di non rinunciare all'opportunità.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Chiamare dettaglio la propria rettitudine ne svuota il valore."
+        "trappola": "Negare la criticità del momento in «Le cronache di Narnia» porta dritti alla deriva."
       },
       {
         "testo": "Scegli la lealtà verso ciò che sai essere giusto anche quando nessuno ti guarda e non c'è alcun premio in palio.",
@@ -2150,14 +2150,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Da dove nasce il rispetto per sé stessi?",
     "opzioni": [
       {
-        "testo": "Riduci l'impegno al minimo indispensabile visto che nessuno nota la differenza.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Antoine de Saint-Exupéry.",
         "giusta": false,
-        "trappola": "Far dipendere la qualità del tuo lavoro dagli applausi ti rende fragile."
+        "trappola": "Eludere la complessità in «Volo di notte» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Lavori bene solo quando sai che qualcuno di importante sta osservando.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "L'integrità a comando crolla appena si spegne il riflettore."
+        "trappola": "Il conformismo sociale descritto da Antoine de Saint-Exupéry svuota l'autonomia del singolo."
       },
       {
         "testo": "Concentrati sul compiere con lucidità e cura il compito che hai davanti, senza lasciarti paralizzare dalla paura del rischio.",
@@ -2165,9 +2165,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Accumuli amarezza e rinfacci agli altri la tua dedizione silenziosa.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Un dovere svolto con rancore perde tutta la sua nobiltà."
+        "trappola": "Negare la criticità del momento in «Volo di notte» porta dritti alla deriva."
       }
     ],
     "autore": "Antoine de Saint-Exupéry",
@@ -2182,14 +2182,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Stefan Zweig.",
         "giusta": false,
-        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
+        "trappola": "Eludere la complessità in «Lettera di una sconosciuta» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
+        "trappola": "Il conformismo sociale descritto da Stefan Zweig svuota l'autonomia del singolo."
       },
       {
         "testo": "Esprimi apertamente i tuoi sentimenti e le tue intenzioni invece di restare nell'ombra sperando che l'altro indovini tutto da solo.",
@@ -2197,9 +2197,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+        "trappola": "Negare la criticità del momento in «Lettera di una sconosciuta» porta dritti alla deriva."
       }
     ],
     "autore": "Stefan Zweig",
@@ -2214,14 +2214,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché fai fatica a lasciar andare ciò che ha fatto il suo tempo?",
     "opzioni": [
       {
-        "testo": "Incolpi i tempi cambiati che non apprezzano più i vecchi sistemi.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Joseph Roth.",
         "giusta": false,
-        "trappola": "Lamentarsi del cambio di stagione non fa fiorire un albero secco."
+        "trappola": "Eludere la complessità in «La marcia di Radetzky» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Difendi quel metodo per fedeltà al passato anche davanti all'evidenza che non funziona.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Confondere la fedeltà con l'immobilismo impedisce ogni rinnovamento."
+        "trappola": "Il conformismo sociale descritto da Joseph Roth svuota l'autonomia del singolo."
       },
       {
         "testo": "Accetta che un'epoca o un ruolo abbiano compiuto il loro ciclo, senza aggrapparti a formalità vuote per negare il cambiamento.",
@@ -2229,9 +2229,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Lo applichi con ancora più rigore convinto che il problema sia la scarsa disciplina.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Insistere su una forma svuotata produce solo rigidità."
+        "trappola": "Negare la criticità del momento in «La marcia di Radetzky» porta dritti alla deriva."
       }
     ],
     "autore": "Joseph Roth",
@@ -2251,19 +2251,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Copri l'amico adesso ma poi gli rinfacci il favore ogni volta che ti fa comodo.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Arthur Koestler.",
         "giusta": false,
-        "trappola": "Un silenzio comprato avvelena la libertà di entrambi."
+        "trappola": "Eludere la complessità in «Buio a mezzogiorno» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Fai finta di non aver capito la situazione per evitare di prendere posizione.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "La finta ingenuità è solo una resa silenziosa."
+        "trappola": "Il conformismo sociale descritto da Arthur Koestler svuota l'autonomia del singolo."
       },
       {
-        "testo": "Accetti per dimostrare che per te l'amicizia viene prima di qualsiasi regola.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Diventare complice di un torto non è amicizia, è omertà."
+        "trappola": "Negare la criticità del momento in «Buio a mezzogiorno» porta dritti alla deriva."
       }
     ],
     "autore": "Arthur Koestler",
@@ -2278,9 +2278,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è l'effetto reale di un gesto gratuito di umanità?",
     "opzioni": [
       {
-        "testo": "La ignori completamente tirando dritto per la tua strada senza guardare.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Vasilij Grossman.",
         "giusta": false,
-        "trappola": "L'indifferenza chiude ogni varco all'umanità."
+        "trappola": "Eludere la complessità in «Vita e destino» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Pratica la bontà concreta e silenziosa verso chi hai accanto: un gesto gratuito di cura resiste anche nei contesti più duri.",
@@ -2288,14 +2288,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Le restituisci la stessa freddezza sbrigativa così impara come ci si comporta.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Specchiare la durezza altrui moltiplica il gelo intorno a entrambi."
+        "trappola": "Il conformismo sociale descritto da Vasilij Grossman svuota l'autonomia del singolo."
       },
       {
-        "testo": "La aiuti in modo distaccato e superiore per farle sentire la tua correttezza.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Un gesto freddo senza calore umano umilia invece di sollevare."
+        "trappola": "Negare la criticità del momento in «Vita e destino» porta dritti alla deriva."
       }
     ],
     "autore": "Vasilij Grossman",
@@ -2315,19 +2315,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Evgenij Zamjatin.",
         "giusta": false,
-        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+        "trappola": "Eludere la complessità in «Noi» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+        "trappola": "Il conformismo sociale descritto da Evgenij Zamjatin svuota l'autonomia del singolo."
       },
       {
-        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+        "trappola": "Negare la criticità del momento in «Noi» porta dritti alla deriva."
       }
     ],
     "autore": "Evgenij Zamjatin",
@@ -2347,19 +2347,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti adatti alle nuove regole scomode cercando di ritagliarti un piccolo spazio tranquillo.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Karel Čapek.",
         "giusta": false,
-        "trappola": "Cercare comodità dentro una stortura ti rende partecipe del sistema."
+        "trappola": "Eludere la complessità in «R.U.R.» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti dici che in fondo non vale la pena guastarsi il sangue per cose piccole.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "L'assuefazione nasce proprio dal considerare trascurabili i primi cedimenti."
+        "trappola": "Il conformismo sociale descritto da Karel Čapek svuota l'autonomia del singolo."
       },
       {
-        "testo": "Aspetti che la situazione diventi insopportabile prima di far sentire la tua voce.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Quando il sopruso è ormai consolidato, opporsi costa dieci volte di più."
+        "trappola": "Negare la criticità del momento in «R.U.R.» porta dritti alla deriva."
       }
     ],
     "autore": "Karel Čapek",
@@ -2379,19 +2379,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti convinci che sia solo intelligenza sociale e flessibilità relazionale.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Stanisław Lem.",
         "giusta": false,
-        "trappola": "La flessibilità senza un centro interiore diventa trasformismo."
+        "trappola": "Eludere la complessità in «Solaris» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Eviti di esprimere preferenze chiare finché non hai capito cosa pensa la maggioranza.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Aspettare il vento prima di parlare ti trasforma in una banderuola."
+        "trappola": "Il conformismo sociale descritto da Stanisław Lem svuota l'autonomia del singolo."
       },
       {
-        "testo": "Perfezioni la tua capacità di adattarti a ogni ambiente come un camaleonte impeccabile.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Piacere a tutti significa non essere riconoscibile per nessuno."
+        "trappola": "Negare la criticità del momento in «Solaris» porta dritti alla deriva."
       }
     ],
     "autore": "Stanisław Lem",
@@ -2411,19 +2411,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Attacchi frontalmente le scelte degli altri con sarcasmo per affermare la tua superiorità.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Witold Gombrowicz.",
         "giusta": false,
-        "trappola": "La polemica aggressiva ti incatena proprio a ciò da cui vorresti distinguerti."
+        "trappola": "Eludere la complessità in «Ferdydurke» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti isoli completamente tagliando ogni ponte e chiudendoti nel risentimento.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "L'isolamento amaro non è indipendenza, ma una difesa rigida."
+        "trappola": "Il conformismo sociale descritto da Witold Gombrowicz svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti adegui in silenzio pur di non perdere la compagnia e l'approvazione del gruppo.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Comprare l'accettazione al prezzo della tua coscienza ti lascia solo anche in mezzo alla folla."
+        "trappola": "Negare la criticità del momento in «Ferdydurke» porta dritti alla deriva."
       }
     ],
     "autore": "Witold Gombrowicz",
@@ -2438,14 +2438,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa scopri quando rallenti e osservi davvero?",
     "opzioni": [
       {
-        "testo": "Passi subito al contenuto successivo per accumulare quante più nozioni possibile.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Bruno Schulz.",
         "giusta": false,
-        "trappola": "La quantità veloce senza sosta non lascia sedimentare nulla."
+        "trappola": "Eludere la complessità in «Le botteghe color cannella» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Interrompi l'ascolto appena intuisci dove vuole arrivare l'interlocutore.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Anticipare sempre la fine impedisce di cogliere le sfumature vive."
+        "trappola": "Il conformismo sociale descritto da Bruno Schulz svuota l'autonomia del singolo."
       },
       {
         "testo": "Ritrova lo sguardo curioso e stupito sulle cose semplici intorno a te, sottraendole al grigiore dell'abitudine.",
@@ -2453,9 +2453,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Scorri solo i titoli e i riassunti convinto di aver già afferrato l'essenziale.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Cercare solo la sintesi rapida fa perdere proprio la profondità che trasforma."
+        "trappola": "Negare la criticità del momento in «Le botteghe color cannella» porta dritti alla deriva."
       }
     ],
     "autore": "Bruno Schulz",
@@ -2475,19 +2475,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Sándor Márai.",
         "giusta": false,
-        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+        "trappola": "Eludere la complessità in «Le braci» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
+        "trappola": "Il conformismo sociale descritto da Sándor Márai svuota l'autonomia del singolo."
       },
       {
-        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
+        "trappola": "Negare la criticità del momento in «Le braci» porta dritti alla deriva."
       }
     ],
     "autore": "Sándor Márai",
@@ -2507,19 +2507,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Accetti il favore pensando che puoi sempre mantenere la tua libertà interiore.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Magda Szabó.",
         "giusta": false,
-        "trappola": "Chi accetta un prezzo per tacere ha già ceduto la propria indipendenza."
+        "trappola": "Eludere la complessità in «La porta» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Prendi tempo senza dire né sì né no per tenere aperto il vantaggio.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "L'ambiguità davanti al ricatto morale è già un primo cedimento."
+        "trappola": "Il conformismo sociale descritto da Magda Szabó svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti convinci che sia solo una normale cortesia tra persone pratiche.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Chiamare cortesia ciò che compra la coscienza offusca il giudizio."
+        "trappola": "Negare la criticità del momento in «La porta» porta dritti alla deriva."
       }
     ],
     "autore": "Magda Szabó",
@@ -2534,9 +2534,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa ti permette di restare un punto fermo nella tempesta?",
     "opzioni": [
       {
-        "testo": "Prendi il controllo in modo brusco e autoritario zittendo chiunque esprima timore.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Imre Kertész.",
         "giusta": false,
-        "trappola": "La durezza fredda impone silenzio ma non crea vera stabilità."
+        "trappola": "Eludere la complessità in «Essere senza destino» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Costruisci piccoli appigli di ordine e senso quotidiano anche nelle situazioni più assurde, per non perdere la tua centratura.",
@@ -2544,14 +2544,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Minimzzi la situazione dicendo che non è successo niente, ignorando la paura dell'altro.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Negare la gravità di un problema non rassicura, fa sentire soli."
+        "trappola": "Il conformismo sociale descritto da Imre Kertész svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti lasci contagiare dall'agitazione collettiva iniziando a cercare subito un responsabile.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Aggiungere panico al panico toglie lucidità a tutti."
+        "trappola": "Negare la criticità del momento in «Essere senza destino» porta dritti alla deriva."
       }
     ],
     "autore": "Imre Kertész",
@@ -2566,9 +2566,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a chiederti quale peso sta portando in silenzio?",
     "opzioni": [
       {
-        "testo": "Rispondi con altrettanta durezza per metterla subito al suo posto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Agota Kristof.",
         "giusta": false,
-        "trappola": "Raddoppiare l'asprezza chiude ogni varco alla comprensione."
+        "trappola": "Eludere la complessità in «Trilogia della città di K.» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Non indurire il cuore per paura di soffrire: la corazza che ti protegge dai colpi finisce per isolarti anche da chi ami.",
@@ -2576,14 +2576,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Ti offendi personalmente trasformando il suo sfogo in un attacco contro di te.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Prendere tutto sul personale ti rende prigioniero degli umori altrui."
+        "trappola": "Il conformismo sociale descritto da Agota Kristof svuota l'autonomia del singolo."
       },
       {
-        "testo": "La etichetti definitivamente come una persona difficile e prendi le distanze.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Un'etichetta rapida evita la fatica di capire ma impoverisce il legame."
+        "trappola": "Negare la criticità del momento in «Trilogia della città di K.» porta dritti alla deriva."
       }
     ],
     "autore": "Agota Kristof",
@@ -2598,19 +2598,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la misura è la vera forza?",
     "opzioni": [
       {
-        "testo": "Aumenti caffè e stimoli artificiali pur di tirare avanti ancora qualche ora.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Georges Perec.",
         "giusta": false,
-        "trappola": "Forzare il limite fisico presenta sempre il conto con gli interessi."
+        "trappola": "Eludere la complessità in «Le cose» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Consideri la stanchezza fisica come una debolezza da ignorare con la forza di volontà.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Trattare il proprio corpo come un nemico spezza l'equilibrio della mente."
+        "trappola": "Il conformismo sociale descritto da Georges Perec svuota l'autonomia del singolo."
       },
       {
-        "testo": "Rimandi il riposo a quando avrai completato tutta la lista delle cose da fare.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La lista delle cose da fare non finisce mai se non sei tu a porre un confine."
+        "trappola": "Negare la criticità del momento in «Le cose» porta dritti alla deriva."
       },
       {
         "testo": "Misura il valore delle tue giornate dalla qualità del tempo vissuto, non dall'accumulo infinito di oggetti e status.",
@@ -2635,19 +2635,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Chiedi conferme e conforto a tutti per farti rassicurare sulla gravità del caso.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Raymond Queneau.",
         "giusta": false,
-        "trappola": "Cercare eco al proprio allarme alimenta la pesantezza."
+        "trappola": "Eludere la complessità in «Zazie nel metró» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti arrabbi con te stesso per non riuscire a restare calmo.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Aggiungere giudizio al nervosismo raddoppia la tensione."
+        "trappola": "Il conformismo sociale descritto da Raymond Queneau svuota l'autonomia del singolo."
       },
       {
-        "testo": "Continui ad analizzare ogni possibile conseguenza catastrofica di quel dettaglio.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Ingrandire al microscopio un sassolino lo trasforma in una montagna."
+        "trappola": "Negare la criticità del momento in «Zazie nel metró» porta dritti alla deriva."
       }
     ],
     "autore": "Raymond Queneau",
@@ -2662,9 +2662,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa sblocca immediatamente l'inerzia?",
     "opzioni": [
       {
-        "testo": "Ti iscrivi a un altro corso o leggi un altro manuale per sentirti più pronto.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Samuel Beckett.",
         "giusta": false,
-        "trappola": "Accumulare teoria senza muovere un passo è una forma elegante di rinvio."
+        "trappola": "Eludere la complessità in «Aspettando Godot» lascia irrisolto il nodo fondamentale."
       },
       {
         "testo": "Smetti di aspettare passivamente che arrivi qualcuno da fuori a dare senso alla tua giornata e muovi tu il primo passo.",
@@ -2672,14 +2672,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Aspetti di avere tutte le risorse e le condizioni ideali prima di partire.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Chi aspetta il vento perfetto non scioglie mai gli ormeggi."
+        "trappola": "Il conformismo sociale descritto da Samuel Beckett svuota l'autonomia del singolo."
       },
       {
-        "testo": "Continui a perfezionare l'idea sulla carta raccontandola a chiunque incontri.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Parlare di un'opera ancora da iniziare consuma l'energia del fare."
+        "trappola": "Negare la criticità del momento in «Aspettando Godot» porta dritti alla deriva."
       }
     ],
     "autore": "Samuel Beckett",
@@ -2699,19 +2699,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Giudichi anche gli altri in base a quanto rispettano i codici del gruppo.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Eugène Ionesco.",
         "giusta": false,
-        "trappola": "Chi si omologa per paura diventa spesso il guardiano più severo del conformismo."
+        "trappola": "Eludere la complessità in «Il rinoceronte» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Nascondi i tuoi veri gusti per paura di sembrare strano o fuori moda.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Vergognarsi della propria singolarità spegne ciò che hai di più vivo."
+        "trappola": "Il conformismo sociale descritto da Eugène Ionesco svuota l'autonomia del singolo."
       },
       {
-        "testo": "Adotti ogni nuova tendenza del gruppo per sentirti sempre al sicuro e accettato.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "L'appartenenza comprata cancellando sé stessi lascia un vuoto profondo."
+        "trappola": "Negare la criticità del momento in «Il rinoceronte» porta dritti alla deriva."
       }
     ],
     "autore": "Eugène Ionesco",
@@ -2731,19 +2731,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi giustificazioni per dimostrare che in fondo non avevi altra scelta.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Bertolt Brecht.",
         "giusta": false,
-        "trappola": "Difendersi invece di riconoscere il danno allunga la distanza."
+        "trappola": "Eludere la complessità in «Vita di Galileo» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Aspetti che passi abbastanza tempo finché l'altro non dimentichi l'accaduto.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Il tempo non scioglie da solo un torto lasciato sotto il tappeto."
+        "trappola": "Il conformismo sociale descritto da Bertolt Brecht svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti mostri gentilissimo su altri fronti senza mai nominare direttamente l'errore.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "La gentilezza evasiva non sostituisce una parola chiara di responsabilità."
+        "trappola": "Negare la criticità del momento in «Vita di Galileo» porta dritti alla deriva."
       }
     ],
     "autore": "Bertolt Brecht",
@@ -2763,19 +2763,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Prometti a te stesso che sarà l'unica eccezione e poi tornerai rigoroso.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Friedrich Dürrenmatt.",
         "giusta": false,
-        "trappola": "Ogni eccezione segreta abbassa l'asticella della tua integrità."
+        "trappola": "Eludere la complessità in «La visita della vecchia signora» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Ti giustifichi pensando che il sistema stesso premia chi sa arrangiarsi.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Usare le storture del contesto come alibi ti rende uguale a ciò che critichi."
+        "trappola": "Il conformismo sociale descritto da Friedrich Dürrenmatt svuota l'autonomia del singolo."
       },
       {
-        "testo": "La prendi senza esitare: ciò che non si vede non danneggia la reputazione.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Confondere l'onestà con la paura di essere scoperti svuota la coscienza."
+        "trappola": "Negare la criticità del momento in «La visita della vecchia signora» porta dritti alla deriva."
       }
     ],
     "autore": "Friedrich Dürrenmatt",
@@ -2795,19 +2795,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cerchi di imporre regole rigide affinché tutti si comportino come dovrebbero.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Max Frisch.",
         "giusta": false,
-        "trappola": "L'astrazione rigida non trasforma le persone, le irrigidisce."
+        "trappola": "Eludere la complessità in «Homo faber» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Continui a ripetere che in un mondo giusto le cose funzionerebbero diversamente.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Pretendere che la realtà obbedisca ai tuoi schemi ti lascia impotente."
+        "trappola": "Il conformismo sociale descritto da Max Frisch svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ti ritiri deluso ogni volta che qualcuno non rispetta i tuoi standard ideali.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Chi ama solo gli esseri umani ideali finisce per disprezzare quelli reali."
+        "trappola": "Negare la criticità del momento in «Homo faber» porta dritti alla deriva."
       }
     ],
     "autore": "Max Frisch",
@@ -2822,19 +2822,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come recuperi il senso umano del dialogo?",
     "opzioni": [
       {
-        "testo": "Rispondi subito con un altro messaggio lungo e piccato per chiarire ogni virgola.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Peter Handke.",
         "giusta": false,
-        "trappola": "Aggiungere testo frettoloso a un malinteso digitale alimenta l'incendio."
+        "trappola": "Eludere la complessità in «Prima del calcio di rigore» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Smetti di rispondere lasciando la conversazione sospesa nel gelo.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Il silenzio brusco in chat lascia fermentare il sospetto."
+        "trappola": "Il conformismo sociale descritto da Peter Handke svuota l'autonomia del singolo."
       },
       {
-        "testo": "Rileggi il messaggio dieci volte cercando intenzioni ostili dietro ogni parola.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Interpretare nel peggiore dei modi un testo breve crea nemici immaginari."
+        "trappola": "Negare la criticità del momento in «Prima del calcio di rigore» porta dritti alla deriva."
       },
       {
         "testo": "Cura la precisione e l'ascolto nel dialogo quotidiano per non restare intrappolato in malintesi che alimentano l'angoscia.",
@@ -2859,19 +2859,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Archivi subito ogni passo falso per non rovinarti l'umore con pensieri negativi.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in W.G. Sebald.",
         "giusta": false,
-        "trappola": "Cancellare in fretta gli errori ti condanna a ripeterli identici."
+        "trappola": "Eludere la complessità in «Austerlitz» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Attribuisci ogni ricaduta a circostanze esterne diverse ogni volta.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Cambiare scusa ogni volta nasconde lo stesso schema interiore."
+        "trappola": "Il conformismo sociale descritto da W.G. Sebald svuota l'autonomia del singolo."
       },
       {
-        "testo": "Fai grandi propositi generici senza analizzare il punto preciso in cui hai ceduto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "I propositi vaghi non reggono davanti alle stesse tentazioni."
+        "trappola": "Negare la criticità del momento in «Austerlitz» porta dritti alla deriva."
       }
     ],
     "autore": "W.G. Sebald",
@@ -2891,19 +2891,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Lo interrompi appena coglie una piccola imprecisione nel suo ragionamento.",
+        "testo": "Cercare una scorciatoia immediata per eludere la fatica del discernimento in Patrick Süskind.",
         "giusta": false,
-        "trappola": "Colpire il dettaglio formale serve a vincere il dibattito, non a capire l'altro."
+        "trappola": "Eludere la complessità in «Il profumo» lascia irrisolto il nodo fondamentale."
       },
       {
-        "testo": "Tieni il conto degli errori passati dell'altro per usarli come arma finale.",
+        "testo": "Affidarti ciecamente alle convenzioni del tuo ambiente pur di non esporti in prima persona.",
         "giusta": false,
-        "trappola": "Riesumare il passato trasforma ogni discussione in un processo senza appello."
+        "trappola": "Il conformismo sociale descritto da Patrick Süskind svuota l'autonomia del singolo."
       },
       {
-        "testo": "Ripeti la tua tesi con parole diverse senza raccogliere nulla di ciò che ha detto.",
+        "testo": "Fingere che il problema non esista, sperando che il tempo lo dissolva spontaneamente.",
         "giusta": false,
-        "trappola": "Due monologhi ad alta voce non fanno mai un dialogo."
+        "trappola": "Negare la criticità del momento in «Il profumo» porta dritti alla deriva."
       }
     ],
     "autore": "Patrick Süskind",
