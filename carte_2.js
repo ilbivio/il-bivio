@@ -6,14 +6,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il rischio silenzioso del «lo farò domani»?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Aspetti di aver prima sistemato ogni altro dettaglio pratico della tua vita.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Eugenio Onegin» lascia il dilemma irrisolto."
+        "trappola": "Se aspetti che tutto sia in ordine, l'attimo giusto sarà già passato."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti accontenti di un contatto superficiale rimandando il momento di dedicarti davvero.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Aleksandr Puškin significa rinunciare alla propria voce."
+        "trappola": "Dare le briciole del proprio tempo svuota anche gli incontri migliori."
       },
       {
         "testo": "Disprezzare ciò che hai davanti per noia o snobismo ti condanna a rimpiangerlo quando ormai appartiene a un altro tempo.",
@@ -21,9 +21,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "La metti in fondo alla lista delle urgenze convinto che resti lì ad aspettarti per sempre.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Le occasioni vive e gli affetti non restano congelati in attesa della nostra agenda."
       }
     ],
     "autore": "Aleksandr Puškin",
@@ -38,24 +38,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il prezzo di vivere sempre sulla difensiva?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Guardi con cinismo chi si appassiona ancora, giudicandolo ingenuo.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il dottor Živago» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Boris Pasternak significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Il cinismo è spesso solo la maschera di una paura non ammessa."
       },
       {
         "testo": "Pretendere di incasellare ogni sentimento dentro uno schema rigido spegne il respiro vivo dell'esistenza.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Analizzi ogni rischio fino alla paralisi, restando sempre spettatore delle scelte altrui.",
+        "giusta": false,
+        "trappola": "La prudenza assoluta ti protegge dalle cadute ma ti impedisce di camminare."
+      },
+      {
+        "testo": "Ti convinci che non desiderare nulla sia il modo più intelligente per non restare mai deluso.",
+        "giusta": false,
+        "trappola": "Spegnere il desiderio per evitare il dolore significa rinunciare a vivere."
       }
     ],
     "autore": "Boris Pasternak",
@@ -70,24 +70,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa ti permette di restare un punto fermo nella tempesta?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Minimizzi la situazione dicendo che non è successo niente, ignorando la paura dell'altro.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Una giornata di Ivan Denisovič» lascia il dilemma irrisolto."
+        "trappola": "Negare la gravità di un problema non rassicura, fa sentire soli."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti lasci contagiare dall'agitazione collettiva iniziando a cercare subito un responsabile.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Aleksandr Solženicyn significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Aggiungere panico al panico toglie lucidità a tutti."
       },
       {
         "testo": "Anche nelle condizioni più dure, conservare un piccolo rituale di cura e dignità impedisce di ridursi a bestie.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Prendi il controllo in modo brusco e autoritario zittendo chiunque esprima timore.",
+        "giusta": false,
+        "trappola": "La durezza fredda impone silenzio ma non crea vera stabilità."
       }
     ],
     "autore": "Aleksandr Solženicyn",
@@ -102,9 +102,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il criterio più onesto per decidere senza restare paralizzato?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Cerchi una terza via illusoria per tenere il piede in due scarpe senza perdere nulla.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «L'insostenibile leggerezza dell'essere» lascia il dilemma irrisolto."
+        "trappola": "Voler evitare ogni rinuncia finisce per farti perdere entrambe le strade."
       },
       {
         "testo": "Ogni decisione pesa proprio perché non possiamo fare prove generali della vita: viviamo sempre in diretta.",
@@ -112,14 +112,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Scegli d'impulso la via più comoda nell'immediato, ignorando ciò che conta nel lungo periodo.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Milan Kundera significa rinunciare alla propria voce."
+        "trappola": "Evitare il dolore di oggi spesso prepara un rimpianto più grande domani."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Lasci passare il tempo sperando che siano gli eventi esterni a scegliere al posto tuo.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Subire una scelta per inerzia porta lo stesso peso senza la dignità della decisione."
       }
     ],
     "autore": "Milan Kundera",
@@ -134,19 +134,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il prezzo di vivere sempre sulla difensiva?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Analizzi ogni rischio fino alla paralisi, restando sempre spettatore delle scelte altrui.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La montagna incantata» lascia il dilemma irrisolto."
+        "trappola": "La prudenza assoluta ti protegge dalle cadute ma ti impedisce di camminare."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Guardi con cinismo chi si appassiona ancora, giudicandolo ingenuo.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Thomas Mann significa rinunciare alla propria voce."
+        "trappola": "Il cinismo è spesso solo la maschera di una paura non ammessa."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ti convinci che non desiderare nulla sia il modo più intelligente per non restare mai deluso.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Spegnere il desiderio per evitare il dolore significa rinunciare a vivere."
       },
       {
         "testo": "Rifugiarsi lontano dalle responsabilità del mondo può sembrare raffinato, ma alla lunga addormenta la volontà.",
@@ -166,24 +166,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come trasformi lo spiazzamento in una nuova rotta?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «I Buddenbrook» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Thomas Mann significa rinunciare alla propria voce."
-      },
-      {
         "testo": "Quando un successo si trasforma in pura routine meccanica, l'anima cerca altrove il proprio respiro.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ti agiti cercando di incastrare a forza tutti gli impegni precedenti senza tagliare nulla.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Pretendere di fare tutto comunque trasforma la settimana in una corsa cieca."
+      },
+      {
+        "testo": "Ti irrigidisci nel rimpianto del programma saltato, rifiutandoti di riorganizzare le priorità.",
+        "giusta": false,
+        "trappola": "Aggrapparsi a una mappa vecchia mentre il territorio è cambiato porta fuori strada."
+      },
+      {
+        "testo": "Blocchi ogni iniziativa aspettando che tornino le condizioni esatte di prima.",
+        "giusta": false,
+        "trappola": "Aspettare che il fiume torni indietro ti lascia fermo sulla riva."
       }
     ],
     "autore": "Thomas Mann",
@@ -198,9 +198,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il lupo della steppa» lascia il dilemma irrisolto."
+        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
       },
       {
         "testo": "Prendersi troppo sul serio trasforma ogni contraddizione interiore in una condanna mortale.",
@@ -208,14 +208,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Hermann Hesse significa rinunciare alla propria voce."
+        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
       }
     ],
     "autore": "Hermann Hesse",
@@ -230,24 +230,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede se quel ruolo cambia domani?",
     "opzioni": [
       {
+        "testo": "Eviti spazi e relazioni in cui il tuo titolo o la tua funzione non contano nulla.",
+        "giusta": false,
+        "trappola": "Temere di valere zero senza etichetta rivela quanto sia fragile la tua identità."
+      },
+      {
+        "testo": "Lavori ancora di più per rendere quel ruolo sempre più centrale e indispensabile.",
+        "giusta": false,
+        "trappola": "Rinforzare l'unica colonna su cui ti reggi aumenta il rischio del crollo."
+      },
+      {
+        "testo": "Giudichi anche il valore delle altre persone in base alla loro posizione professionale.",
+        "giusta": false,
+        "trappola": "Guardare gli altri come funzioni ti impedisce di incontrarli come persone."
+      },
+      {
         "testo": "Non devi imitare il talento di un altro per valere: ognuno fiorisce solo restando fedele alla propria natura.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Narciso e Boccadoro» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Hermann Hesse significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Hermann Hesse",
@@ -262,24 +262,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa distingue un rapporto maturo da un'infatuazione passeggera?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Elenchi all'altro tutti i suoi difetti aspettando che sia lui a cambiare per primo.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La metamorfosi» lascia il dilemma irrisolto."
+        "trappola": "Chiedere all'altro di fare tutta la strada blocca il dialogo sul nascere."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Fingi che vada tutto bene evitando ogni argomento delicato pur di mantenere una calma apparente.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Franz Kafka significa rinunciare alla propria voce."
+        "trappola": "La pace costruita sul non detto accumula distanza silenziosa."
+      },
+      {
+        "testo": "Chiudi bruscamente il rapporto convincendoti che se c'è attrito significa che non era quello giusto.",
+        "giusta": false,
+        "trappola": "Scambiare la prima crisi per incompatibilità impedisce a qualsiasi legame di maturare."
       },
       {
         "testo": "Spesso l'affetto di chi ci circonda dura finché siamo utili e produttivi; la crisi rivela chi ci ama davvero.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Franz Kafka",
@@ -294,19 +294,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa stai cercando di evitare attraverso tutta questa complessità?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Aggiungi un ulteriore controllo e una nuova lista per essere sicuro al cento per cento.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il castello» lascia il dilemma irrisolto."
+        "trappola": "La ricerca della preparazione perfetta è spesso il modo più elegante per non iniziare mai."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Chiedi conferme a tre persone diverse prima di compiere il primo passo.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Franz Kafka significa rinunciare alla propria voce."
+        "trappola": "Cercare permessi continui diluisce la tua responsabilità."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Rimandi l'azione a lunedì prossimo quando avrai la mente più libera e ordinata.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Il momento idealmente libero non arriva mai prima dell'azione."
       },
       {
         "testo": "Cercare ossessivamente l'approvazione di un'autorità invisibile consuma l'intera esistenza.",
@@ -326,24 +326,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
+        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "giusta": false,
+        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+      },
+      {
+        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "giusta": false,
+        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+      },
+      {
+        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "giusta": false,
+        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+      },
+      {
         "testo": "Non accontentarti di subire ciò che è già dato: chiediti sempre come potrebbe essere altrimenti.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «L'uomo senza qualità» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Robert Musil significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Robert Musil",
@@ -358,9 +358,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come riprendi fiato prima di bruciarti?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Vivi ogni piccolo intoppo come una catastrofe personale irreparabile.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Novella degli scacchi» lascia il dilemma irrisolto."
+        "trappola": "Quando tutto diventa assoluto, perdi la misura per distinguere ciò che conta davvero."
+      },
+      {
+        "testo": "Sacrifichi sonno, relazioni e serenità pur di ottenere la vittoria a qualsiasi costo.",
+        "giusta": false,
+        "trappola": "Vincere una gara distruggendo tutto ciò che hai intorno è una sconfitta travestita."
       },
       {
         "testo": "Quando trasformi un gioco o una sfida nella tua unica ragione di vita, finisci per divorare te stesso.",
@@ -368,14 +373,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Vedi negli altri solo ostacoli o rivali da battere lungo il percorso.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Stefan Zweig significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "L'ossessione del risultato trasforma ogni incontro in una guerra."
       }
     ],
     "autore": "Stefan Zweig",
@@ -390,24 +390,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa stai davvero cercando dietro questa corsa?",
     "opzioni": [
       {
+        "testo": "Alzi immediatamente l'asticella puntando a un traguardo ancora più grande e costoso.",
+        "giusta": false,
+        "trappola": "Inseguire obiettivi sempre più grandi senza fermarti mai alimenta lo stesso vuoto."
+      },
+      {
         "testo": "I desideri inconfessati che reprimiamo durante il giorno chiedono comunque il conto nell'ombra.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Pensi di aver scelto l'oggetto sbagliato e ricominci subito una nuova ricerca.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Doppio sogno» lascia il dilemma irrisolto."
+        "trappola": "Cambiare oggetto senza interrogare il desiderio ti fa girare in tondo."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti butti sul lavoro per non avvertire il calo di adrenalina dopo il traguardo.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Arthur Schnitzler significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Riempire il vuoto con nuova fatica rimanda soltanto la domanda essenziale."
       }
     ],
     "autore": "Arthur Schnitzler",
@@ -422,9 +422,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede se provi davvero a metterti nei suoi panni?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Lo interrompi appena coglie una piccola imprecisione nel suo ragionamento.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Niente di nuovo sul fronte occidentale» lascia il dilemma irrisolto."
+        "trappola": "Colpire il dettaglio formale serve a vincere il dibattito, non a capire l'altro."
+      },
+      {
+        "testo": "Tieni il conto degli errori passati dell'altro per usarli come arma finale.",
+        "giusta": false,
+        "trappola": "Riesumare il passato trasforma ogni discussione in un processo senza appello."
       },
       {
         "testo": "La logica dello scontro annulla l'umanità di entrambi i contendenti, rivelando quanto siano simili.",
@@ -432,14 +437,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ripeti la tua tesi con parole diverse senza raccogliere nulla di ciò che ha detto.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Erich Maria Remarque significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Due monologhi ad alta voce non fanno mai un dialogo."
       }
     ],
     "autore": "Erich Maria Remarque",
@@ -454,24 +454,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come torni a fidarti del tuo giudizio interiore?",
     "opzioni": [
       {
+        "testo": "Ti esalti al primo elogio e crolli al minimo appunto ricevuto.",
+        "giusta": false,
+        "trappola": "Affidare la tua stabilità all'umore del pubblico ti rende perennemente instabile."
+      },
+      {
+        "testo": "Cerchi un gruppo di persone che ti dia sempre ragione senza mai contraddirti.",
+        "giusta": false,
+        "trappola": "Circondarsi di specchi compiacenti addormenta la crescita."
+      },
+      {
+        "testo": "Modifichi subito ciò che fai per ottenere più consensi e ridurre le critiche.",
+        "giusta": false,
+        "trappola": "Inseguire l'applauso ti trasforma nell'eco delle aspettative altrui."
+      },
+      {
         "testo": "Quando l'ipocrisia diventa la moneta corrente, dire la verità semplice ti fa sembrare un folle.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Opinioni di un clown» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Heinrich Böll significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Heinrich Böll",
@@ -486,24 +486,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa ti guida quando nessuno ti controlla?",
     "opzioni": [
       {
+        "testo": "Ti adegui anche tu pensando che restare onesti da soli sia solo ingenuità.",
+        "giusta": false,
+        "trappola": "Chiamare furbizia il conformismo morale cancella la tua integrità."
+      },
+      {
         "testo": "La memoria scomoda disturba chi vorrebbe cancellare le proprie responsabilità dietro una facciata rispettabile.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Taci e fai finta di non vedere per non passare per quello che rovina l'armonia.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il tamburo di latta» lascia il dilemma irrisolto."
+        "trappola": "Il silenzio complice legittima la scorrettezza come nuova regola."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Partecipi a metà, cercando di trarre il vantaggio senza esporti troppo.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Günter Grass significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La complicità prudente pesa sulla coscienza quanto l'abuso aperto."
       }
     ],
     "autore": "Günter Grass",
@@ -518,24 +518,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché intervenire all'inizio richiede un decimo della fatica?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Cassandra» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Christa Wolf significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
-      },
-      {
         "testo": "I disastri non esplodono mai all'improvviso: nascono dalle piccole menzogne che accettiamo ogni giorno per comodità.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Aspetti che accada un segnale forte dall'esterno per decidere di cambiare.",
+        "giusta": false,
+        "trappola": "Aspettare l'urto esterno significa scegliere di imparare solo dal danno."
+      },
+      {
+        "testo": "Ti prometti che smetterai con calma non appena finirà questo periodo impegnativo.",
+        "giusta": false,
+        "trappola": "Ogni rinvio rafforza il solco dell'abitudine e rende più duro il distacco."
+      },
+      {
+        "testo": "Minimizzi dicendo che in fondo è un comportamento innocuo e sotto controllo.",
+        "giusta": false,
+        "trappola": "L'abitudine diventa padrona proprio mentre credi di poterla fermare quando vuoi."
       }
     ],
     "autore": "Christa Wolf",
@@ -550,24 +550,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come mantieni la schiena dritta senza arroganza?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Se questo è un uomo» lascia il dilemma irrisolto."
-      },
-      {
         "testo": "Conservare la memoria, la lingua e la pulizia morale anche nell'abisso è ciò che distingue l'uomo dalla materia.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Cerchi subito giustificazioni e colpe altrui per salvare la faccia davanti a tutti.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Primo Levi significa rinunciare alla propria voce."
+        "trappola": "Difendere l'immagine a ogni costo ti impedisce di imparare dalla caduta."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Reagisci con rabbia e sarcasmo contro chi ha assistito al tuo passo falso.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "L'aggressività difensiva rivela quanto dipendi dal giudizio esterno."
+      },
+      {
+        "testo": "Sparisci dalla circolazione per vergogna evitando lo sguardo di chi ti conosce.",
+        "giusta": false,
+        "trappola": "Nascondersi per orgoglio ferito ingigantisce il peso della sconfitta."
       }
     ],
     "autore": "Primo Levi",
@@ -582,19 +582,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il primo appiglio concreto per ricominciare?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti chiudi nel rimpianto di ciò che avevi prima rifiutando ogni piccolo passo presente.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La tregua» lascia il dilemma irrisolto."
+        "trappola": "Guardare solo indietro impedisce di afferrare gli appigli di oggi."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Pretendi di ripartire subito allo stesso ritmo di prima come se non fosse accaduto nulla.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Primo Levi significa rinunciare alla propria voce."
+        "trappola": "Negare il colpo subito consuma le ultime riserve invece di rigenerarle."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ti abbandoni completamente all'inerzia convinto che ormai nulla abbia più senso.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Confondere la stanchezza del momento con la fine definitiva blocca la ripresa."
       },
       {
         "testo": "Tornare alla normalità dopo una tempesta richiede più pazienza e lucidità che sopravvivere alla tempesta stessa.",
@@ -619,19 +619,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Racconti una versione ritoccata del tuo passato per adattarla al nuovo ambiente.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La luna e i falò» lascia il dilemma irrisolto."
+        "trappola": "Costruire il presente su una finzione richiede uno sforzo continuo."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Giudichi con sufficienza il mondo da cui provieni per sentirti più evoluto.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Cesare Pavese significa rinunciare alla propria voce."
+        "trappola": "Il disprezzo per le proprie origini è spesso solo vergogna non risolta."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Cancelli ricordi, luoghi e legami precedenti fingendo di essere nato oggi.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Chi nega le proprie radici resta fragile al primo vento contrario."
       }
     ],
     "autore": "Cesare Pavese",
@@ -646,24 +646,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Quanto vale un'ora della tua attenzione?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Il mestiere di vivere» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Cesare Pavese significa rinunciare alla propria voce."
-      },
-      {
         "testo": "La qualità di un'esistenza non si misura dal calendario, ma dall'intensità con cui sei stato presente.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Continui a scorrere sperando di trovare finalmente qualcosa di davvero interessante.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Cercare profondità nella dispersione continua è come voler dissetarsi col sale."
+      },
+      {
+        "testo": "Usi lo schermo appena hai trenta secondi liberi per non sentire la noia.",
+        "giusta": false,
+        "trappola": "Eliminare ogni vuoto spegne la capacità di riflettere e creare."
+      },
+      {
+        "testo": "Ti giustifichi dicendo che serve a restare informato e aggiornato su tutto.",
+        "giusta": false,
+        "trappola": "Accumulare frammenti dimenticati non è informazione, è rumore."
       }
     ],
     "autore": "Cesare Pavese",
@@ -678,24 +678,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il criterio più onesto per decidere senza restare paralizzato?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Cerchi una terza via illusoria per tenere il piede in due scarpe senza perdere nulla.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Le città invisibili» lascia il dilemma irrisolto."
+        "trappola": "Voler evitare ogni rinuncia finisce per farti perdere entrambe le strade."
+      },
+      {
+        "testo": "Lasci passare il tempo sperando che siano gli eventi esterni a scegliere al posto tuo.",
+        "giusta": false,
+        "trappola": "Subire una scelta per inerzia porta lo stesso peso senza la dignità della decisione."
+      },
+      {
+        "testo": "Scegli d'impulso la via più comoda nell'immediato, ignorando ciò che conta nel lungo periodo.",
+        "giusta": false,
+        "trappola": "Evitare il dolore di oggi spesso prepara un rimpianto più grande domani."
       },
       {
         "testo": "In mezzo al rumore e al caos, saper riconoscere ciò che non è inferno e dargli spazio è l'unica vera arte.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Italo Calvino significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Italo Calvino",
@@ -710,24 +710,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la misura è la vera forza?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Il visconte dimezzato» lascia il dilemma irrisolto."
-      },
-      {
         "testo": "Né la durezza spietata né il buonismo astratto funzionano: l'essere umano ha bisogno di integrare tutte le sue parti.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Aumenti caffè e stimoli artificiali pur di tirare avanti ancora qualche ora.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Italo Calvino significa rinunciare alla propria voce."
+        "trappola": "Forzare il limite fisico presenta sempre il conto con gli interessi."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Rimandi il riposo a quando avrai completato tutta la lista delle cose da fare.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La lista delle cose da fare non finisce mai se non sei tu a porre un confine."
+      },
+      {
+        "testo": "Consideri la stanchezza fisica come una debolezza da ignorare con la forza di volontà.",
+        "giusta": false,
+        "trappola": "Trattare il proprio corpo come un nemico spezza l'equilibrio della mente."
       }
     ],
     "autore": "Italo Calvino",
@@ -742,24 +742,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Il cavaliere inesistente» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Italo Calvino significa rinunciare alla propria voce."
-      },
-      {
         "testo": "Puoi rispettare ogni regola e protocollo alla perfezione, ma senza passione viva resti solo una corazza vuota.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Vincere una lite umiliando l'altro lascia intatto il muro tra voi."
+      },
+      {
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "giusta": false,
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
+      },
+      {
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
+        "giusta": false,
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       }
     ],
     "autore": "Italo Calvino",
@@ -774,24 +774,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa stai perdendo mentre sei altrove con la testa?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti giustifichi dicendo che potresti ricevere una comunicazione urgente di lavoro.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Marcovaldo» lascia il dilemma irrisolto."
+        "trappola": "Chiamare urgenza ogni notifica sacrifica ciò che è davvero importante."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Annuisci meccanicamente mentre scorri messaggi, convinto di riuscire a seguire entrambi.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Italo Calvino significa rinunciare alla propria voce."
+        "trappola": "L'attenzione divisa a metà non incontra davvero nessuno."
+      },
+      {
+        "testo": "Resti fisicamente nella stanza ma con la testa già proiettata agli impegni di domani.",
+        "giusta": false,
+        "trappola": "Essere presenti a metà lascia l'altro più solo che in tua assenza."
       },
       {
         "testo": "Anche nell'ambiente più grigio e frenetico, chi sa osservare trova ancora tracce vive di stupore.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Italo Calvino",
@@ -806,24 +806,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come risvegli lo sguardo sulle cose semplici?",
     "opzioni": [
       {
+        "testo": "Inserisci cuffie e automatismi per far passare il tragitto il più in fretta possibile.",
+        "giusta": false,
+        "trappola": "Anestetizzare i tragitti quotidiani restringe la tua vita solo alle mete."
+      },
+      {
+        "testo": "Cammini a testa bassa ripassando mentalmente problemi e preoccupazioni.",
+        "giusta": false,
+        "trappola": "Portare l'ufficio dentro ogni passo ti rende cieco al mondo vivo."
+      },
+      {
         "testo": "La distrazione quotidiana trasforma i miracoli silenziosi in rimpianti tardivi.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Pensi che in un percorso già visto mille volte non ci sia più nulla da scoprire.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La boutique del mistero» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Dino Buzzati significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La noia non sta nelle strade ripetute, ma nello sguardo spento."
       }
     ],
     "autore": "Dino Buzzati",
@@ -838,24 +838,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la freddezza del giudizio chiude ogni possibilità di incontro?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Passi oltre soddisfatto della tua analisi, convinto che sia giusto che paghi i suoi errori.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La Storia» lascia il dilemma irrisolto."
+        "trappola": "La freddezza morale trasforma la giustizia in aridità."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Prendi le distanze per paura che la sua fragilità possa rallentare anche te.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Elsa Morante significa rinunciare alla propria voce."
+        "trappola": "Chi fugge ogni vulnerabilità altrui resta solo quando tocca a lui."
+      },
+      {
+        "testo": "Gli fai subito una lezione su cosa avrebbe dovuto fare per evitare quel guaio.",
+        "giusta": false,
+        "trappola": "Spiegare a chi cade perché è scivolato non gli tende la mano."
       },
       {
         "testo": "La grande storia passa schiacciando i piccoli, ma è nella tenerezza dei semplici che resiste il senso del mondo.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Elsa Morante",
@@ -870,24 +870,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come superi la delusione senza diventare cinico?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Smetti di fidarti di chiunque, convinto che dietro ogni persona si nasconda un inganno.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «L'isola di Arturo» lascia il dilemma irrisolto."
+        "trappola": "Trasformare una delusione in cinismo spegne la tua capacità di incontrare."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Fingi di non aver visto nulla pur di mantenere intatta l'immagine ideale che avevi costruito.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Elsa Morante significa rinunciare alla propria voce."
+        "trappola": "Negare i limiti dell'altro ti impedisce di conoscerlo davvero."
+      },
+      {
+        "testo": "Cancelli in un attimo tutto il bene ricevuto e la giudichi completamente falsa.",
+        "giusta": false,
+        "trappola": "Passare dall'idolatria al disprezzo totale è lo stesso errore di chi non accetta l'umano."
       },
       {
         "testo": "La fine dell'infanzia coincide con il momento in cui smetti di idealizzare chi ami e inizi a perdonarne i limiti.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Elsa Morante",
@@ -902,24 +902,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché ignorare da dove vieni rende fragile dove vai?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Lessico famigliare» lascia il dilemma irrisolto."
-      },
-      {
         "testo": "I legami più profondi vivono nei piccoli gesti e nelle frasi semplici che ci ancorano quando tutto cambia.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Racconti una versione ritoccata del tuo passato per adattarla al nuovo ambiente.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Natalia Ginzburg significa rinunciare alla propria voce."
+        "trappola": "Costruire il presente su una finzione richiede uno sforzo continuo."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Giudichi con sufficienza il mondo da cui provieni per sentirti più evoluto.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Il disprezzo per le proprie origini è spesso solo vergogna non risolta."
+      },
+      {
+        "testo": "Cancelli ricordi, luoghi e legami precedenti fingendo di essere nato oggi.",
+        "giusta": false,
+        "trappola": "Chi nega le proprie radici resta fragile al primo vento contrario."
       }
     ],
     "autore": "Natalia Ginzburg",
@@ -934,14 +934,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il modo più nobile e fecondo di preparare qualcuno alla vita?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Proteggerlo da ogni fatica o delusione finché non sarà abbastanza forte.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Le piccole virtù» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Natalia Ginzburg significa rinunciare alla propria voce."
+        "trappola": "Chi non incontra mai l'attrito non sviluppa alcuna resistenza."
       },
       {
         "testo": "Trasmettergli il coraggio, la generosità e l'amore per le cose grandi, senza soffocarlo con il solo calcolo.",
@@ -949,9 +944,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Insegnargli a mettere sempre al sicuro sé stesso e i propri risparmi prima di esporsi.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La prudenza eccessiva insegna a difendersi, non a vivere con pienezza."
+      },
+      {
+        "testo": "Lasciarlo sbagliare completamente da solo senza mai offrirgli alcun orientamento.",
+        "giusta": false,
+        "trappola": "Confondi la libertà con l'abbandono educativo."
       }
     ],
     "autore": "Natalia Ginzburg",
@@ -966,14 +966,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede quando tutti tacciono per quieto vivere?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Aspetti la fine della riunione per commentare nei corridoi quanto fosse sbagliata quella scelta.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il conformista» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Alberto Moravia significa rinunciare alla propria voce."
+        "trappola": "Il coraggio nei corridoi non cambia mai le decisioni prese al tavolo."
       },
       {
         "testo": "Il desiderio ossessivo di omologarsi al gruppo è la radice più silenziosa della perdita di coscienza.",
@@ -981,9 +976,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Taci anche tu pensando che se nessuno parla forse il problema non è così grave.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Il silenzio collettivo trasforma un errore evidente in una decisione unanime."
+      },
+      {
+        "testo": "Fai una battuta vaga sperando che qualcun altro raccolga lo spunto ed esponga il dubbio.",
+        "giusta": false,
+        "trappola": "Delegare agli altri la chiarezza lascia il problema irrisolto."
       }
     ],
     "autore": "Alberto Moravia",
@@ -998,24 +998,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come reagisci davanti a un piccolo abuso quotidiano?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Todo modo» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Leonardo Sciascia significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
-      },
-      {
         "testo": "Chi usa gli ideali come paravento per i propri interessi resta prigioniero della propria stessa trappola.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Giustifichi il comportamento dicendo che i ruoli di responsabilità richiedono polso duro.",
+        "giusta": false,
+        "trappola": "Confondere la fermezza con la prepotenza legittima la sopraffazione."
+      },
+      {
+        "testo": "Consoli in privato chi ha subito il torto raccomandandogli però di non reagire.",
+        "giusta": false,
+        "trappola": "Chiedere pazienza alla vittima senza frenare l'abuso perpetua l'ingiustizia."
+      },
+      {
+        "testo": "Abbassi lo sguardo per non attirare su di te l'attenzione di chi comanda.",
+        "giusta": false,
+        "trappola": "La neutralità davanti a un abuso rafforza sempre chi colpisce."
       }
     ],
     "autore": "Leonardo Sciascia",
@@ -1030,24 +1030,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa sblocca subito il muro contro muro?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Il nome della rosa» lascia il dilemma irrisolto."
-      },
-      {
         "testo": "La risata e il dubbio sano sono gli antidoti migliori contro ogni fanatismo che si crede infallibile.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Incalzi l'altro con domande sempre più strette per costringerlo a contraddirsi.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Umberto Eco significa rinunciare alla propria voce."
+        "trappola": "Mettere l'altro all'angolo irrigidisce la difesa invece di aprire la mente."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Abbandoni il tavolo dichiarando che non c'è peggior sordo di chi non vuol sentire.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Chiudere la porta convinti di avere tutta la ragione spegne il pensiero."
+      },
+      {
+        "testo": "Rivendichi la tua esperienza come prova che non hai bisogno di rivedere nulla.",
+        "giusta": false,
+        "trappola": "L'esperienza usata come scudo contro il dubbio diventa dogmatismo."
       }
     ],
     "autore": "Umberto Eco",
@@ -1062,14 +1062,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché guardare in faccia i limiti aiuta invece di frenare?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti ripeti che l'entusiasmo basterà a colmare ogni mancanza pratica lungo il cammino.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il pendolo di Foucault» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Umberto Eco significa rinunciare alla propria voce."
+        "trappola": "L'entusiasmo senza misura trasforma i progetti in castelli di carte."
       },
       {
         "testo": "Vedere trame segrete ovunque è solo un modo per sentirsi importanti evitando la responsabilità quotidiana.",
@@ -1077,9 +1072,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Inizi subito tre iniziative enormi contemporaneamente per sentirti all'altezza del sogno.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Disperdere le forze su troppi fronti garantisce che nessuno arrivi in porto."
+      },
+      {
+        "testo": "Quando emergono i primi ostacoli concreti, accusi la realtà di essere meschina.",
+        "giusta": false,
+        "trappola": "Incolpare i limiti materiali significa rifiutarsi di abitare il mondo reale."
       }
     ],
     "autore": "Umberto Eco",
@@ -1094,24 +1094,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede se quel ruolo cambia domani?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Novecento» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Alessandro Baricco significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
-      },
-      {
         "testo": "Non serve possedere il mondo intero per avere una vita ricca: basta esplorare a fondo lo strumento che hai tra le mani.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Eviti spazi e relazioni in cui il tuo titolo o la tua funzione non contano nulla.",
+        "giusta": false,
+        "trappola": "Temere di valere zero senza etichetta rivela quanto sia fragile la tua identità."
+      },
+      {
+        "testo": "Lavori ancora di più per rendere quel ruolo sempre più centrale e indispensabile.",
+        "giusta": false,
+        "trappola": "Rinforzare l'unica colonna su cui ti reggi aumenta il rischio del crollo."
+      },
+      {
+        "testo": "Giudichi anche il valore delle altre persone in base alla loro posizione professionale.",
+        "giusta": false,
+        "trappola": "Guardare gli altri come funzioni ti impedisce di incontrarli come persone."
       }
     ],
     "autore": "Alessandro Baricco",
@@ -1126,24 +1126,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Sostiene Pereira» lascia il dilemma irrisolto."
+        "trappola": "Vincere una lite umiliando l'altro lascia intatto il muro tra voi."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Antonio Tabucchi significa rinunciare alla propria voce."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
+      },
+      {
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "giusta": false,
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       },
       {
         "testo": "Non è mai troppo tardi per svegliarsi dal torpore dell'abitudine e prendere posizione per ciò che è giusto.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Antonio Tabucchi",
@@ -1158,24 +1158,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Chi resta quando spegni le luci e sei solo?",
     "opzioni": [
       {
+        "testo": "Eviti di esprimere preferenze chiare finché non hai capito cosa pensa la maggioranza.",
+        "giusta": false,
+        "trappola": "Aspettare il vento prima di parlare ti trasforma in una banderuola."
+      },
+      {
+        "testo": "Perfezioni la tua capacità di adattarti a ogni ambiente come un camaleonte impeccabile.",
+        "giusta": false,
+        "trappola": "Piacere a tutti significa non essere riconoscibile per nessuno."
+      },
+      {
+        "testo": "Ti convinci che sia solo intelligenza sociale e flessibilità relazionale.",
+        "giusta": false,
+        "trappola": "La flessibilità senza un centro interiore diventa trasformismo."
+      },
+      {
         "testo": "Cercare di controllare l'immagine che ognuno ha di te è impossibile: sei sempre diverso negli occhi di chi ti guarda.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Uno, nessuno e centomila» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Luigi Pirandello significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Luigi Pirandello",
@@ -1190,24 +1190,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede quando smetti di mentirti?",
     "opzioni": [
       {
+        "testo": "Ti confronti con chi fa ancora meno di te per sentirti comunque a posto.",
+        "giusta": false,
+        "trappola": "Misurarsi al ribasso anestetizza la coscienza."
+      },
+      {
+        "testo": "Rimandi l'inizio a domani con la promessa solenne che recupererai tutto con gli interessi.",
+        "giusta": false,
+        "trappola": "La promessa del recupero futuro serve solo ad assolvere l'inerzia di oggi."
+      },
+      {
+        "testo": "Rendi la giustificazione ancora più raffinata e plausibile per non sentire il disagio.",
+        "giusta": false,
+        "trappola": "Le scuse intelligenti sono le più pericolose perché convincono chi le inventa."
+      },
+      {
         "testo": "La pretesa di frugare a forza nella vita altrui per imporre un'etichetta distrugge il rispetto dovuto al mistero di ogni persona.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Così è (se vi pare)» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Luigi Pirandello significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Luigi Pirandello",
@@ -1222,24 +1222,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "giusta": false,
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
+      },
+      {
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
+        "giusta": false,
+        "trappola": "Vincere una lite umiliando l'altro lascia intatto il muro tra voi."
+      },
+      {
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
+        "giusta": false,
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
+      },
+      {
         "testo": "Analizzare ogni sentimento fino a paralizzarlo impedisce di vivere davvero le stagioni della propria età.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Senilità» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Italo Svevo significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Italo Svevo",
@@ -1254,24 +1254,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «I Malavoglia» lascia il dilemma irrisolto."
+        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Giovanni Verga significa rinunciare alla propria voce."
+        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+      },
+      {
+        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
+        "giusta": false,
+        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
       },
       {
         "testo": "Quando la tempesta colpisce, solo la lealtà reciproca e il lavoro onesto tengono a galla la barca.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Giovanni Verga",
@@ -1286,24 +1286,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
+        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "giusta": false,
+        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+      },
+      {
         "testo": "Quando la passione politica e amorosa non trova sbocco nella realtà, rischia di chiudersi in un vicolo cieco.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Ultime lettere di Jacopo Ortis» lascia il dilemma irrisolto."
+        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Ugo Foscolo significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
       }
     ],
     "autore": "Ugo Foscolo",
@@ -1323,19 +1323,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Operette morali» lascia il dilemma irrisolto."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Giacomo Leopardi significa rinunciare alla propria voce."
+        "trappola": "Vincere una lite umiliando l'altro lascia intatto il muro tra voi."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       }
     ],
     "autore": "Giacomo Leopardi",
@@ -1355,19 +1355,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti accontenti dello stipendio e della tranquillità rinunciando a qualsiasi ricerca personale.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Divina Commedia» lascia il dilemma irrisolto."
+        "trappola": "Scambiare tutta la propria vitalità per la sola sicurezza spegne l'anima."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Cerchi compensazioni costose nel tempo libero per sopportare la noia della settimana.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Dante Alighieri significa rinunciare alla propria voce."
+        "trappola": "Comprare svaghi non cura la mancanza di senso di ciò che fai."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ti lamenti ogni giorno della routine senza però muovere un passo per cambiare.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La lamentela cronica rende sopportabile una gabbia senza aprirla."
       }
     ],
     "autore": "Dante Alighieri",
@@ -1382,24 +1382,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come rafforzi la tua tenuta interiore?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Abbandoni l'impegno dicendoti che evidentemente non faceva per te.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Secretum» lascia il dilemma irrisolto."
+        "trappola": "Confondere la fatica iniziale con la mancanza di vocazione blocca ogni crescita."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti punisci con sensi di colpa inutili ma il giorno dopo ripeti lo stesso schema.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Francesco Petrarca significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Il rimorso senza disciplina è solo un altro giro a vuoto."
       },
       {
         "testo": "Conoscere perfettamente ciò che ci fa bene non basta se non trasformiamo la conoscenza in decisione ferma.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Ti giustifichi dicendo che bisogna sempre ascoltare le proprie emozioni del momento.",
+        "giusta": false,
+        "trappola": "Seguire ogni onda emotiva ti impedisce di costruire qualsiasi rotta."
       }
     ],
     "autore": "Francesco Petrarca",
@@ -1414,24 +1414,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Quando un desiderio ti fa crescere e quando ti rende schiavo?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Gerusalemme liberata» lascia il dilemma irrisolto."
-      },
-      {
         "testo": "Confondere ogni impulso momentaneo con una legge assoluta fa smarrire la rotta.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Svaluti i tuoi traguardi recenti perché c'è sempre qualcuno che ha ottenuto di più.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Torquato Tasso significa rinunciare alla propria voce."
+        "trappola": "Il confronto infinito trasforma ogni conquista in un punto di partenza insoddisfacente."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Rimandi la gratitudine al giorno in cui avrai finalmente raggiunto lo standard ideale.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Chi non sa essere grato oggi non lo sarà nemmeno con il doppio."
+      },
+      {
+        "testo": "Fai una lista di tutto ciò che ti manca per convincerti che solo ottenendolo sarai sereno.",
+        "giusta": false,
+        "trappola": "Finché guardi solo ciò che manca, anche ciò che possiedi diventa invisibile."
       }
     ],
     "autore": "Torquato Tasso",
@@ -1446,24 +1446,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il gesto che cambia subito il clima intorno a te?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti ritiri in disparte lasciando che siano gli altri a sbrogliare il pasticcio.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Le avventure di Pinocchio» lascia il dilemma irrisolto."
+        "trappola": "Sfilarsi nel momento difficile spezza la fiducia del gruppo."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Accetti la versione comoda che è stata solo sfortuna così nessuno resta offeso.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Carlo Collodi significa rinunciare alla propria voce."
+        "trappola": "Assolvere tutti per quieto vivere garantisce che l'errore si ripeta."
+      },
+      {
+        "testo": "Ricostruisci la sequenza dei fatti solo per dimostrare che la tua parte era impeccabile.",
+        "giusta": false,
+        "trappola": "Salvare la propria fedina mentre la barca affonda non aiuta nessuno."
       },
       {
         "testo": "Diventare davvero umani significa smettere di fuggire dalle conseguenze delle proprie scelte.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Carlo Collodi",
@@ -1478,14 +1478,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la mitezza lucida è spesso più forte dell'aggressività?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti chiudi in un atteggiamento freddo e distante per non offrire appigli.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Cuore» lascia il dilemma irrisolto."
+        "trappola": "La freddezza difensiva isola senza proteggere."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Rispondi alle spallate con altre spallate per guadagnarti rispetto sul campo.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Edmondo De Amicis significa rinunciare alla propria voce."
+        "trappola": "Chi vince con la prepotenza resta prigioniero della stessa logica."
       },
       {
         "testo": "I piccoli gesti di rispetto e lealtà verso chi fatica valgono più di qualsiasi medaglia.",
@@ -1493,9 +1493,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Indurisci i modi e alzi i toni per non farti percepire come ingenuo o arrendevole.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Imitare l'arroganza altrui ti fa perdere la tua forza migliore."
       }
     ],
     "autore": "Edmondo De Amicis",
@@ -1510,14 +1510,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Le tigri di Mompracem» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Emilio Salgari significa rinunciare alla propria voce."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       },
       {
         "testo": "La lealtà verso i compagni e la parola data restano sacre anche quando il nemico è schiacciante.",
@@ -1525,9 +1520,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Vincere una lite umiliando l'altro lascia intatto il muro tra voi."
+      },
+      {
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
+        "giusta": false,
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       }
     ],
     "autore": "Emilio Salgari",
@@ -1542,24 +1542,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il gesto che cambia subito il clima intorno a te?",
     "opzioni": [
       {
+        "testo": "Ti ritiri in disparte lasciando che siano gli altri a sbrogliare il pasticcio.",
+        "giusta": false,
+        "trappola": "Sfilarsi nel momento difficile spezza la fiducia del gruppo."
+      },
+      {
         "testo": "Disinteressarsi della comunità non ti rende neutrale: lascia semplicemente il timone ai peggiori.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ricostruisci la sequenza dei fatti solo per dimostrare che la tua parte era impeccabile.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La Repubblica» lascia il dilemma irrisolto."
+        "trappola": "Salvare la propria fedina mentre la barca affonda non aiuta nessuno."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Accetti la versione comoda che è stata solo sfortuna così nessuno resta offeso.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Platone significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Assolvere tutti per quieto vivere garantisce che l'errore si ripeta."
       }
     ],
     "autore": "Platone",
@@ -1574,24 +1574,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa uccide la vitalità di un incontro autentico?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Politica» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Aristotele significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
-      },
-      {
         "testo": "Nessuno basta a sé stesso: la fioritura personale avviene sempre dentro una rete di legami giusti.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Insisti con consigli e correzioni continui convinto di farlo esclusivamente per il suo bene.",
+        "giusta": false,
+        "trappola": "Voler rimodellare l'altro a propria immagine è una forma sottile di possesso."
+      },
+      {
+        "testo": "Ti irriti ogni volta che reagisce in modo diverso da come avresti fatto tu.",
+        "giusta": false,
+        "trappola": "Pretendere che l'altro sia la tua copia uccide la ricchezza dell'incontro."
+      },
+      {
+        "testo": "Tieni il muso finché non adotta le tue abitudini e i tuoi ritmi.",
+        "giusta": false,
+        "trappola": "Il ricatto emotivo piega la superficie ma raffredda il cuore."
       }
     ],
     "autore": "Aristotele",
@@ -1606,19 +1606,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come resti leale senza diventare complice?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Copri l'amico adesso ma poi gli rinfacci il favore ogni volta che ti fa comodo.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Critone» lascia il dilemma irrisolto."
+        "trappola": "Un silenzio comprato avvelena la libertà di entrambi."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Accetti per dimostrare che per te l'amicizia viene prima di qualsiasi regola.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Socrate (in Platone) significa rinunciare alla propria voce."
+        "trappola": "Diventare complice di un torto non è amicizia, è omertà."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Fai finta di non aver capito la situazione per evitare di prendere posizione.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La finta ingenuità è solo una resa silenziosa."
       },
       {
         "testo": "Rispondere al male con altro male ti rende uguale a chi ti ha ferito.",
@@ -1638,24 +1638,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il modo più sano per non perdere te stesso?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Frammenti» lascia il dilemma irrisolto."
-      },
-      {
         "testo": "Spogliarsi del superfluo e delle convenzioni vuote mostra quanto poco serva per essere liberi.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti adegui al gergo e alle pose del gruppo per non sembrare fuori posto.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Diogene di Sinope significa rinunciare alla propria voce."
+        "trappola": "Indossare la maschera della stanza ti fa dimenticare la tua voce."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Gareggi anche tu a chi sfoggia la battuta più brillante o l'opinione più esclusiva.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Entrare nella gara delle apparenze ti rende prigioniero del pubblico."
+      },
+      {
+        "testo": "Rimani in silenzio disprezzando tutti interiormente senza mai dire ciò che pensi.",
+        "giusta": false,
+        "trappola": "Il disprezzo muto non è autenticità, ma orgoglio nascosto."
       }
     ],
     "autore": "Diogene di Sinope",
@@ -1670,24 +1670,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come cambia una relazione quando ascolti per capire e non per rispondere?",
     "opzioni": [
       {
+        "testo": "Prepari già la tua risposta mentre l'altro è ancora a metà della prima frase.",
+        "giusta": false,
+        "trappola": "Chi prepara la replica smette di ascoltare prima ancora di capire."
+      },
+      {
         "testo": "Chi parla continuamente perde l'occasione di imparare da ciò che accade intorno.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Riporti subito il discorso su un episodio simile capitato a te.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Frammenti» lascia il dilemma irrisolto."
+        "trappola": "Spostare il riflettore su di sé chiude lo spazio all'altro."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Annuisci in fretta per chiudere il suo turno e poter finalmente dire la tua.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Zenone di Cizio significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La fretta di parlare trasforma il dialogo in una gara di velocità."
       }
     ],
     "autore": "Zenone di Cizio",
@@ -1702,24 +1702,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il gesto che ti lascia davvero libero?",
     "opzioni": [
       {
+        "testo": "Lo tieni in silenzio pensando che se non se ne sono accorti è un loro problema.",
+        "giusta": false,
+        "trappola": "Approfittare di una svista altrui intacca la tua integrità anche se nessuno lo sa."
+      },
+      {
         "testo": "La competizione onesta tira fuori il meglio; l'inganno svuota il valore della vittoria.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Lo consideri una piccola compensazione per tutte le volte in cui hai ricevuto meno.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Frammenti» lascia il dilemma irrisolto."
+        "trappola": "Usare i torti passati per giustificare una scorrettezza oggi ti mette dalla parte del torto."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Aspetti qualche giorno: se nessuno reclama, allora significa che puoi tenerlo.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Crisippo significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Mettere una scadenza all'onestà è solo un alibi per trattenere ciò che non è tuo."
       }
     ],
     "autore": "Crisippo",
@@ -1734,9 +1734,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il primo nemico dell'intelligenza viva?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ascolti solo le fonti che confermano esattamente ciò che pensi già.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Vite parallele» lascia il dilemma irrisolto."
+        "trappola": "Cercare solo conferme trasforma le tue idee in una prigione."
       },
       {
         "testo": "Accumulare nozioni senza spirito critico non produce saggezza.",
@@ -1744,14 +1744,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti irriti se qualcuno pone una domanda semplice che mette in discussione le tue certezze.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Plutarco significa rinunciare alla propria voce."
+        "trappola": "La sicurezza che teme le domande è solo dogmatismo."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ripeti le stesse formule collaudate liquidando ogni novità come inutile.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Quando smetti di interrogare la realtà, la conoscenza diventa abitudine morta."
       }
     ],
     "autore": "Plutarco",
@@ -1766,24 +1766,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come proteggi la tua lucidità quando la salita non finisce?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Cedi allo scoraggiamento convinto che se non si è ancora risolta non si risolverà mai.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La consolazione della filosofia» lascia il dilemma irrisolto."
+        "trappola": "Confondere la durata della prova con la sua impossibilità spegne la tenacia."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Cerchi una via d'uscita frettolosa pur di interrompere subito la fatica.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Boèzio significa rinunciare alla propria voce."
+        "trappola": "La fretta di uscire dalla salita spesso fa perdere tutto il cammino fatto."
+      },
+      {
+        "testo": "Spingi al massimo consumando tutte le energie subito pur di farla finita.",
+        "giusta": false,
+        "trappola": "Bruciare tutte le riserve all'inizio ti lascia senza forze nel tratto decisivo."
       },
       {
         "testo": "La vera ricchezza è ciò che non puoi perdere nemmeno in un naufragio.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Boèzio",
@@ -1798,24 +1798,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come si allena il buon senso pratico?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Cerchi di rimediare con un secondo gesto altrettanto frettoloso.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Somma teologica» lascia il dilemma irrisolto."
+        "trappola": "Aggiungere fretta alla fretta complica ulteriormente il nodo."
+      },
+      {
+        "testo": "Ti giustifichi dicendo che sei una persona spontanea e che non sai trattenerti.",
+        "giusta": false,
+        "trappola": "Chiamare spontaneità l'incapacità di governare l'impulso evita di crescere."
+      },
+      {
+        "testo": "Dai la colpa a chi ti ha provocato per aver scatenato la tua reazione.",
+        "giusta": false,
+        "trappola": "Finché dai agli altri il telecomando delle tue reazioni, non sei libero."
       },
       {
         "testo": "Agire bene richiede di unire buone intenzioni e analisi lucida delle circostanze concrete.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Tommaso d'Aquino significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Tommaso d'Aquino",
@@ -1830,9 +1830,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede se riesci a riderci sopra per primo?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Scarichi il nervosismo su chi ti capita a tiro nei minuti successivi.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Elogio della follia» lascia il dilemma irrisolto."
+        "trappola": "Contagiare gli altri con il proprio malumore moltiplica un fastidio minuscolo."
       },
       {
         "testo": "Un pizzico di autoironia salva dal fanatismo e dalla rigidità morale.",
@@ -1840,14 +1840,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Interpreti il contrattempo come il segnale che tutta la giornata andrà storta.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Erasmo da Rotterdam significa rinunciare alla propria voce."
+        "trappola": "Trasformare un dettaglio in una profezia negativa ti rende cieco al resto del giorno."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Continui a ripensare all'incidente cercando di capire come avresti potuto evitarlo.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Ruminare su un piccolo intoppo gli regala il potere di divorare ore preziose."
       }
     ],
     "autore": "Erasmo da Rotterdam",
@@ -1862,24 +1862,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è l'ordine giusto delle priorità?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Misuri i tuoi progressi solo dal saldo e dai beni acquisiti nell'ultimo anno.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Utopia» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Tommaso Moro significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Contare solo ciò che si accumula fa dimenticare ciò che si consuma."
       },
       {
         "testo": "Ridurre ogni valore umano al prezzo di mercato impoverisce la convivenza.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Ti convinci che lo stai facendo esclusivamente per garantire sicurezza futura a chi ami.",
+        "giusta": false,
+        "trappola": "Offrire beni materiali togliendo la tua presenza viva è uno scambio in perdita."
+      },
+      {
+        "testo": "Pensi che basterà rallentare tra qualche anno quando avrai raggiunto una certa cifra.",
+        "giusta": false,
+        "trappola": "La cifra che basta non arriva mai se il bisogno di accumulare nasce dall'ansia."
       }
     ],
     "autore": "Tommaso Moro",
@@ -1894,24 +1894,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il primo passo verso la chiarezza?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti fidi del primo sentito dire perché conferma esattamente ciò che sospettavi.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Novum Organum» lascia il dilemma irrisolto."
+        "trappola": "Le voci che confermano i nostri pregiudizi sembrano sempre verosimili."
+      },
+      {
+        "testo": "Agisci subito per non restare indietro rispetto a chi ha già preso posizione.",
+        "giusta": false,
+        "trappola": "Muoversi in fretta su basi false porta solo più lontano dalla soluzione."
+      },
+      {
+        "testo": "Chiedi parere a chi la pensa come te invece di controllare i fatti concreti.",
+        "giusta": false,
+        "trappola": "Condividere un'impressione in gruppo non la trasforma in realtà."
       },
       {
         "testo": "Per governare gli eventi bisogna prima liberare la mente dai pregiudizi e osservare i fatti.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Francesco Bacone significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Francesco Bacone",
@@ -1926,14 +1926,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la ricerca della sicurezza totale paralizza?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Resti fermo al punto di partenza analizzando all'infinito gli scenari peggiori.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Leviatano» lascia il dilemma irrisolto."
+        "trappola": "Chi guarda solo i precipizi non muove mai un passo sul sentiero."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Aspetti di aver eliminato ogni margine di rischio prima di impegnarti.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Thomas Hobbes significa rinunciare alla propria voce."
+        "trappola": "Nella vita reale la garanzia totale esiste solo nell'immobilità."
       },
       {
         "testo": "Quando manca la fiducia reciproca, la paura spinge tutti a difendersi preventivamente.",
@@ -1941,9 +1941,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Chiedi rassicurazioni continue agli altri per scaricare il peso della scelta.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Cercare garanti esterni non elimina l'incertezza, rimanda solo la responsabilità."
       }
     ],
     "autore": "Thomas Hobbes",
@@ -1958,9 +1958,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come accogli un'osservazione utile senza ferire l'ego?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Accetti il suggerimento a denti stretti ma poi prendi le distanze da chi te l'ha dato.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Saggio sull'intelletto umano» lascia il dilemma irrisolto."
+        "trappola": "Non perdonare a qualcuno di averci visto giusto impoverisce il carattere."
+      },
+      {
+        "testo": "Ti irrigidisci sulla difensiva cercando un errore nel suo ragionamento.",
+        "giusta": false,
+        "trappola": "Difendere l'ego a scapito della chiarezza ti lascia con il punto cieco."
       },
       {
         "testo": "Riconoscere i limiti di ciò che sappiamo ci protegge dall'arroganza dogmatica.",
@@ -1968,14 +1973,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Minimizzi l'osservazione ricordandogli quanta esperienza hai accumulato tu.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in John Locke significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Usare l'anzianità come scudo ti impedisce di vedere ciò che hai davanti."
       }
     ],
     "autore": "John Locke",
@@ -1990,24 +1990,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come integri lucidità e sensibilità?",
     "opzioni": [
       {
+        "testo": "Giudichi deboli le persone che mostrano commozione o vulnerabilità.",
+        "giusta": false,
+        "trappola": "Scambiare la freddezza per forza chiude la porta all'umanità."
+      },
+      {
         "testo": "Ignorare le emozioni credendosi puri calcolatori impedisce di capire cosa muove davvero le nostre scelte.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Reprimi ogni emozione cercando di affrontare relazioni e scelte come un calcolo freddo.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Trattato sulla natura umana» lascia il dilemma irrisolto."
+        "trappola": "Tagliare via il sentire ti rende cieco a ciò che dà valore alle scelte."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Analizzi i sentimenti dall'esterno senza mai permetterti di viverli davvero.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in David Hume significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Spiegare l'acqua non disseta chi ha sete."
       }
     ],
     "autore": "David Hume",
@@ -2022,24 +2022,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a chiederti quale peso sta portando in silenzio?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Teoria dei sentimenti morali» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Adam Smith significa rinunciare alla propria voce."
-      },
-      {
         "testo": "La capacità di mettersi nei panni dell'altro è il vero collante di ogni società civile.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "La etichetti definitivamente come una persona difficile e prendi le distanze.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Un'etichetta rapida evita la fatica di capire ma impoverisce il legame."
+      },
+      {
+        "testo": "Rispondi con altrettanta durezza per metterla subito al suo posto.",
+        "giusta": false,
+        "trappola": "Raddoppiare l'asprezza chiude ogni varco alla comprensione."
+      },
+      {
+        "testo": "Ti offendi personalmente trasformando il suo sfogo in un attacco contro di te.",
+        "giusta": false,
+        "trappola": "Prendere tutto sul personale ti rende prigioniero degli umori altrui."
       }
     ],
     "autore": "Adam Smith",
@@ -2054,14 +2054,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come reagisci davanti a un piccolo abuso quotidiano?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Giustifichi il comportamento dicendo che i ruoli di responsabilità richiedono polso duro.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Lo spirito delle leggi» lascia il dilemma irrisolto."
+        "trappola": "Confondere la fermezza con la prepotenza legittima la sopraffazione."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Consoli in privato chi ha subito il torto raccomandandogli però di non reagire.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Montesquieu significa rinunciare alla propria voce."
+        "trappola": "Chiedere pazienza alla vittima senza frenare l'abuso perpetua l'ingiustizia."
       },
       {
         "testo": "Nessun essere umano è abbastanza virtuoso da poter esercitare un potere senza controlli.",
@@ -2069,9 +2069,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Abbassi lo sguardo per non attirare su di te l'attenzione di chi comanda.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La neutralità davanti a un abuso rafforza sempre chi colpisce."
       }
     ],
     "autore": "Montesquieu",
@@ -2086,14 +2086,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa cambia se provi a guardare la scena da un'altra angolazione?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il nipote di Rameau» lascia il dilemma irrisolto."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Denis Diderot significa rinunciare alla propria voce."
+        "trappola": "Vincere una lite umiliando l'altro lascia intatto il muro tra voi."
       },
       {
         "testo": "Il confronto tra l'ideale e il cinismo realista costringe a guardare la realtà senza ipocrisie.",
@@ -2101,9 +2101,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       }
     ],
     "autore": "Denis Diderot",
@@ -2118,24 +2118,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa distingue una persona affidabile da chi segue solo l'umore?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti convinci che cambiare idea all'ultimo sia segno di libertà e flessibilità.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Critica della ragion pratica» lascia il dilemma irrisolto."
+        "trappola": "Confondere l'incostanza con la libertà rende inaffidabili."
+      },
+      {
+        "testo": "Cerchi una scusa credibile per rimandare all'ultimo momento senza fare brutta figura.",
+        "giusta": false,
+        "trappola": "Trovare scuse comode erode silenziosamente la fiducia in te stesso."
+      },
+      {
+        "testo": "Lo fai di malavoglia lamentandoti continuamente della fatica che ti costa.",
+        "giusta": false,
+        "trappola": "Lamentarsi mentre si mantiene una parola ne svuota la dignità."
       },
       {
         "testo": "La vera libertà non è fare ciò che capita, ma darsi una legge giusta e rispettarla.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Immanuel Kant significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Immanuel Kant",
@@ -2150,9 +2150,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché l'esempio concreto vale più di mille discorsi?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ripeti che inizierai a impegnarti seriamente solo quando l'ambiente sarà più giusto.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La missione del dotto» lascia il dilemma irrisolto."
+        "trappola": "Aspettare che il mondo cambi per primo è il modo più comodo per restare fermi."
       },
       {
         "testo": "Il pensiero che non si traduce in impegno concreto nel mondo resta sterile.",
@@ -2160,14 +2160,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti senti giustificato a restare passivo finché chi ha più potere non dà il buon esempio.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Johann Gottlieb Fichte significa rinunciare alla propria voce."
+        "trappola": "Delegare l'iniziativa morale significa rinunciare alla propria responsabilità."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Accumuli critiche su ciò che non funziona intorno a te senza proporre nulla.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Indicare i difetti altrui non costruisce un millimetro di alternativa."
       }
     ],
     "autore": "Johann Gottlieb Fichte",
@@ -2187,19 +2187,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Porti a tavola tensione e irritabilità rispondendo male a chi non c'entra nulla.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Parerga e paralipomena» lascia il dilemma irrisolto."
+        "trappola": "Far pagare agli affetti i conti dell'ufficio danneggia ciò che hai di più caro."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Parli esclusivamente di quel problema per tutta la serata usando gli altri come sfogo.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Arthur Schopenhauer significa rinunciare alla propria voce."
+        "trappola": "Trasformare chi ti ama in un cestino delle ansie consuma il rapporto."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Continui a controllare email e messaggi anche durante la cena per non perdere il filo.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Restare reperibili sempre rende assenti dove conta davvero."
       }
     ],
     "autore": "Arthur Schopenhauer",
@@ -2214,24 +2214,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Quando vale la pena rischiare con lucidità?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Aspetti finché non avrai la prova matematica che tutto andrà liscio.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Timore e tremore» lascia il dilemma irrisolto."
+        "trappola": "Le svolte vere non offrono mai garanzie anticipate."
+      },
+      {
+        "testo": "Resti nella situazione attuale pur sapendo che ti sta spegnendo.",
+        "giusta": false,
+        "trappola": "Preferire un disagio conosciuto a un rischio vivo è una resa lenta."
+      },
+      {
+        "testo": "Chiedi a tutti cosa farebbero al posto tuo per non assumerti la responsabilità del salto.",
+        "giusta": false,
+        "trappola": "Nessuno può compiere al posto tuo il passo che ti riguarda."
       },
       {
         "testo": "Le scelte decisive della vita richiedono un salto di fiducia che nessun calcolo può garantire.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Søren Kierkegaard significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Søren Kierkegaard",
@@ -2246,24 +2246,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché ogni creazione nasce da un tentativo imperfetto?",
     "opzioni": [
       {
+        "testo": "Aspetti di aver studiato tutta la teoria prima di fare il primo tentativo pratico.",
+        "giusta": false,
+        "trappola": "Rimandare la pratica per paura dell'imperfezione blocca l'apprendimento."
+      },
+      {
+        "testo": "Fingi disinteresse per l'attività così nessuno potrà dire che hai provato e sbagliato.",
+        "giusta": false,
+        "trappola": "Proteggere l'orgoglio fingendo distacco ti priva di ogni conquista."
+      },
+      {
         "testo": "La paura del disordine e dell'imprevisto spegne ogni possibilità di creare qualcosa di nuovo.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti ritiri appena ti accorgi che i primi risultati non sono all'altezza delle aspettative.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Così parlò Zarathustra» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Friedrich Nietzsche significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Pretendere la maestria al primo giorno condanna all'abbandono."
       }
     ],
     "autore": "Friedrich Nietzsche",
@@ -2278,19 +2278,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché non bisogna mai assuefarsi all'ingiustizia?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti adatti alle nuove regole scomode cercando di ritagliarti un piccolo spazio tranquillo.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Al di là del bene e del male» lascia il dilemma irrisolto."
+        "trappola": "Cercare comodità dentro una stortura ti rende partecipe del sistema."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Aspetti che la situazione diventi insopportabile prima di far sentire la tua voce.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Friedrich Nietzsche significa rinunciare alla propria voce."
+        "trappola": "Quando il sopruso è ormai consolidato, opporsi costa dieci volte di più."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ti dici che in fondo non vale la pena guastarsi il sangue per cose piccole.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "L'assuefazione nasce proprio dal considerare trascurabili i primi cedimenti."
       },
       {
         "testo": "Combattere un abuso con gli stessi metodi dell'abuso ti trasforma in ciò che combatti.",
@@ -2310,24 +2310,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Dove sta finendo davvero il tuo tempo?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Pianifichi una lista ancora più fitta per domani sperando di recuperare tempo.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Saggio sui dati immediati della coscienza» lascia il dilemma irrisolto."
+        "trappola": "Aumentare la velocità senza cambiare direzione moltiplica solo la stanchezza."
+      },
+      {
+        "testo": "Ti butti sul divano scorrendo contenuti passivi fino a notte fonda.",
+        "giusta": false,
+        "trappola": "Il recupero passivo non restituisce il senso a una giornata dispersa."
+      },
+      {
+        "testo": "Dai la colpa alle troppe richieste altrui che non ti lasciano mai respirare.",
+        "giusta": false,
+        "trappola": "Finché non scegli tu le priorità, la tua agenda apparterrà sempre agli altri."
       },
       {
         "testo": "Un'ora intensa vale più di dieci anni vissuti col pilota automatico.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Henri Bergson significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Henri Bergson",
@@ -2342,24 +2342,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come risvegli lo sguardo sulle cose semplici?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Cammini a testa bassa ripassando mentalmente problemi e preoccupazioni.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La crisi delle scienze europee» lascia il dilemma irrisolto."
+        "trappola": "Portare l'ufficio dentro ogni passo ti rende cieco al mondo vivo."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Inserisci cuffie e automatismi per far passare il tragitto il più in fretta possibile.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Edmund Husserl significa rinunciare alla propria voce."
+        "trappola": "Anestetizzare i tragitti quotidiani restringe la tua vita solo alle mete."
+      },
+      {
+        "testo": "Pensi che in un percorso già visto mille volte non ci sia più nulla da scoprire.",
+        "giusta": false,
+        "trappola": "La noia non sta nelle strade ripetute, ma nello sguardo spento."
       },
       {
         "testo": "Smetti di guardare la realtà attraverso etichette preconfezionate e osservala direttamente.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Edmund Husserl",
@@ -2374,24 +2374,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come torni a fidarti del tuo giudizio interiore?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Essere e tempo» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Martin Heidegger significa rinunciare alla propria voce."
-      },
-      {
         "testo": "Puoi vivere ripetendo ciò che «si dice» e «si fa», oppure assumerti la responsabilità della tua unicità.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ti esalti al primo elogio e crolli al minimo appunto ricevuto.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Affidare la tua stabilità all'umore del pubblico ti rende perennemente instabile."
+      },
+      {
+        "testo": "Cerchi un gruppo di persone che ti dia sempre ragione senza mai contraddirti.",
+        "giusta": false,
+        "trappola": "Circondarsi di specchi compiacenti addormenta la crescita."
+      },
+      {
+        "testo": "Modifichi subito ciò che fai per ottenere più consensi e ridurre le critiche.",
+        "giusta": false,
+        "trappola": "Inseguire l'applauso ti trasforma nell'eco delle aspettative altrui."
       }
     ],
     "autore": "Martin Heidegger",
@@ -2406,9 +2406,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa succede quando scrivi o dici con precisione qual è il vero nodo?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Continui a rimuginare in cerchio sperando che la soluzione appaia da sola.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Tractatus logico-philosophicus» lascia il dilemma irrisolto."
+        "trappola": "Il pensiero confuso che gira su sé stesso alimenta solo l'ansia."
+      },
+      {
+        "testo": "Prendi una decisione affrettata pur di liberarti immediatamente dell'incertezza.",
+        "giusta": false,
+        "trappola": "Agire alla cieca per impazienza crea problemi più grandi del dubbio."
       },
       {
         "testo": "Imparare a nominare con precisione ciò che provi e pensi allarga la tua libertà.",
@@ -2416,14 +2421,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Cerchi subito una distrazione esterna per non sentire il peso della confusione.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Ludwig Wittgenstein significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Spostare lo sguardo non ordina ciò che resta aggrovigliato dentro."
       }
     ],
     "autore": "Ludwig Wittgenstein",
@@ -2438,24 +2438,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la chiarezza gentile è una forma di rispetto?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Ricerche filosofiche» lascia il dilemma irrisolto."
-      },
-      {
         "testo": "Molti conflitti nascono perché usiamo le stesse parole intendendo pratiche completamente diverse.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Quando l'altro fraintende, ti irriti pensando che sia poco attento o sensibile.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Ludwig Wittgenstein significa rinunciare alla propria voce."
+        "trappola": "Pretendere che gli altri leggano nel pensiero genera solo ingiustizie."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Lasci cadere l'argomento convinto che se non lo capisce da solo non vale la pena.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Rinunciare alla chiarezza per orgoglio chiude il dialogo."
+      },
+      {
+        "testo": "Usi giri di parole sempre più complessi per non esporti con una richiesta diretta.",
+        "giusta": false,
+        "trappola": "L'ambiguità protettiva impedisce un'intesa limpida."
       }
     ],
     "autore": "Ludwig Wittgenstein",
@@ -2470,24 +2470,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché lasciare spazio allo stupore rinnova i legami?",
     "opzioni": [
       {
+        "testo": "La incaselli in poche caratteristiche fisse smettendo di ascoltarla con curiosità.",
+        "giusta": false,
+        "trappola": "Chiudere qualcuno in un'etichetta uccide la parte viva dell'incontro."
+      },
+      {
         "testo": "Una mente matura cerca ciò che può smentire le proprie ipotesi, non solo ciò che le conferma.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Anticipi sempre le sue reazioni convinto che non possa più sorprenderti.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La società aperta e i suoi nemici» lascia il dilemma irrisolto."
+        "trappola": "Quando smetti di aspettarti novità dall'altro, il rapporto si spegne."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Interpreti ogni suo gesto nuovo alla luce dei suoi errori passati.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Karl Popper significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Guardare il presente solo attraverso lo specchio retrovisore blocca ogni crescita."
       }
     ],
     "autore": "Karl Popper",
@@ -2507,19 +2507,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Partecipi a metà, cercando di trarre il vantaggio senza esporti troppo.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «La banalità del male» lascia il dilemma irrisolto."
+        "trappola": "La complicità prudente pesa sulla coscienza quanto l'abuso aperto."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Ti adegui anche tu pensando che restare onesti da soli sia solo ingenuità.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Hannah Arendt significa rinunciare alla propria voce."
+        "trappola": "Chiamare furbizia il conformismo morale cancella la tua integrità."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Taci e fai finta di non vedere per non passare per quello che rovina l'armonia.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Il silenzio complice legittima la scorrettezza come nuova regola."
       }
     ],
     "autore": "Hannah Arendt",
@@ -2534,14 +2534,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Vita activa» lascia il dilemma irrisolto."
+        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Hannah Arendt significa rinunciare alla propria voce."
+        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
       },
       {
         "testo": "Senza la capacità di perdonare resteremmo incatenati per sempre alle conseguenze irreversibili del passato.",
@@ -2549,9 +2549,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
       }
     ],
     "autore": "Hannah Arendt",
@@ -2571,19 +2571,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Alzi il tono della voce e accumuli argomenti solo per schiacciare l'interlocutore.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il secondo sesso» lascia il dilemma irrisolto."
+        "trappola": "Vincere una lite umiliando l'altro lascia intatto il muro tra voi."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Chiudi brusco il discorso dichiarando che tanto è inutile parlare con chi non capisce.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Simone de Beauvoir significa rinunciare alla propria voce."
+        "trappola": "Scappare dal confronto per orgoglio ti priva di qualsiasi scoperta."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Dai ragione formalmente all'altro solo per far finire la discussione al più presto.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "La finta resa spegne il dialogo e lascia covare l'incomprensione."
       }
     ],
     "autore": "Simone de Beauvoir",
@@ -2598,24 +2598,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è il gesto che cambia subito il clima intorno a te?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti ritiri in disparte lasciando che siano gli altri a sbrogliare il pasticcio.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «L'esistenzialismo è un umanismo» lascia il dilemma irrisolto."
+        "trappola": "Sfilarsi nel momento difficile spezza la fiducia del gruppo."
+      },
+      {
+        "testo": "Ricostruisci la sequenza dei fatti solo per dimostrare che la tua parte era impeccabile.",
+        "giusta": false,
+        "trappola": "Salvare la propria fedina mentre la barca affonda non aiuta nessuno."
+      },
+      {
+        "testo": "Accetti la versione comoda che è stata solo sfortuna così nessuno resta offeso.",
+        "giusta": false,
+        "trappola": "Assolvere tutti per quieto vivere garantisce che l'errore si ripeta."
       },
       {
         "testo": "Anche quando dai la colpa alle circostanze, sei sempre tu a scegliere come rispondere.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Jean-Paul Sartre significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Jean-Paul Sartre",
@@ -2630,24 +2630,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come proteggi la tua lucidità quando la salita non finisce?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Il mito di Sisifo» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Albert Camus significa rinunciare alla propria voce."
-      },
-      {
         "testo": "Riconoscere che la vita non ha un senso preconfezionato ti rende libero di darle il tuo.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Cedi allo scoraggiamento convinto che se non si è ancora risolta non si risolverà mai.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Confondere la durata della prova con la sua impossibilità spegne la tenacia."
+      },
+      {
+        "testo": "Spingi al massimo consumando tutte le energie subito pur di farla finita.",
+        "giusta": false,
+        "trappola": "Bruciare tutte le riserve all'inizio ti lascia senza forze nel tratto decisivo."
+      },
+      {
+        "testo": "Cerchi una via d'uscita frettolosa pur di interrompere subito la fatica.",
+        "giusta": false,
+        "trappola": "La fretta di uscire dalla salita spesso fa perdere tutto il cammino fatto."
       }
     ],
     "autore": "Albert Camus",
@@ -2662,9 +2662,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Perché la freddezza del giudizio chiude ogni possibilità di incontro?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Passi oltre soddisfatto della tua analisi, convinto che sia giusto che paghi i suoi errori.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Totalità e infinito» lascia il dilemma irrisolto."
+        "trappola": "La freddezza morale trasforma la giustizia in aridità."
+      },
+      {
+        "testo": "Gli fai subito una lezione su cosa avrebbe dovuto fare per evitare quel guaio.",
+        "giusta": false,
+        "trappola": "Spiegare a chi cade perché è scivolato non gli tende la mano."
       },
       {
         "testo": "Guardare davvero un altro essere umano impedisce di trattarlo come un numero o un ostacolo.",
@@ -2672,14 +2677,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Prendi le distanze per paura che la sua fragilità possa rallentare anche te.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Emmanuel Lévinas significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Chi fugge ogni vulnerabilità altrui resta solo quando tocca a lui."
       }
     ],
     "autore": "Emmanuel Lévinas",
@@ -2694,24 +2694,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Il principio responsabilità» lascia il dilemma irrisolto."
+        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Hans Jonas significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
       },
       {
         "testo": "La nostra responsabilità oggi si estende anche a chi verrà dopo di noi.",
         "giusta": true,
         "trappola": ""
+      },
+      {
+        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "giusta": false,
+        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
       }
     ],
     "autore": "Hans Jonas",
@@ -2731,19 +2731,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti affidi completamente allo strumento automatico anche nelle scelte più delicate.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «L'uomo è antiquato» lascia il dilemma irrisolto."
+        "trappola": "Delegare il giudizio agli automatismi riduce la tua libertà."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "La adotti senza pensarci convinto che risparmiare sforzo sia sempre un guadagno.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Günther Anders significa rinunciare alla propria voce."
+        "trappola": "Ogni capacità che smetti di esercitare si atrofizza in silenzio."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Pensi di poter sempre tornare a fare da solo quando vorrai.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Quando perdi l'allenamento, tornare autonomi diventa molto più duro."
       }
     ],
     "autore": "Günther Anders",
@@ -2758,24 +2758,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Cosa distingue un rapporto maturo da un'infatuazione passeggera?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Modernità liquida» lascia il dilemma irrisolto."
-      },
-      {
         "testo": "Trattare gli affetti come beni usa e getta lascia tutti più soli e insicuri.",
         "giusta": true,
         "trappola": ""
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Fingi che vada tutto bene evitando ogni argomento delicato pur di mantenere una calma apparente.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Zygmunt Bauman significa rinunciare alla propria voce."
+        "trappola": "La pace costruita sul non detto accumula distanza silenziosa."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Elenchi all'altro tutti i suoi difetti aspettando che sia lui a cambiare per primo.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Chiedere all'altro di fare tutta la strada blocca il dialogo sul nascere."
+      },
+      {
+        "testo": "Chiudi bruscamente il rapporto convincendoti che se c'è attrito significa che non era quello giusto.",
+        "giusta": false,
+        "trappola": "Scambiare la prima crisi per incompatibilità impedisce a qualsiasi legame di maturare."
       }
     ],
     "autore": "Zygmunt Bauman",
@@ -2790,24 +2790,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Qual è la mossa più intelligente per sbloccare la situazione?",
     "opzioni": [
       {
+        "testo": "Aumenti ancora di più l'intensità dello stesso sforzo convinto che prima o poi cederà.",
+        "giusta": false,
+        "trappola": "Spingere più forte contro una porta che si apre tirando consuma solo energie."
+      },
+      {
+        "testo": "Abbandoni il campo con stizza lasciando la questione appesa a metà.",
+        "giusta": false,
+        "trappola": "Fuggire per frustrazione lascia il nodo intatto per la prossima volta."
+      },
+      {
+        "testo": "Ti lamenti che il problema è irrisolvibile e che gli altri non collaborano.",
+        "giusta": false,
+        "trappola": "Dichiarare impossibile ciò che non hai ancora provato ad affrontare diversamente è un alibi."
+      },
+      {
         "testo": "L'ossessione della prestazione continua esaurisce l'anima più di qualsiasi divieto.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «La società della stanchezza» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Byung-Chul Han significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Byung-Chul Han",
@@ -2822,24 +2822,24 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come puoi allargare lo sguardo per ridimensionare il peso del momento?",
     "opzioni": [
       {
+        "testo": "Giuri a te stesso che non ti fiderai mai più di nessuno per non rischiare ancora.",
+        "giusta": false,
+        "trappola": "Trasformare una delusione in una legge universale ti chiude al futuro."
+      },
+      {
+        "testo": "Ti chiudi nella stanza a rimuginare su ogni dettaglio di ciò che è andato storto.",
+        "giusta": false,
+        "trappola": "Riguardare all'infinito la ferita impedisce allo sguardo di vedere l'orizzonte."
+      },
+      {
+        "testo": "Cerchi subito una distrazione frenetica per non sentire il peso della sconfitta.",
+        "giusta": false,
+        "trappola": "Coprire il dolore senza attraversarlo lo lascia intatto sotto la superficie."
+      },
+      {
         "testo": "Anche quando ti tolgono tutto, resta intatta l'ultima libertà umana: scegliere il proprio atteggiamento.",
         "giusta": true,
         "trappola": ""
-      },
-      {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
-        "giusta": false,
-        "trappola": "La fuga impulsiva in «Uno psicologo nei lager» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Viktor Frankl significa rinunciare alla propria voce."
-      },
-      {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
-        "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
       }
     ],
     "autore": "Viktor Frankl",
@@ -2854,14 +2854,9 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
     "domanda": "Come ricuci questa distanza?",
     "opzioni": [
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Sfoghi ciò che pensi davvero solo in anonimato o con estranei.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «Avere o essere?» lascia il dilemma irrisolto."
-      },
-      {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
-        "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Erich Fromm significa rinunciare alla propria voce."
+        "trappola": "Esprimersi solo nell'ombra non ricuce la frattura nella tua vita reale."
       },
       {
         "testo": "Fondare la propria sicurezza sul possesso rende schiavi della paura di perdere.",
@@ -2869,9 +2864,14 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Ti convinci che sia normale tenere separati il mondo interiore e la vita sociale.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "Una divisione cronica tra dentro e fuori logora l'energia vitale."
+      },
+      {
+        "testo": "Perfezioni la recita esterna per evitare qualsiasi conflitto con l'ambiente.",
+        "giusta": false,
+        "trappola": "Più la maschera funziona, più ti senti estraneo a te stesso."
       }
     ],
     "autore": "Erich Fromm",
@@ -2891,19 +2891,19 @@ window.CARTE_BIVIO = (window.CARTE_BIVIO || []).concat([
         "trappola": ""
       },
       {
-        "testo": "Cercare una via di fuga immediata per evitare il confronto diretto con il problema.",
+        "testo": "Ti chiudi in un silenzio offeso aspettando che l'altro capisca da solo dove ha sbagliato.",
         "giusta": false,
-        "trappola": "La fuga impulsiva in «L'arte di amare» lascia il dilemma irrisolto."
+        "trappola": "Il mutismo punitivo trasforma un bisogno legittimo in un indovinello crudele."
       },
       {
-        "testo": "Delegare la decisione alle convenzioni del gruppo pur di non esporti in prima persona.",
+        "testo": "Accumuli delusione in silenzio finché un piccolo dettaglio non fa esplodere tutto.",
         "giusta": false,
-        "trappola": "Affidarsi al conformismo sociale in Erich Fromm significa rinunciare alla propria voce."
+        "trappola": "Tacere per mesi e poi presentare il conto tutto insieme distrugge la fiducia."
       },
       {
-        "testo": "Fingere che la difficoltà non esista, sperando che il tempo la dissolva da sola.",
+        "testo": "Lanci frecciatine indirette sperando che colga il segnale senza dover chiedere.",
         "giusta": false,
-        "trappola": "Negare l'evidenza del nodo critico non lo scioglie, lo rende più pesante."
+        "trappola": "I messaggi obliqui generano solo difese e malintesi."
       }
     ],
     "autore": "Erich Fromm",
